@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/InfiniteMatrix/Textures/20mm_Normal.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/InfiniteMatrix/Materials/SpaceBullet.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/InfiniteMatrix/Meshes/20mm.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset"
+			]
+		}
+	]
+}
