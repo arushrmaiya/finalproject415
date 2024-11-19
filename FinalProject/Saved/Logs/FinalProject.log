@@ -1513,3 +1513,132 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.19-23.49.12:676][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2024.11.19-23.49.12:679][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
 [2024.11.19-23.49.12:750][104]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: ================================================
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Total job queries 336, among them cache hits 96 (28.57%), DDC hits 208 (61.90%), Duplicates 4 (1.19%)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Tracking 236 distinct input hashes that result in 203 distinct outputs (86.02%)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: RAM used: 6.47 MiB of 1.60 GiB budget. Usage: 0.39%
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Shaders Compiled: 28
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Jobs assigned 28, completed 28 (100%)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Average time worker was idle: 8.26 s
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Job execution time: average 0.68 s, max 1.95 s
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Job life time (pending + execution): average 0.74 s, max 1.96
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Shader code size: average 34.998 KiB, min 27.645 KiB, max 60.719 KiB
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.67 s
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Average processing rate: 3.65 jobs/sec
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Total thread time: 6.489 s
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Total thread preprocess time: 3.326 s
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Percentage time preprocessing: 51.26%
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Effective parallelization: 0.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.48 sec, max 0.50 sec, min 0.45 sec)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.26 sec, max 0.31 sec, min 0.24 sec)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 35.99% of total time (compiled    9 times, average 0.26 sec, max 0.31 sec, min 0.24 sec)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display:                                             FDebugViewModePS - 14.78% of total time (compiled    2 times, average 0.48 sec, max 0.50 sec, min 0.45 sec)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.58% of total time (compiled    5 times, average 0.18 sec, max 0.21 sec, min 0.16 sec)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.81% of total time (compiled    5 times, average 0.15 sec, max 0.18 sec, min 0.12 sec)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.62% of total time (compiled    3 times, average 0.14 sec, max 0.16 sec, min 0.12 sec)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: === Material stats ===
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Materials Translated:    144
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Material Translation Only: 0.02 s (14%)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: Material Cache Hits: 12 (8%)
+[2024.11.19-23.50.28:711][515]LogShaderCompilers: Display: ================================================
+[2024.11.19-23.51.47:204][118]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.19-23.52.38:200][ 80]LogEditorTransaction: Undo Create Reroute Node
+[2024.11.19-23.52.46:996][585]LogEditorTransaction: Undo Create Reroute Node
+[2024.11.19-23.52.57:889][222]LogEditorTransaction: Undo Create Reroute Node
+[2024.11.19-23.53.06:344][716]LogEditorTransaction: Undo Move Node
+[2024.11.19-23.53.07:696][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.11.19-23.53.43:614][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-23.53.43:649][659]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.11.19-23.53.43:649][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.11.19-23.53.43:649][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.11.19-23.53.43:656][659]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.11.19-23.53.43:660][659]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZDE8EFE4EC43D36154B60C88BD667E725B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.11.19-23.53.43:673][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.977 ms (total: 543.756 ms)
+[2024.11.19-23.53.43:701][659]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-23.53.43:701][659]LogContentValidation: Enabled validators:
+[2024.11.19-23.53.43:701][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-23.53.43:701][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-23.53.43:701][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-23.53.43:701][659]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.19-23.53.43:701][659]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.11.19-23.55.05:616][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-23.55.05:653][725]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.11.19-23.55.05:653][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.11.19-23.55.05:653][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.11.19-23.55.05:661][725]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.11.19-23.55.05:665][725]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD1949DE8E4E0F11629E3F9DBF82CCC41D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.11.19-23.55.05:678][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.846 ms (total: 605.603 ms)
+[2024.11.19-23.55.05:719][725]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-23.55.05:719][725]LogContentValidation: Enabled validators:
+[2024.11.19-23.55.05:719][725]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-23.55.05:719][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-23.55.05:719][725]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-23.55.05:719][725]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.19-23.55.05:719][725]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.11.19-23.55.06:391][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.11.19-23.55.25:207][ 35]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-23.55.25:218][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-23.55.25:218][ 35]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.11.19-23.55.25:219][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001156s)
+[2024.11.19-23.55.25:220][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001181s)
+[2024.11.19-23.55.25:227][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.19-23.55.25:230][ 35]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.19-23.55.25:230][ 35]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2024.11.19-23.55.25:248][ 35]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.11.19-23.55.25:248][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-23.55.25:248][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-23.55.25:248][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-23.55.25:248][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-23.55.25:248][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-23.55.25:248][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-23.55.25:248][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-23.55.25:248][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-23.55.25:248][ 35]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-23.55.25:248][ 35]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-23.55.25:248][ 35]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-23.55.25:249][ 35]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-23.55.25:290][ 35]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.11.19-23.55.25:290][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-23.55.25:290][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-23.55.25:290][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-23.55.25:291][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.11.19-23.55.25:291][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.11.19-23.55.25:293][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.11.19-23.55.25:293][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.11.19-23.55.25:293][ 35]LogInit: FAudioDevice initialized with ID 5.
+[2024.11.19-23.55.25:293][ 35]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMap'.
+[2024.11.19-23.55.25:293][ 35]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.19-23.55.25:294][ 35]LogLoad: Game class is 'GM_TopDown_C'
+[2024.11.19-23.55.25:295][ 35]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.11.19-17.55.25
+[2024.11.19-23.55.25:295][ 35]LogWorld: Bringing up level for play took: 0.000503
+[2024.11.19-23.55.25:296][ 35]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.11.19-23.55.25:314][ 35]PIE: Server logged in
+[2024.11.19-23.55.25:314][ 35]PIE: Play in editor total start time 0.099 seconds.
+[2024.11.19-23.55.34:960][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-23.55.34:961][609]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.11.19-23.55.34:961][609]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-23.55.34:961][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-23.55.34:961][609]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.19-23.55.34:961][609]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.19-23.55.34:964][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-23.55.34:966][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-23.55.34:972][609]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.19-23.55.34:972][609]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.19-23.55.34:972][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.19-23.55.34:973][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.19-23.55.34:976][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-23.55.34:979][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.11.19-23.55.35:049][611]LogPlayLevel: Display: Destroying online subsystem :Context_12
