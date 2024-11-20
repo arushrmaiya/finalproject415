@@ -1760,3 +1760,32 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.19-23.56.42:494][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.11.19-23.56.42:494][692]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Camera.BP_Camera
 [2024.11.19-23.56.42:494][692]AssetCheck: /Game/Blueprints/BP_Camera Validating asset
+[2024.11.19-23.59.46:220][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-23.59.46:260][901]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Camera] ([2] browsable assets)...
+[2024.11.19-23.59.46:260][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Camera]
+[2024.11.19-23.59.46:260][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Camera" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_Camera.uasset" SILENT=true
+[2024.11.19-23.59.46:263][901]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Camera
+[2024.11.19-23.59.46:265][901]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_Camera13D8E1FF47FF98BC9187EF82BEFFF73E.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_Camera.uasset'
+[2024.11.19-23.59.46:277][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.072 ms (total: 731.707 ms)
+[2024.11.19-23.59.46:305][901]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-23.59.46:305][901]LogContentValidation: Enabled validators:
+[2024.11.19-23.59.46:305][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-23.59.46:305][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-23.59.46:305][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-23.59.46:305][901]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Camera.BP_Camera
+[2024.11.19-23.59.46:305][901]AssetCheck: /Game/Blueprints/BP_Camera Validating asset
+[2024.11.19-23.59.46:737][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.20-00.01.15:884][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.01.15:922][237]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.11.20-00.01.15:922][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.11.20-00.01.15:922][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.11.20-00.01.15:930][237]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.11.20-00.01.15:931][237]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD530E2943471307A5489619AE294CF90F.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.11.20-00.01.15:946][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.067 ms (total: 793.774 ms)
+[2024.11.20-00.01.15:989][237]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.20-00.01.15:989][237]LogContentValidation: Enabled validators:
+[2024.11.20-00.01.15:989][237]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.20-00.01.15:989][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.20-00.01.15:989][237]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.20-00.01.15:989][237]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.20-00.01.15:989][237]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
