@@ -1789,3 +1789,33 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.20-00.01.15:989][237]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.11.20-00.01.15:989][237]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
 [2024.11.20-00.01.15:989][237]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.11.20-00.02.23:330][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.02.23:374][698]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.11.20-00.02.23:374][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.11.20-00.02.23:374][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.11.20-00.02.23:382][698]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.11.20-00.02.23:384][698]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZDEC72B347404C0E92BE8D6BB902AE2D05.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.11.20-00.02.23:397][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.856 ms (total: 861.631 ms)
+[2024.11.20-00.02.23:433][698]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.20-00.02.23:433][698]LogContentValidation: Enabled validators:
+[2024.11.20-00.02.23:433][698]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.20-00.02.23:433][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.20-00.02.23:433][698]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.20-00.02.23:433][698]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.20-00.02.23:433][698]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.11.20-00.02.23:800][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.20-00.02.53:410][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.02.53:444][482]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.11.20-00.02.53:444][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.11.20-00.02.53:444][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.11.20-00.02.53:453][482]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.11.20-00.02.53:457][482]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZDDBAE8AAA42A0F3C14D1AC9A36A5F9B49.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.11.20-00.02.53:468][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.348 ms (total: 918.979 ms)
+[2024.11.20-00.02.53:500][482]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.20-00.02.53:500][482]LogContentValidation: Enabled validators:
+[2024.11.20-00.02.53:500][482]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.20-00.02.53:500][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.20-00.02.53:500][482]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.20-00.02.53:500][482]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.20-00.02.53:500][482]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.11.20-00.02.55:196][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
