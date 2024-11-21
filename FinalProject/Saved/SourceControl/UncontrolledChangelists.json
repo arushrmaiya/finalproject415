@@ -5,14 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/whatever/T_read.uasset",
-				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/whatever/T_red.uasset",
-				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/whatever/up.uasset",
-				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/whatever/down.uasset",
-				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/whatever/left.uasset",
-				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/whatever/right.uasset"
-=======
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Characters/delet/textures/2_Normal.uasset",
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Characters/delet/textures/2_MetallicSmoothness.uasset",
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Characters/delet/textures/2_AlbedoTransparency.uasset",
@@ -20,6 +12,13 @@
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_turret.uasset",
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_bullet.uasset",
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/fixed-machine-gun-turret/textures/2_AlbedoTransparency.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/fixed-machine-gun-turret/textures/2_MetallicSmoothness.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/fixed-machine-gun-turret/textures/2_Normal.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/fixed-machine-gun-turret/source/machine_gun/MG_turret_portable.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/fixed-machine-gun-turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/fixed-machine-gun-turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/fixed-machine-gun-turret/source/machine_gun/MG_turret_portable_arma_Normal.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_Camera.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/T_Char.uasset",
@@ -219,7 +218,6 @@
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/Left/T_Char_Sprite_10.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/Left/T_Char_Sprite_18.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Input/IA_Move.uasset"
->>>>>>> Stashed changes
 			]
 		}
 	]
