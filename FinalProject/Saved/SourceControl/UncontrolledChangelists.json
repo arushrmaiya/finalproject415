@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_turret.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_Camera.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/T_Char.uasset",
