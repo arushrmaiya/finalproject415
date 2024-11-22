@@ -1092,3 +1092,604 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.22-21.30.50:271][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2024.11.22-21.30.50:275][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2024.11.22-21.30.50:331][266]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.11.22-21.32.03:253][799]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.22-21.32.03:815][799]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.22-21.32.12:792][308]LogSlate: Took 0.002001 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.11.22-21.32.16:971][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.11.22-21.32.18:343][629]LogDerivedDataCache: C:/Users/arush/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.22-21.32.57:206][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-21.32.57:262][901]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.11.22-21.32.57:262][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.11.22-21.32.57:262][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.11.22-21.32.57:267][901]LogPackageLocalizationCache: Processed 52 localized package path(s) for 1 prioritized culture(s) in 0.004877 seconds
+[2024.11.22-21.32.57:276][901]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.11.22-21.32.57:278][901]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD34E0D42D47FF2324D424B99DA55E34B6.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.11.22-21.32.57:293][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.080 ms
+[2024.11.22-21.32.57:364][901]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-21.32.57:364][901]LogContentValidation: Enabled validators:
+[2024.11.22-21.32.57:364][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-21.32.57:364][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-21.32.57:364][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-21.32.57:364][901]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.22-21.32.57:364][901]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.11.22-21.32.59:081][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.11.22-21.34.18:556][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-21.34.18:612][554]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.11.22-21.34.18:612][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.11.22-21.34.18:612][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.11.22-21.34.18:622][554]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.11.22-21.34.18:624][554]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD2E6E7B5D49E1FB9CC7C705B0F9F2D6A6.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.11.22-21.34.18:639][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.690 ms (total: 168.771 ms)
+[2024.11.22-21.34.18:693][554]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-21.34.18:693][554]LogContentValidation: Enabled validators:
+[2024.11.22-21.34.18:693][554]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-21.34.18:693][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-21.34.18:693][554]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-21.34.18:693][554]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.22-21.34.18:693][554]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.11.22-21.34.20:178][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.22-21.34.22:118][745]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.11.22-21.34.22:131][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-21.34.22:131][745]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.34.22:133][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001419s)
+[2024.11.22-21.34.22:133][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001447s)
+[2024.11.22-21.34.22:140][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.22-21.34.22:142][745]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.22-21.34.22:143][745]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2024.11.22-21.34.22:158][745]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.11.22-21.34.22:158][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-21.34.22:158][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-21.34.22:158][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-21.34.22:158][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-21.34.22:158][745]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-21.34.22:158][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-21.34.22:158][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-21.34.22:158][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-21.34.22:158][745]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-21.34.22:158][745]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-21.34.22:159][745]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-21.34.22:160][745]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-21.34.22:195][745]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Steam Streaming Speakers)
+[2024.11.22-21.34.22:195][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-21.34.22:195][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-21.34.22:195][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-21.34.22:196][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.11.22-21.34.22:196][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.11.22-21.34.22:198][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.11.22-21.34.22:198][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.11.22-21.34.22:198][745]LogInit: FAudioDevice initialized with ID 3.
+[2024.11.22-21.34.22:198][745]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestMap'.
+[2024.11.22-21.34.22:198][745]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.22-21.34.22:258][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.34.22:258][745]LogLoad: Game class is 'GM_TopDown_C'
+[2024.11.22-21.34.22:259][745]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.11.22-15.34.22
+[2024.11.22-21.34.22:259][745]LogWorld: Bringing up level for play took: 0.000784
+[2024.11.22-21.34.22:261][745]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.11.22-21.34.22:283][745]PIE: Server logged in
+[2024.11.22-21.34.22:284][745]PIE: Play in editor total start time 0.157 seconds.
+[2024.11.22-21.34.31:263][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.34.31:263][276]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.34.31:263][276]LogSlate: Window 'FinalProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.11.22-21.34.31:271][276]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-21.34.31:271][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.34.31:271][276]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-21.34.31:271][276]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-21.34.31:273][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-21.34.31:276][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.34.31:290][276]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.22-21.34.31:290][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.22-21.34.31:292][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.22-21.34.31:298][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.11.22-21.34.31:334][277]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.11.22-21.34.41:163][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-21.34.41:163][853]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.34.41:164][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001459s)
+[2024.11.22-21.34.41:164][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001491s)
+[2024.11.22-21.34.41:173][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.22-21.34.41:174][853]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.22-21.34.41:175][853]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2024.11.22-21.34.41:191][853]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.11.22-21.34.41:191][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-21.34.41:191][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-21.34.41:191][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-21.34.41:191][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-21.34.41:191][853]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-21.34.41:191][853]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-21.34.41:191][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-21.34.41:191][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-21.34.41:191][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-21.34.41:191][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-21.34.41:191][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-21.34.41:193][853]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-21.34.41:223][853]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Steam Streaming Speakers)
+[2024.11.22-21.34.41:223][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-21.34.41:223][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-21.34.41:223][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-21.34.41:224][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.11.22-21.34.41:224][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.11.22-21.34.41:225][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.11.22-21.34.41:225][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.11.22-21.34.41:225][853]LogInit: FAudioDevice initialized with ID 4.
+[2024.11.22-21.34.41:225][853]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMap'.
+[2024.11.22-21.34.41:225][853]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.22-21.34.41:226][853]LogLoad: Game class is 'GM_TopDown_C'
+[2024.11.22-21.34.41:228][853]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.11.22-15.34.41
+[2024.11.22-21.34.41:228][853]LogWorld: Bringing up level for play took: 0.000675
+[2024.11.22-21.34.41:229][853]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.11.22-21.34.41:244][853]PIE: Server logged in
+[2024.11.22-21.34.41:245][853]PIE: Play in editor total start time 0.085 seconds.
+[2024.11.22-21.34.46:581][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.34.46:581][156]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.34.46:581][156]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-21.34.46:581][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.34.46:581][156]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-21.34.46:581][156]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-21.34.46:584][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-21.34.46:586][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.34.46:592][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.34.46:592][156]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.22-21.34.46:592][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.22-21.34.46:594][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.22-21.34.46:598][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.22-21.34.46:649][158]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.11.22-21.34.48:499][269]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.22-21.34.48:511][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-21.34.48:511][269]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.34.48:514][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001468s)
+[2024.11.22-21.34.48:514][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001495s)
+[2024.11.22-21.34.48:522][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.22-21.34.48:523][269]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.22-21.34.48:524][269]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2024.11.22-21.34.48:540][269]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.11.22-21.34.48:540][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-21.34.48:540][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-21.34.48:540][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-21.34.48:540][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-21.34.48:540][269]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-21.34.48:540][269]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-21.34.48:540][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-21.34.48:540][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-21.34.48:540][269]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-21.34.48:540][269]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-21.34.48:540][269]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-21.34.48:541][269]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-21.34.48:572][269]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Steam Streaming Speakers)
+[2024.11.22-21.34.48:572][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-21.34.48:572][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-21.34.48:572][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-21.34.48:573][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.11.22-21.34.48:573][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.11.22-21.34.48:574][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.11.22-21.34.48:574][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.11.22-21.34.48:574][269]LogInit: FAudioDevice initialized with ID 5.
+[2024.11.22-21.34.48:574][269]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMap'.
+[2024.11.22-21.34.48:574][269]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.22-21.34.48:576][269]LogLoad: Game class is 'GM_TopDown_C'
+[2024.11.22-21.34.48:576][269]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.11.22-15.34.48
+[2024.11.22-21.34.48:576][269]LogWorld: Bringing up level for play took: 0.000674
+[2024.11.22-21.34.48:578][269]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.11.22-21.34.48:595][269]PIE: Server logged in
+[2024.11.22-21.34.48:596][269]PIE: Play in editor total start time 0.088 seconds.
+[2024.11.22-21.35.02:863][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.35.02:863][120]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.35.02:864][120]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-21.35.02:864][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.35.02:864][120]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-21.35.02:864][120]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-21.35.02:867][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-21.35.02:870][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.35.02:876][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.35.02:876][120]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.22-21.35.02:877][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.22-21.35.02:878][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.22-21.35.02:883][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.22-21.35.02:942][122]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.11.22-21.35.05:515][277]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.11.22-21.35.05:527][277]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13288
+[2024.11.22-21.35.05:663][285]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.11.22-21.35.06:245][301]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{699b93ac-60da-4048-a9bf-5ef0542ab7b0}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=494.89
+[2024.11.22-21.35.06:245][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-21.35.06:247][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-21.35.06:576][302]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13288
+[2024.11.22-21.35.06:911][303]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{699b93ac-60da-4048-a9bf-5ef0542ab7b0}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=88.47
+[2024.11.22-21.35.06:911][303]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-21.35.06:912][303]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-21.35.09:339][310]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.35.21:157][844]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.35.23:906][844]LogAutomationController: Ignoring very large delta of 3.99 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.22-21.36.16:699][229]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.36.19:192][251]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.36.22:394][259]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.36.23:372][260]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.36.27:531][270]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.36.28:181][271]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.36.31:177][279]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.36.50:258][335]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.36.52:894][342]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.36.53:684][344]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.36.56:268][350]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.36.56:994][351]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.36.59:562][358]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.38.53:995][701]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2024.11.22-21.38.54:094][701]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2024.11.22-21.38.54:257][701]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13288
+[2024.11.22-21.38.54:592][702]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d99249e2-48f1-49d5-8d55-22dc4c4fb868}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=94.68
+[2024.11.22-21.38.54:592][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-21.38.54:593][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-21.38.54:929][703]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.38.57:263][709]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.38.57:401][709]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.39.03:889][727]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.11.22-21.39.03:946][728]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.11.22-21.39.04:205][728]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13288
+[2024.11.22-21.39.05:123][730]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.39.05:357][730]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{699b93ac-60da-4048-a9bf-5ef0542ab7b0}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=449.21
+[2024.11.22-21.39.05:358][730]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-21.39.05:359][730]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-21.40.00:793][146]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2024.11.22-21.40.00:807][147]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13288
+[2024.11.22-21.40.00:925][154]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d99249e2-48f1-49d5-8d55-22dc4c4fb868}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=106.65
+[2024.11.22-21.40.00:926][154]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-21.40.00:927][154]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-21.40.00:962][156]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2024.11.22-21.40.00:974][157]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13288
+[2024.11.22-21.40.01:026][160]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d99249e2-48f1-49d5-8d55-22dc4c4fb868}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=38.80
+[2024.11.22-21.40.01:026][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-21.40.01:028][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-21.40.01:898][188]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.40.02:341][188]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.40.02:769][191]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.40.03:449][192]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.40.03:977][193]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.40.09:830][411]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.40.25:635][215]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.11.22-21.40.25:639][215]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13288
+[2024.11.22-21.40.25:732][221]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.11.22-21.40.26:090][242]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{699b93ac-60da-4048-a9bf-5ef0542ab7b0}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=438.07
+[2024.11.22-21.40.26:090][242]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-21.40.26:092][242]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-21.40.26:106][243]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13288
+[2024.11.22-21.40.26:474][246]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{699b93ac-60da-4048-a9bf-5ef0542ab7b0}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=171.24
+[2024.11.22-21.40.26:474][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-21.40.26:475][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-21.41.08:252][ 70]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2024.11.22-21.41.08:259][ 70]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13288
+[2024.11.22-21.41.08:378][ 77]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d99249e2-48f1-49d5-8d55-22dc4c4fb868}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=105.66
+[2024.11.22-21.41.08:378][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-21.41.08:380][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-21.41.08:429][ 80]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2024.11.22-21.41.08:442][ 81]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13288
+[2024.11.22-21.41.08:515][ 85]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d99249e2-48f1-49d5-8d55-22dc4c4fb868}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=53.94
+[2024.11.22-21.41.08:515][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-21.41.08:516][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-21.41.11:751][267]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.41.13:282][298]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.41.13:498][298]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.41.17:262][447]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.41.18:099][462]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.41.22:420][589]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.41.41:872][ 21]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.41.42:233][ 21]LogAutomationController: Ignoring very large delta of 2.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.22-21.41.44:883][ 23]LogAutomationController: Ignoring very large delta of 2.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.22-21.41.59:603][ 68]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.11.22-21.41.59:641][ 68]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.11.22-21.41.59:829][ 68]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13288
+[2024.11.22-21.42.00:498][ 70]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{699b93ac-60da-4048-a9bf-5ef0542ab7b0}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=372.72
+[2024.11.22-21.42.00:498][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-21.42.00:500][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-21.43.47:967][391]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2024.11.22-21.43.48:109][391]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2024.11.22-21.43.48:125][391]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13288
+[2024.11.22-21.43.48:460][392]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d99249e2-48f1-49d5-8d55-22dc4c4fb868}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=141.15
+[2024.11.22-21.43.48:461][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-21.43.48:461][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-21.43.49:210][393]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.43.51:649][399]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.43.53:813][404]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.43.54:079][404]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.44.01:148][423]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.44.19:362][477]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.11.22-21.44.43:518][ 30]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.22-21.44.43:530][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-21.44.43:530][ 30]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.44.43:531][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001778s)
+[2024.11.22-21.44.43:531][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001811s)
+[2024.11.22-21.44.43:541][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.11.22-21.44.43:544][ 30]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.22-21.44.43:545][ 30]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2024.11.22-21.44.43:561][ 30]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.11.22-21.44.43:561][ 30]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-21.44.43:561][ 30]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-21.44.43:561][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-21.44.43:561][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-21.44.43:561][ 30]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-21.44.43:561][ 30]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-21.44.43:561][ 30]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-21.44.43:561][ 30]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-21.44.43:561][ 30]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-21.44.43:561][ 30]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-21.44.43:561][ 30]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-21.44.43:561][ 30]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-21.44.43:593][ 30]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Steam Streaming Speakers)
+[2024.11.22-21.44.43:593][ 30]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-21.44.43:593][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-21.44.43:593][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-21.44.43:594][ 30]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.11.22-21.44.43:594][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.11.22-21.44.43:595][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.11.22-21.44.43:595][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.11.22-21.44.43:595][ 30]LogInit: FAudioDevice initialized with ID 6.
+[2024.11.22-21.44.43:595][ 30]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestMap'.
+[2024.11.22-21.44.43:595][ 30]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.11.22-21.44.43:597][ 30]LogLoad: Game class is 'GM_TopDown_C'
+[2024.11.22-21.44.43:598][ 30]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.11.22-15.44.43
+[2024.11.22-21.44.43:598][ 30]LogWorld: Bringing up level for play took: 0.000848
+[2024.11.22-21.44.43:599][ 30]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.11.22-21.44.43:616][ 30]PIE: Server logged in
+[2024.11.22-21.44.43:617][ 30]PIE: Play in editor total start time 0.091 seconds.
+[2024.11.22-21.44.48:749][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.44.48:749][332]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.44.48:749][332]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-21.44.48:749][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.44.48:749][332]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-21.44.48:749][332]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-21.44.48:752][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-21.44.48:754][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.44.48:767][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.44.48:767][332]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.11.22-21.44.48:767][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.11.22-21.44.48:769][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.11.22-21.44.48:773][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.22-21.44.48:805][333]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.11.22-21.45.44:387][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.11.22-21.45.51:027][899]LogEditorTransaction: Undo Modify Component(s)
+[2024.11.22-21.45.51:487][907]LogEditorTransaction: Undo Modify Component(s)
+[2024.11.22-21.45.52:177][943]LogEditorTransaction: Undo Modify Component(s)
+[2024.11.22-21.45.52:832][981]LogEditorTransaction: Undo Add Component
+[2024.11.22-21.46.03:279][604]LogEditorTransaction: Undo Set Scale
+[2024.11.22-21.46.11:043][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.22-21.47.44:733][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-21.47.44:791][723]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.11.22-21.47.44:791][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.11.22-21.47.44:791][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.11.22-21.47.44:801][723]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.11.22-21.47.44:804][723]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD11B535D2450CA8450F371B9DF3D6DAD0.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.11.22-21.47.44:816][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.038 ms (total: 251.809 ms)
+[2024.11.22-21.47.44:877][723]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-21.47.44:877][723]LogContentValidation: Enabled validators:
+[2024.11.22-21.47.44:877][723]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-21.47.44:877][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-21.47.44:877][723]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-21.47.44:877][723]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.22-21.47.44:877][723]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.11.22-21.48.28:908][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.22-21.48.44:637][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-21.48.44:691][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.11.22-21.48.44:691][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.11.22-21.48.44:691][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.11.22-21.48.44:700][165]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.11.22-21.48.44:704][165]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD5ED061C943E2CA875B03CD8646EAECF1.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.11.22-21.48.44:716][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.272 ms (total: 332.081 ms)
+[2024.11.22-21.48.44:778][165]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-21.48.44:778][165]LogContentValidation: Enabled validators:
+[2024.11.22-21.48.44:778][165]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-21.48.44:778][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-21.48.44:778][165]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-21.48.44:778][165]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.22-21.48.44:778][165]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.11.22-21.49.09:156][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-21.49.09:211][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.11.22-21.49.09:211][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.11.22-21.49.09:211][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.11.22-21.49.09:221][570]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.11.22-21.49.09:225][570]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD5E44A7B440A05EB0A1C198B8581F5D5F.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.11.22-21.49.09:236][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.778 ms (total: 412.860 ms)
+[2024.11.22-21.49.09:291][570]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-21.49.09:291][570]LogContentValidation: Enabled validators:
+[2024.11.22-21.49.09:291][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-21.49.09:291][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-21.49.09:291][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-21.49.09:291][570]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.22-21.49.09:291][570]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.11.22-21.49.11:048][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.22-21.49.14:302][854]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.22-21.49.14:315][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-21.49.14:316][854]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.49.14:317][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001498s)
+[2024.11.22-21.49.14:317][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001544s)
+[2024.11.22-21.49.14:325][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.22-21.49.14:326][854]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.22-21.49.14:328][854]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2024.11.22-21.49.14:344][854]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.11.22-21.49.14:344][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-21.49.14:344][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-21.49.14:344][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-21.49.14:344][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-21.49.14:344][854]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-21.49.14:344][854]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-21.49.14:344][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-21.49.14:344][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-21.49.14:344][854]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-21.49.14:344][854]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-21.49.14:344][854]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-21.49.14:346][854]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-21.49.14:384][854]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Steam Streaming Speakers)
+[2024.11.22-21.49.14:384][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-21.49.14:384][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-21.49.14:384][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-21.49.14:385][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.11.22-21.49.14:385][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.11.22-21.49.14:386][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.11.22-21.49.14:386][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.11.22-21.49.14:386][854]LogInit: FAudioDevice initialized with ID 7.
+[2024.11.22-21.49.14:386][854]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestMap'.
+[2024.11.22-21.49.14:386][854]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.11.22-21.49.14:388][854]LogLoad: Game class is 'GM_TopDown_C'
+[2024.11.22-21.49.14:389][854]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.11.22-15.49.14
+[2024.11.22-21.49.14:389][854]LogWorld: Bringing up level for play took: 0.000791
+[2024.11.22-21.49.14:390][854]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.11.22-21.49.14:406][854]PIE: Server logged in
+[2024.11.22-21.49.14:407][854]PIE: Play in editor total start time 0.095 seconds.
+[2024.11.22-21.49.18:601][ 65]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 90
+[2024.11.22-21.49.19:273][106]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 80
+[2024.11.22-21.49.20:223][163]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 70
+[2024.11.22-21.49.23:307][348]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 60
+[2024.11.22-21.49.23:323][349]LogCharacterMovement: BP_PlayerZD_C_0 is stuck and failed to move! Velocity: X=-580.27 Y=0.00 Z=0.00 Location: X=826.03 Y=50.85 Z=49.76 Normal: X=0.21 Y=0.66 Z=-0.72 PenetrationDepth:3.230 Actor:bp_bullet_C_13 Component:Sphere BoneName:None (0 other events since notify)
+[2024.11.22-21.49.24:256][405]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 50
+[2024.11.22-21.49.24:290][407]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 40
+[2024.11.22-21.49.26:768][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.49.26:768][554]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.49.26:768][554]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-21.49.26:768][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.49.26:768][554]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-21.49.26:768][554]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-21.49.26:771][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-21.49.26:773][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.49.26:780][554]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.22-21.49.26:780][554]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.11.22-21.49.26:780][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.11.22-21.49.26:782][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.11.22-21.49.26:786][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.49.26:788][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.11.22-21.49.26:849][556]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.11.22-21.49.27:999][625]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.22-21.49.28:010][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-21.49.28:010][625]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.49.28:011][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001435s)
+[2024.11.22-21.49.28:011][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001462s)
+[2024.11.22-21.49.28:022][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.11.22-21.49.28:023][625]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.22-21.49.28:024][625]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2024.11.22-21.49.28:039][625]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.11.22-21.49.28:039][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-21.49.28:039][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-21.49.28:039][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-21.49.28:039][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-21.49.28:039][625]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-21.49.28:039][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-21.49.28:039][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-21.49.28:039][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-21.49.28:039][625]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-21.49.28:039][625]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-21.49.28:039][625]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-21.49.28:041][625]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-21.49.28:071][625]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Steam Streaming Speakers)
+[2024.11.22-21.49.28:071][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-21.49.28:071][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-21.49.28:071][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-21.49.28:072][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.11.22-21.49.28:072][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.11.22-21.49.28:074][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.11.22-21.49.28:074][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.11.22-21.49.28:074][625]LogInit: FAudioDevice initialized with ID 8.
+[2024.11.22-21.49.28:074][625]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestMap'.
+[2024.11.22-21.49.28:074][625]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.11.22-21.49.28:076][625]LogLoad: Game class is 'GM_TopDown_C'
+[2024.11.22-21.49.28:076][625]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.11.22-15.49.28
+[2024.11.22-21.49.28:077][625]LogWorld: Bringing up level for play took: 0.000688
+[2024.11.22-21.49.28:078][625]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.11.22-21.49.28:093][625]PIE: Server logged in
+[2024.11.22-21.49.28:093][625]PIE: Play in editor total start time 0.086 seconds.
+[2024.11.22-21.49.30:543][769]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 90
+[2024.11.22-21.49.33:493][946]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 80
+[2024.11.22-21.49.33:493][946]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 70
+[2024.11.22-21.49.33:510][947]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 60
+[2024.11.22-21.49.34:027][978]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 50
+[2024.11.22-21.49.34:527][  8]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 40
+[2024.11.22-21.49.35:043][ 39]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 30
+[2024.11.22-21.49.36:078][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.49.36:078][ 99]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.49.36:078][ 99]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-21.49.36:078][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.49.36:079][ 99]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-21.49.36:079][ 99]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-21.49.36:082][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-21.49.36:085][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.49.36:091][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.49.36:091][ 99]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.11.22-21.49.36:091][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.11.22-21.49.36:093][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.11.22-21.49.36:097][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.22-21.49.36:159][101]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.11.22-21.50.08:527][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-21.50.08:590][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.11.22-21.50.08:590][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.11.22-21.50.08:590][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.11.22-21.50.08:600][ 25]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.11.22-21.50.08:601][ 25]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD439732F042C3712E17D237A4AAC7A8D3.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.11.22-21.50.08:615][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.413 ms (total: 500.274 ms)
+[2024.11.22-21.50.08:693][ 25]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-21.50.08:693][ 25]LogContentValidation: Enabled validators:
+[2024.11.22-21.50.08:693][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-21.50.08:693][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-21.50.08:693][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-21.50.08:693][ 25]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.11.22-21.50.08:693][ 25]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.11.22-21.50.09:813][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.11.22-21.50.11:603][185]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.22-21.50.11:614][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-21.50.11:614][185]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.50.11:616][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001864s)
+[2024.11.22-21.50.11:616][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001900s)
+[2024.11.22-21.50.11:624][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.22-21.50.11:627][185]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.22-21.50.11:627][185]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2024.11.22-21.50.11:644][185]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.11.22-21.50.11:644][185]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-21.50.11:644][185]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-21.50.11:644][185]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-21.50.11:644][185]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-21.50.11:644][185]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-21.50.11:644][185]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-21.50.11:644][185]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-21.50.11:644][185]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-21.50.11:644][185]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-21.50.11:644][185]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-21.50.11:644][185]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-21.50.11:646][185]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-21.50.11:679][185]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Steam Streaming Speakers)
+[2024.11.22-21.50.11:679][185]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-21.50.11:679][185]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-21.50.11:679][185]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-21.50.11:679][185]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.11.22-21.50.11:679][185]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.11.22-21.50.11:680][185]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.11.22-21.50.11:681][185]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.11.22-21.50.11:681][185]LogInit: FAudioDevice initialized with ID 9.
+[2024.11.22-21.50.11:681][185]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestMap'.
+[2024.11.22-21.50.11:681][185]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.22-21.50.11:683][185]LogLoad: Game class is 'GM_TopDown_C'
+[2024.11.22-21.50.11:683][185]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.11.22-15.50.11
+[2024.11.22-21.50.11:684][185]LogWorld: Bringing up level for play took: 0.000727
+[2024.11.22-21.50.11:685][185]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.11.22-21.50.11:701][185]PIE: Server logged in
+[2024.11.22-21.50.11:702][185]PIE: Play in editor total start time 0.09 seconds.
+[2024.11.22-21.50.14:831][370]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 90
+[2024.11.22-21.50.15:898][434]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 80
+[2024.11.22-21.50.16:381][463]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 70
+[2024.11.22-21.50.17:515][531]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 60
+[2024.11.22-21.50.17:531][532]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 50
+[2024.11.22-21.50.18:348][581]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 40
+[2024.11.22-21.50.19:315][639]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 30
+[2024.11.22-21.50.19:899][674]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 20
+[2024.11.22-21.50.19:915][675]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 10
+[2024.11.22-21.50.20:065][684]LogBlueprintUserMessages: [BP_PlayerZD_C_0] 0
+[2024.11.22-21.50.20:515][711]LogBlueprintUserMessages: [BP_PlayerZD_C_0] -10
+[2024.11.22-21.50.20:531][712]LogBlueprintUserMessages: [BP_PlayerZD_C_0] -20
+[2024.11.22-21.50.21:131][748]LogBlueprintUserMessages: [BP_PlayerZD_C_0] -30
+[2024.11.22-21.50.21:148][749]LogBlueprintUserMessages: [BP_PlayerZD_C_0] -40
+[2024.11.22-21.50.21:275][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.50.21:275][755]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.11.22-21.50.21:275][755]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-21.50.21:275][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.50.21:275][755]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-21.50.21:275][755]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-21.50.21:277][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-21.50.21:280][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-21.50.21:287][755]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.22-21.50.21:287][755]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.22-21.50.21:288][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.11.22-21.50.21:289][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.11.22-21.50.21:292][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-21.50.21:294][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.22-21.50.21:353][757]LogPlayLevel: Display: Destroying online subsystem :Context_12
