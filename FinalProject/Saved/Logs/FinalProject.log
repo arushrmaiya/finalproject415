@@ -3023,3 +3023,443 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.12.07-22.25.56:561][ 72]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.07-22.25.56:561][ 72]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
 [2024.12.07-22.25.56:561][ 72]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.07-22.29.00:879][609]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.07-22.29.00:895][609]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.07-22.29.00:900][609]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.07-22.29.00:903][609]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.07-22.29.00:909][610]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.07-22.29.06:067][919]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CamStop
+[2024.12.07-22.29.06:072][919]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.07-22.29.07:816][ 23]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop
+[2024.12.07-22.29.51:284][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.07-22.29.53:267][727]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.29.53:267][727]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.29.53:268][727]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_0
+[2024.12.07-22.29.53:269][727]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_0
+[2024.12.07-22.29.53:597][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.07-22.29.53:613][746]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2024.12.07-22.29.53:617][746]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.29.53:617][746]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.29.53:618][746]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_1
+[2024.12.07-22.29.53:619][746]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_1
+[2024.12.07-22.29.56:289][902]Cmd: TRANSACTION UNDO
+[2024.12.07-22.29.56:289][902]LogEditorTransaction: Undo Place Objects
+[2024.12.07-22.30.25:033][599]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_1.Cube) Not currently registered. Aborting.
+[2024.12.07-22.30.27:510][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.07-22.30.29:275][843]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.30.29:275][843]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.30.29:276][843]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_2
+[2024.12.07-22.30.29:276][843]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_2
+[2024.12.07-22.30.30:345][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.07-22.30.30:406][902]LogEditorActor: Deleted 0 Actors (0.075 secs)
+[2024.12.07-22.30.37:127][287]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.30.37:127][287]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.30.37:128][287]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_3
+[2024.12.07-22.30.37:129][287]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_3
+[2024.12.07-22.30.37:727][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.07-22.30.37:729][322]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2024.12.07-22.30.37:738][322]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.30.37:738][322]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.30.37:740][322]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_4
+[2024.12.07-22.30.37:741][322]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_4
+[2024.12.07-22.30.41:354][537]Cmd: TRANSACTION UNDO
+[2024.12.07-22.30.41:354][537]LogEditorTransaction: Undo Place Objects
+[2024.12.07-22.30.56:109][398]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_1.Cube) Not currently registered. Aborting.
+[2024.12.07-22.30.56:109][398]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_4.Cube) Not currently registered. Aborting.
+[2024.12.07-22.31.04:443][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.07-22.31.07:932][ 97]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.31.07:932][ 97]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.31.07:933][ 97]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_5
+[2024.12.07-22.31.07:934][ 97]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_5
+[2024.12.07-22.31.11:172][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.07-22.31.11:190][291]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2024.12.07-22.31.11:199][291]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.31.11:199][291]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.31.11:200][291]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_6
+[2024.12.07-22.31.11:201][291]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop as actor: BP_CamStop_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_6
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: ================================================
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Total job queries 199, among them cache hits 22 (11.06%), DDC hits 160 (80.40%), Duplicates 5 (2.51%)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Tracking 172 distinct input hashes that result in 159 distinct outputs (92.44%)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: RAM used: 5.43 MiB of 1.60 GiB budget. Usage: 0.33%
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Shaders Compiled: 12
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Average time worker was idle: 376.04 s
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.13 s
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Job execution time: average 1.76 s, max 3.34 s
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Job life time (pending + execution): average 1.82 s, max 3.45
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Shader code size: average 34.883 KiB, min 29.434 KiB, max 60.188 KiB
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.32 s
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Average processing rate: 1.29 jobs/sec
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Total thread time: 2.89 s
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Total thread preprocess time: 2.49 s
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Percentage time preprocessing: 86.13%
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Effective parallelization: 0.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.30 sec, max 0.37 sec, min 0.27 sec)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.25 sec, max 0.27 sec, min 0.24 sec)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.17 sec, max 0.20 sec, min 0.15 sec)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.17 sec, max 0.18 sec, min 0.16 sec)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display:                   FRenderVolumetricCloudEmptySpaceSkippingCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 52.65% of total time (compiled    5 times, average 0.30 sec, max 0.37 sec, min 0.27 sec)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.13% of total time (compiled    3 times, average 0.17 sec, max 0.20 sec, min 0.15 sec)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 17.48% of total time (compiled    2 times, average 0.25 sec, max 0.27 sec, min 0.24 sec)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.74% of total time (compiled    2 times, average 0.17 sec, max 0.18 sec, min 0.16 sec)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display:                    TVoxelizeVolumeVS<VMode_Primitive_Sphere> - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: === Material stats ===
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Materials Translated:    119
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Material Total Translate Time: 0.28 s
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Material Translation Only: 0.03 s (9%)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: Material Cache Hits: 12 (10%)
+[2024.12.07-22.32.08:228][625]LogShaderCompilers: Display: ================================================
+[2024.12.07-22.33.34:172][709]Cmd: TRANSACTION UNDO
+[2024.12.07-22.33.34:172][709]LogEditorTransaction: Undo Move Elements
+[2024.12.07-22.34.36:986][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.34.37:024][437]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_CamStop] ([2] browsable assets)...
+[2024.12.07-22.34.37:665][437]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop]
+[2024.12.07-22.34.37:665][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CamStop]
+[2024.12.07-22.34.37:665][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CamStop" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_CamStop.uasset" SILENT=true
+[2024.12.07-22.34.37:669][437]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CamStop
+[2024.12.07-22.34.37:669][437]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_CamStop5B7E1A9E4C10AC19C75C69B203A7434D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_CamStop.uasset'
+[2024.12.07-22.34.37:682][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 694.504 ms (total: 2.13 sec)
+[2024.12.07-22.34.37:724][437]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.34.37:724][437]LogContentValidation: Enabled validators:
+[2024.12.07-22.34.37:724][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.34.37:724][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.34.37:724][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.34.37:724][437]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_CamStop.BP_CamStop
+[2024.12.07-22.34.37:724][437]AssetCheck: /Game/Blueprints/BP_CamStop Validating asset
+[2024.12.07-22.34.43:958][809]Cmd: TRANSACTION UNDO
+[2024.12.07-22.34.43:958][809]LogEditorTransaction: Undo Set Scale
+[2024.12.07-22.34.49:671][138]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_4.Cube) Not currently registered. Aborting.
+[2024.12.07-22.34.49:672][138]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.BP_CamStop_C_1.Cube) Not currently registered. Aborting.
+[2024.12.07-22.34.52:938][334]Cmd: TRANSACTION UNDO
+[2024.12.07-22.34.52:938][334]LogEditorTransaction: Undo Toggle Absolute Scale
+[2024.12.07-22.34.54:687][430]Cmd: TRANSACTION REDO
+[2024.12.07-22.34.54:687][430]LogEditorTransaction: Redo Toggle Absolute Scale
+[2024.12.07-22.34.56:523][540]Cmd: ACTOR SELECT ALL
+[2024.12.07-22.34.58:675][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.34.58:716][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.07-22.34.58:739][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.07-22.34.58:748][659]LogWorldPartition: Can't find class descriptor '/Game/Levels/TestMap.TestMap_C' for saving '/Game/Levels/TestMap.TestMap_C'
+[2024.12.07-22.34.58:748][659]LogWorldPartition: Can't find class descriptor '/Game/Levels/TestMap.TestMap_C' for saving '/Game/Levels/TestMap.TestMap_C'
+[2024.12.07-22.34.58:751][659]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2024.12.07-22.34.58:752][659]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMapD75D52ED45272F7ACA6C7D9DF3EEFBD1.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap'
+[2024.12.07-22.34.58:756][659]LogFileHelpers: Saving map 'TestMap' took 0.039
+[2024.12.07-22.34.58:768][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.936 ms (total: 2.22 sec)
+[2024.12.07-22.34.58:813][659]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.34.58:813][659]LogContentValidation: Enabled validators:
+[2024.12.07-22.34.58:813][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.34.58:813][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.34.58:813][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.34.58:813][659]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
+[2024.12.07-22.34.58:813][659]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.07-22.35.02:474][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.35.02:508][876]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_CamStop] ([2] browsable assets)...
+[2024.12.07-22.35.02:514][876]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop]
+[2024.12.07-22.35.02:514][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CamStop]
+[2024.12.07-22.35.02:514][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CamStop" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_CamStop.uasset" SILENT=true
+[2024.12.07-22.35.02:517][876]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CamStop
+[2024.12.07-22.35.02:517][876]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_CamStop30981AC14B3E86670986BDA893BAE6CC.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_CamStop.uasset'
+[2024.12.07-22.35.02:526][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.232 ms (total: 2.27 sec)
+[2024.12.07-22.35.02:557][876]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.35.02:557][876]LogContentValidation: Enabled validators:
+[2024.12.07-22.35.02:557][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.35.02:557][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.35.02:557][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.35.02:557][876]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_CamStop.BP_CamStop
+[2024.12.07-22.35.02:557][876]AssetCheck: /Game/Blueprints/BP_CamStop Validating asset
+[2024.12.07-22.35.02:953][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.07-22.35.13:566][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.35.13:623][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.07-22.35.13:640][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.07-22.35.13:647][525]LogWorldPartition: Can't find class descriptor '/Game/Levels/TestMap.TestMap_C' for saving '/Game/Levels/TestMap.TestMap_C'
+[2024.12.07-22.35.13:647][525]LogWorldPartition: Can't find class descriptor '/Game/Levels/TestMap.TestMap_C' for saving '/Game/Levels/TestMap.TestMap_C'
+[2024.12.07-22.35.13:650][525]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2024.12.07-22.35.13:650][525]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMap843839B7408F73486A8D9FA6C7AB2C65.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap'
+[2024.12.07-22.35.13:654][525]LogFileHelpers: Saving map 'TestMap' took 0.031
+[2024.12.07-22.35.13:665][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.831 ms (total: 2.37 sec)
+[2024.12.07-22.35.13:702][525]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.35.13:702][525]LogContentValidation: Enabled validators:
+[2024.12.07-22.35.13:702][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.35.13:702][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.35.13:702][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.35.13:702][525]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
+[2024.12.07-22.35.13:702][525]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.07-22.35.24:972][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.35.25:000][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.07-22.35.25:017][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.07-22.35.25:023][195]LogWorldPartition: Can't find class descriptor '/Game/Levels/TestMap.TestMap_C' for saving '/Game/Levels/TestMap.TestMap_C'
+[2024.12.07-22.35.25:023][195]LogWorldPartition: Can't find class descriptor '/Game/Levels/TestMap.TestMap_C' for saving '/Game/Levels/TestMap.TestMap_C'
+[2024.12.07-22.35.25:025][195]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2024.12.07-22.35.25:026][195]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMapFA0E298342EEBFCAC0395B91E3EA0240.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap'
+[2024.12.07-22.35.25:029][195]LogFileHelpers: Saving map 'TestMap' took 0.029
+[2024.12.07-22.35.25:040][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.012 ms (total: 2.44 sec)
+[2024.12.07-22.35.25:073][195]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.35.25:073][195]LogContentValidation: Enabled validators:
+[2024.12.07-22.35.25:073][195]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.35.25:073][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.35.25:073][195]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.35.25:073][195]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
+[2024.12.07-22.35.25:073][195]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.07-22.35.39:965][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.35.40:005][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.07-22.35.40:027][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.07-22.35.40:034][ 63]LogWorldPartition: Can't find class descriptor '/Game/Levels/TestMap.TestMap_C' for saving '/Game/Levels/TestMap.TestMap_C'
+[2024.12.07-22.35.40:034][ 63]LogWorldPartition: Can't find class descriptor '/Game/Levels/TestMap.TestMap_C' for saving '/Game/Levels/TestMap.TestMap_C'
+[2024.12.07-22.35.40:037][ 63]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2024.12.07-22.35.40:038][ 63]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMapCB5156D74BBE7D64C16060B26E687127.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap'
+[2024.12.07-22.35.40:042][ 63]LogFileHelpers: Saving map 'TestMap' took 0.037
+[2024.12.07-22.35.40:055][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.860 ms (total: 2.53 sec)
+[2024.12.07-22.35.40:085][ 63]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.35.40:085][ 63]LogContentValidation: Enabled validators:
+[2024.12.07-22.35.40:085][ 63]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.35.40:085][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.35.40:085][ 63]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.35.40:085][ 63]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
+[2024.12.07-22.35.40:085][ 63]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.07-22.36.28:969][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.36.28:995][938]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Camera] ([2] browsable assets)...
+[2024.12.07-22.36.28:995][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Camera]
+[2024.12.07-22.36.28:995][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Camera" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_Camera.uasset" SILENT=true
+[2024.12.07-22.36.28:999][938]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Camera
+[2024.12.07-22.36.28:999][938]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_CameraC3D2B1E64B4B4F3E95E99A8D432E7479.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_Camera.uasset'
+[2024.12.07-22.36.29:009][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.251 ms (total: 2.57 sec)
+[2024.12.07-22.36.29:049][938]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.36.29:049][938]LogContentValidation: Enabled validators:
+[2024.12.07-22.36.29:049][938]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.36.29:049][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.36.29:049][938]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.36.29:049][938]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Camera.BP_Camera
+[2024.12.07-22.36.29:049][938]AssetCheck: /Game/Blueprints/BP_Camera Validating asset
+[2024.12.07-22.36.30:363][ 17]LogBlueprint: Warning: [AssetLog] C:\Users\arush\Documents\GitHub\finalproject415\FinalProject\Content\Blueprints\BP_Camera.uasset: [Compiler] Get Actor Of Class  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2024.12.07-22.36.30:388][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.12.07-22.36.45:045][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.36.45:085][891]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Camera] ([2] browsable assets)...
+[2024.12.07-22.36.45:085][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Camera]
+[2024.12.07-22.36.45:085][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Camera" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_Camera.uasset" SILENT=true
+[2024.12.07-22.36.45:090][891]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Camera
+[2024.12.07-22.36.45:090][891]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_CameraDA83EC4A42D4B6A45F7FFD864B79FCB4.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_Camera.uasset'
+[2024.12.07-22.36.45:099][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.479 ms (total: 2.63 sec)
+[2024.12.07-22.36.45:134][891]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.36.45:134][891]LogContentValidation: Enabled validators:
+[2024.12.07-22.36.45:134][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.36.45:134][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.36.45:134][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.36.45:134][891]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Camera.BP_Camera
+[2024.12.07-22.36.45:134][891]AssetCheck: /Game/Blueprints/BP_Camera Validating asset
+[2024.12.07-22.36.45:650][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.07-22.36.47:239][ 13]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.07-22.36.47:249][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.07-22.36.47:284][ 13]LogPlayLevel: Display: Creating online subsystem for client :Context_35
+[2024.12.07-22.36.47:287][ 13]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.12.07-22.36.47:307][ 14]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.07-22.36.47:308][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001769s)
+[2024.12.07-22.36.47:308][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001807s)
+[2024.12.07-22.36.47:321][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.07-22.36.47:324][ 14]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.07-22.36.47:325][ 14]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2024.12.07-22.36.47:343][ 14]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.12.07-22.36.47:343][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.07-22.36.47:343][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.07-22.36.47:343][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.07-22.36.47:343][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.07-22.36.47:343][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.07-22.36.47:343][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.07-22.36.47:343][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.07-22.36.47:343][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.07-22.36.47:343][ 14]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.07-22.36.47:343][ 14]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.07-22.36.47:343][ 14]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.07-22.36.47:344][ 14]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.07-22.36.47:390][ 14]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.07-22.36.47:391][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.07-22.36.47:391][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.07-22.36.47:391][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.07-22.36.47:391][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.12.07-22.36.47:391][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.12.07-22.36.47:392][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.12.07-22.36.47:392][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.12.07-22.36.47:392][ 14]LogInit: FAudioDevice initialized with ID 25.
+[2024.12.07-22.36.47:392][ 14]LogAudio: Display: Audio Device (ID: 25) registered with world 'TestMap'.
+[2024.12.07-22.36.47:392][ 14]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.12.07-22.36.47:394][ 14]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.07-22.36.47:395][ 14]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.07-16.36.47
+[2024.12.07-22.36.47:395][ 14]LogWorld: Bringing up level for play took: 0.000849
+[2024.12.07-22.36.47:412][ 14]PIE: Server logged in
+[2024.12.07-22.36.47:413][ 14]PIE: Play in editor total start time 0.169 seconds.
+[2024.12.07-22.37.06:736][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-22.37.06:736][169]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.07-22.37.06:736][169]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.37.06:736][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.37.06:736][169]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.07-22.37.06:736][169]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.07-22.37.06:739][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.07-22.37.06:742][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.37.06:753][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-22.37.06:753][169]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.12.07-22.37.06:753][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.12.07-22.37.06:754][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.12.07-22.37.06:759][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.07-22.37.06:821][170]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.12.07-22.37.15:757][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.37.15:796][702]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_CamStop] ([2] browsable assets)...
+[2024.12.07-22.37.15:802][702]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop]
+[2024.12.07-22.37.15:802][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CamStop]
+[2024.12.07-22.37.15:802][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CamStop" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_CamStop.uasset" SILENT=true
+[2024.12.07-22.37.15:805][702]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CamStop
+[2024.12.07-22.37.15:805][702]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_CamStopD2A1A64347E0AD424248A4B37DBBC012.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_CamStop.uasset'
+[2024.12.07-22.37.15:817][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.586 ms (total: 2.69 sec)
+[2024.12.07-22.37.15:852][702]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.37.15:852][702]LogContentValidation: Enabled validators:
+[2024.12.07-22.37.15:852][702]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.37.15:852][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.37.15:852][702]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.37.15:852][702]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_CamStop.BP_CamStop
+[2024.12.07-22.37.15:852][702]AssetCheck: /Game/Blueprints/BP_CamStop Validating asset
+[2024.12.07-22.37.16:338][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.07-22.37.17:569][798]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.07-22.37.17:579][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.07-22.37.17:624][798]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2024.12.07-22.37.17:627][798]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.12.07-22.37.17:647][799]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.07-22.37.17:648][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001751s)
+[2024.12.07-22.37.17:648][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001792s)
+[2024.12.07-22.37.17:657][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.07-22.37.17:660][799]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.07-22.37.17:660][799]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2024.12.07-22.37.17:678][799]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.12.07-22.37.17:678][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.07-22.37.17:678][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.07-22.37.17:678][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.07-22.37.17:678][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.07-22.37.17:678][799]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.07-22.37.17:678][799]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.07-22.37.17:678][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.07-22.37.17:678][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.07-22.37.17:678][799]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.07-22.37.17:678][799]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.07-22.37.17:678][799]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.07-22.37.17:680][799]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.07-22.37.17:720][799]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.07-22.37.17:721][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.07-22.37.17:721][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.07-22.37.17:721][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.07-22.37.17:721][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.12.07-22.37.17:721][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.12.07-22.37.17:723][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.12.07-22.37.17:723][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.12.07-22.37.17:723][799]LogInit: FAudioDevice initialized with ID 26.
+[2024.12.07-22.37.17:723][799]LogAudio: Display: Audio Device (ID: 26) registered with world 'TestMap'.
+[2024.12.07-22.37.17:723][799]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.12.07-22.37.17:724][799]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.07-22.37.17:725][799]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.07-16.37.17
+[2024.12.07-22.37.17:725][799]LogWorld: Bringing up level for play took: 0.000757
+[2024.12.07-22.37.17:745][799]PIE: Server logged in
+[2024.12.07-22.37.17:746][799]PIE: Play in editor total start time 0.173 seconds.
+[2024.12.07-22.37.34:259][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-22.37.34:259][785]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.07-22.37.34:259][785]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.37.34:259][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.37.34:259][785]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.07-22.37.34:259][785]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.07-22.37.34:263][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.07-22.37.34:266][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.37.34:273][785]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.07-22.37.34:273][785]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.12.07-22.37.34:273][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.12.07-22.37.34:275][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.12.07-22.37.34:278][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-22.37.34:279][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.07-22.37.34:340][786]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.12.07-22.39.25:529][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.07-22.39.27:777][511]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.07-22.39.27:789][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.07-22.39.27:789][511]LogPlayLevel: Display: Creating online subsystem for client :Context_37
+[2024.12.07-22.39.27:790][511]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.12.07-22.39.27:801][512]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.07-22.39.27:803][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001650s)
+[2024.12.07-22.39.27:803][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001682s)
+[2024.12.07-22.39.27:815][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.07-22.39.27:817][512]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.07-22.39.27:819][512]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2024.12.07-22.39.27:837][512]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.12.07-22.39.27:839][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.07-22.39.27:839][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.07-22.39.27:839][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.07-22.39.27:839][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.07-22.39.27:839][512]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.07-22.39.27:839][512]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.07-22.39.27:839][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.07-22.39.27:839][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.07-22.39.27:839][512]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.07-22.39.27:839][512]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.07-22.39.27:839][512]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.07-22.39.27:840][512]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.07-22.39.27:882][512]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.07-22.39.27:882][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.07-22.39.27:882][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.07-22.39.27:882][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.07-22.39.27:882][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.12.07-22.39.27:882][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.12.07-22.39.27:883][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.12.07-22.39.27:883][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.12.07-22.39.27:883][512]LogInit: FAudioDevice initialized with ID 27.
+[2024.12.07-22.39.27:883][512]LogAudio: Display: Audio Device (ID: 27) registered with world 'TestMap'.
+[2024.12.07-22.39.27:883][512]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.12.07-22.39.27:885][512]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.07-22.39.27:886][512]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.07-16.39.27
+[2024.12.07-22.39.27:886][512]LogWorld: Bringing up level for play took: 0.000774
+[2024.12.07-22.39.27:905][512]PIE: Server logged in
+[2024.12.07-22.39.27:906][512]PIE: Play in editor total start time 0.125 seconds.
+[2024.12.07-22.39.49:923][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-22.39.49:923][828]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.07-22.39.49:923][828]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.39.49:923][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.39.49:924][828]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.07-22.39.49:924][828]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.07-22.39.49:928][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.07-22.39.49:930][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.39.49:937][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.07-22.39.49:937][828]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.12.07-22.39.49:937][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.12.07-22.39.49:938][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.12.07-22.39.49:941][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-22.39.49:943][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.07-22.39.49:993][829]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.12.07-22.40.31:187][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.07-22.40.32:406][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.40.32:445][294]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.12.07-22.40.32:445][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.12.07-22.40.32:445][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.12.07-22.40.32:454][294]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.12.07-22.40.32:455][294]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD916CEFD24A9A974D5EFF1CB1DE42D156.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.12.07-22.40.32:465][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.804 ms (total: 2.74 sec)
+[2024.12.07-22.40.32:502][294]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.40.32:502][294]LogContentValidation: Enabled validators:
+[2024.12.07-22.40.32:502][294]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.40.32:502][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.40.32:502][294]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.40.32:502][294]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.12.07-22.40.32:503][294]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.12.07-22.40.34:107][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.40.34:147][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_CamStop] ([2] browsable assets)...
+[2024.12.07-22.40.34:153][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_CamStop.BP_CamStop]
+[2024.12.07-22.40.34:153][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CamStop]
+[2024.12.07-22.40.34:153][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CamStop" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_CamStop.uasset" SILENT=true
+[2024.12.07-22.40.34:156][388]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CamStop
+[2024.12.07-22.40.34:156][388]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_CamStop85C5430E4833B0F05917D49F14A0D760.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_CamStop.uasset'
+[2024.12.07-22.40.34:167][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.338 ms (total: 2.80 sec)
+[2024.12.07-22.40.34:198][388]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.40.34:198][388]LogContentValidation: Enabled validators:
+[2024.12.07-22.40.34:198][388]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.40.34:198][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.40.34:198][388]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.40.34:198][388]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_CamStop.BP_CamStop
+[2024.12.07-22.40.34:198][388]AssetCheck: /Game/Blueprints/BP_CamStop Validating asset
