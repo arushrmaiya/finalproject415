@@ -3463,3 +3463,809 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.12.07-22.40.34:198][388]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.07-22.40.34:198][388]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_CamStop.BP_CamStop
 [2024.12.07-22.40.34:198][388]AssetCheck: /Game/Blueprints/BP_CamStop Validating asset
+[2024.12.07-22.40.56:828][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.40.56:865][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.07-22.40.56:883][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.07-22.40.56:891][730]LogWorldPartition: Can't find class descriptor '/Game/Levels/TestMap.TestMap_C' for saving '/Game/Levels/TestMap.TestMap_C'
+[2024.12.07-22.40.56:891][730]LogWorldPartition: Can't find class descriptor '/Game/Levels/TestMap.TestMap_C' for saving '/Game/Levels/TestMap.TestMap_C'
+[2024.12.07-22.40.56:894][730]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2024.12.07-22.40.56:894][730]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMapA7F264614AD87092ED6331BDD192A672.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap'
+[2024.12.07-22.40.56:898][730]LogFileHelpers: Saving map 'TestMap' took 0.034
+[2024.12.07-22.40.56:914][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.848 ms (total: 2.89 sec)
+[2024.12.07-22.40.56:947][730]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.40.56:947][730]LogContentValidation: Enabled validators:
+[2024.12.07-22.40.56:947][730]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.40.56:947][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.40.56:947][730]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.40.56:947][730]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
+[2024.12.07-22.40.56:947][730]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.07-22.41.12:958][651]LogLevelInstance: Warning: Found RF_Transactional object '/Temp/Game/Levels/TestMap_LevelInstance_ff41d6d5168f1809_0.TestMap:PersistentLevel.REINST_BP_Camera_C_0' while unloading Level Instance.
+[2024.12.07-22.41.12:959][651]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.41.12:959][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.41.12:967][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.07-22.41.12:974][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.07-22.41.12:982][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.07-22.41.12:984][651]LogLevelInstance: Unloaded 1 levels in 0.026 seconds
+[2024.12.07-22.41.12:986][651]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.41.12:986][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.41.13:014][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.12.07-22.41.15:830][819]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.07-22.41.15:830][819]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.41.15:830][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.41.15:870][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.07-22.43.13:773][689]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.07-22.43.13:788][689]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.07-22.43.13:796][690]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.07-22.43.18:449][969]LogContentBrowser: Attempting asset rename: NewFolder -> Triggers
+[2024.12.07-22.43.18:449][969]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.07-22.43.22:630][213]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_CamStop.BP_CamStop:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_CamStop.PackageMetaData'
+[2024.12.07-22.43.22:630][213]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_CamStop.SKEL_BP_CamStop_C' ref from Metadata '/Game/Blueprints/BP_CamStop.PackageMetaData'
+[2024.12.07-22.43.22:630][213]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_CamStop.BP_CamStop_C' ref from Metadata '/Game/Blueprints/BP_CamStop.PackageMetaData'
+[2024.12.07-22.43.22:630][213]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_CamStop.BP_CamStop:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_CamStop.PackageMetaData'
+[2024.12.07-22.43.22:630][213]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_CamStop.BP_CamStop:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_CamStop.PackageMetaData'
+[2024.12.07-22.43.22:630][213]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_CamStop.BP_CamStop:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_CamStop.PackageMetaData'
+[2024.12.07-22.43.22:630][213]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_CamStop.SKEL_BP_CamStop_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_CamStop.PackageMetaData'
+[2024.12.07-22.43.22:630][213]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_CamStop.SKEL_BP_CamStop_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_CamStop.PackageMetaData'
+[2024.12.07-22.43.22:630][213]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_CamStop.SKEL_BP_CamStop_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_CamStop.PackageMetaData'
+[2024.12.07-22.43.22:630][213]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_CamStop.SKEL_BP_CamStop_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_CamStop.PackageMetaData'
+[2024.12.07-22.43.22:639][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.43.22:678][213]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Triggers/BP_CamStop] ([2] browsable assets)...
+[2024.12.07-22.43.22:678][213]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggers/BP_CamStop]
+[2024.12.07-22.43.22:679][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Triggers/BP_CamStop" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Triggers/BP_CamStop.uasset" SILENT=true
+[2024.12.07-22.43.22:680][213]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggers/BP_CamStop
+[2024.12.07-22.43.22:680][213]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_CamStop235C379F4E1840B39D109180EA30AD41.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Triggers/BP_CamStop.uasset'
+[2024.12.07-22.43.22:685][213]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_CamStop] ([5] browsable assets)...
+[2024.12.07-22.43.22:685][213]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CamStop]
+[2024.12.07-22.43.22:685][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CamStop" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_CamStop.uasset" SILENT=true
+[2024.12.07-22.43.22:686][213]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CamStop
+[2024.12.07-22.43.22:686][213]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_CamStop47C06CFF418FD8FDB072A68BE8F1576A.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_CamStop.uasset'
+[2024.12.07-22.43.22:699][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.127 ms (total: 2.95 sec)
+[2024.12.07-22.43.22:714][213]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.07-22.43.22:714][213]LogContentValidation: Display: Starting to validate 4 assets
+[2024.12.07-22.43.22:714][213]LogContentValidation: Enabled validators:
+[2024.12.07-22.43.22:714][213]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.43.22:714][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.43.22:714][213]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.43.22:714][213]LogContentValidation: Display: Validating asset /Game/Blueprints/Triggers/BP_CamStop.BP_CamStop
+[2024.12.07-22.43.22:714][213]AssetCheck: /Game/Blueprints/Triggers/BP_CamStop Validating asset
+[2024.12.07-22.43.22:715][213]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_CamStop.BP_CamStop
+[2024.12.07-22.43.22:715][213]AssetCheck: /Game/Blueprints/BP_CamStop Validating asset
+[2024.12.07-22.43.22:715][213]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_CamStop.BP_CamStop_C
+[2024.12.07-22.43.22:715][213]AssetCheck: /Game/Blueprints/BP_CamStop Validating asset
+[2024.12.07-22.43.22:715][213]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_CamStop.Default__BP_CamStop_C
+[2024.12.07-22.43.22:715][213]AssetCheck: /Game/Blueprints/BP_CamStop Validating asset
+[2024.12.07-22.43.31:950][336]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.07-22.43.31:966][336]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.07-22.43.31:973][336]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.07-22.43.31:975][337]LogAutomationController: Ignoring very large delta of 7.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.07-22.43.31:982][337]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.07-22.43.35:813][567]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_NextLevel
+[2024.12.07-22.43.35:817][567]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.07-22.43.36:239][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.43.36:274][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Triggers/BP_NextLevel] ([2] browsable assets)...
+[2024.12.07-22.43.36:274][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggers/BP_NextLevel]
+[2024.12.07-22.43.36:274][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Triggers/BP_NextLevel" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Triggers/BP_NextLevel.uasset" SILENT=true
+[2024.12.07-22.43.36:276][592]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggers/BP_NextLevel
+[2024.12.07-22.43.36:276][592]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_NextLevel69B287BA4E2181DA3CAC6FAABE59BD60.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Triggers/BP_NextLevel.uasset'
+[2024.12.07-22.43.36:287][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.818 ms (total: 3.00 sec)
+[2024.12.07-22.43.36:326][592]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.43.36:326][592]LogContentValidation: Enabled validators:
+[2024.12.07-22.43.36:326][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.43.36:326][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.43.36:326][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.43.36:326][592]LogContentValidation: Display: Validating asset /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel
+[2024.12.07-22.43.36:326][592]AssetCheck: /Game/Blueprints/Triggers/BP_NextLevel Validating asset
+[2024.12.07-22.43.37:445][659]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel
+[2024.12.07-22.43.53:521][555]LogSlate: Window 'BP_NextLevel' being destroyed
+[2024.12.07-22.43.54:973][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: ================================================
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Total job queries 217, among them cache hits 26 (11.98%), DDC hits 160 (73.73%), Duplicates 5 (2.30%)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Tracking 186 distinct input hashes that result in 169 distinct outputs (90.86%)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: RAM used: 5.64 MiB of 1.60 GiB budget. Usage: 0.34%
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Shaders Compiled: 26
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100%)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Average time worker was idle: 328.74 s
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.13 s
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Job execution time: average 1.16 s, max 3.34 s
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Job life time (pending + execution): average 1.22 s, max 3.45
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Shader code size: average 35.246 KiB, min 28.695 KiB, max 60.188 KiB
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.68 s
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Average processing rate: 2.05 jobs/sec
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Total thread time: 5.902 s
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Total thread preprocess time: 2.632 s
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Percentage time preprocessing: 44.59%
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Effective parallelization: 0.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 0.30 sec, max 0.37 sec, min 0.25 sec)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    5 times, average 0.22 sec, max 0.27 sec, min 0.18 sec)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.17 sec, max 0.21 sec, min 0.15 sec)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.16 sec, max 0.18 sec, min 0.14 sec)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display:                   FRenderVolumetricCloudEmptySpaceSkippingCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 50.03% of total time (compiled   10 times, average 0.30 sec, max 0.37 sec, min 0.25 sec)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 18.89% of total time (compiled    5 times, average 0.22 sec, max 0.27 sec, min 0.18 sec)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.74% of total time (compiled    6 times, average 0.17 sec, max 0.21 sec, min 0.15 sec)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.33% of total time (compiled    5 times, average 0.16 sec, max 0.18 sec, min 0.14 sec)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display:                    TVoxelizeVolumeVS<VMode_Primitive_Sphere> - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: === Material stats ===
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Materials Translated:    119
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Material Total Translate Time: 0.28 s
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Material Translation Only: 0.03 s (9%)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: Material Cache Hits: 12 (10%)
+[2024.12.07-22.44.08:267][395]LogShaderCompilers: Display: ================================================
+[2024.12.07-22.45.23:775][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.45.23:814][802]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggers/BP_NextLevel] ([2] browsable assets)...
+[2024.12.07-22.45.23:851][802]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel]
+[2024.12.07-22.45.23:851][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggers/BP_NextLevel]
+[2024.12.07-22.45.23:851][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Triggers/BP_NextLevel" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Triggers/BP_NextLevel.uasset" SILENT=true
+[2024.12.07-22.45.23:853][802]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggers/BP_NextLevel
+[2024.12.07-22.45.23:854][802]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_NextLevel77BC1355490EE3A9E4884383F47757A0.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Triggers/BP_NextLevel.uasset'
+[2024.12.07-22.45.23:864][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.322 ms (total: 3.09 sec)
+[2024.12.07-22.45.23:898][802]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.45.23:898][802]LogContentValidation: Enabled validators:
+[2024.12.07-22.45.23:898][802]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.45.23:898][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.45.23:898][802]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.45.23:898][802]LogContentValidation: Display: Validating asset /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel
+[2024.12.07-22.45.23:899][802]AssetCheck: /Game/Blueprints/Triggers/BP_NextLevel Validating asset
+[2024.12.07-22.45.24:292][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.07-22.45.38:798][690]LogContentBrowser: Attempting asset rename: Map2 -> Map2
+[2024.12.07-22.45.41:882][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.45.41:925][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggers/BP_NextLevel] ([2] browsable assets)...
+[2024.12.07-22.45.41:967][875]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel]
+[2024.12.07-22.45.41:967][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggers/BP_NextLevel]
+[2024.12.07-22.45.41:967][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Triggers/BP_NextLevel" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Triggers/BP_NextLevel.uasset" SILENT=true
+[2024.12.07-22.45.41:971][875]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggers/BP_NextLevel
+[2024.12.07-22.45.41:971][875]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_NextLevelA2D3EE19490CAAE6DE903183551F5159.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Triggers/BP_NextLevel.uasset'
+[2024.12.07-22.45.41:982][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.525 ms (total: 3.19 sec)
+[2024.12.07-22.45.42:026][875]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.45.42:026][875]LogContentValidation: Enabled validators:
+[2024.12.07-22.45.42:026][875]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.45.42:026][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.45.42:026][875]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.45.42:026][875]LogContentValidation: Display: Validating asset /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel
+[2024.12.07-22.45.42:026][875]AssetCheck: /Game/Blueprints/Triggers/BP_NextLevel Validating asset
+[2024.12.07-22.45.42:308][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.07-22.45.44:245][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.45.44:276][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.07-22.45.44:292][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.07-22.45.44:300][  5]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2024.12.07-22.45.44:301][  5]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMap951601414391E210326EA4B15C0884B8.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap'
+[2024.12.07-22.45.44:304][  5]LogFileHelpers: Saving map 'TestMap' took 0.028
+[2024.12.07-22.45.44:427][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.819 ms (total: 3.37 sec)
+[2024.12.07-22.45.44:468][  5]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.45.44:468][  5]LogContentValidation: Enabled validators:
+[2024.12.07-22.45.44:468][  5]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.45.44:469][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.45.44:469][  5]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.45.44:469][  5]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
+[2024.12.07-22.45.44:469][  5]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.07-22.45.48:505][239]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel_C
+[2024.12.07-22.45.48:505][239]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel_C
+[2024.12.07-22.45.48:506][239]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_NextLevel_C_0
+[2024.12.07-22.45.48:507][239]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_NextLevel_C_0
+[2024.12.07-22.45.48:560][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.07-22.45.48:581][242]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2024.12.07-22.45.48:867][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel_C
+[2024.12.07-22.45.48:867][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel_C
+[2024.12.07-22.45.48:868][258]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_NextLevel_C_1
+[2024.12.07-22.45.48:869][258]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_NextLevel_C_1
+[2024.12.07-22.45.53:527][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.07-22.45.53:529][535]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2024.12.07-22.45.53:533][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel_C
+[2024.12.07-22.45.53:533][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel_C
+[2024.12.07-22.45.53:535][535]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_NextLevel_C_2
+[2024.12.07-22.45.53:535][535]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Levels/TestMap.TestMap:PersistentLevel.BP_NextLevel_C_2
+[2024.12.07-22.46.15:125][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.46.15:170][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.07-22.46.15:187][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.07-22.46.15:197][819]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2024.12.07-22.46.15:198][819]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMap04A9F97646F1692D16B366847E32F2CE.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap'
+[2024.12.07-22.46.15:201][819]LogFileHelpers: Saving map 'TestMap' took 0.031
+[2024.12.07-22.46.15:214][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.792 ms (total: 3.46 sec)
+[2024.12.07-22.46.15:249][819]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.46.15:249][819]LogContentValidation: Enabled validators:
+[2024.12.07-22.46.15:249][819]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.46.15:249][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.46.15:249][819]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.46.15:249][819]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
+[2024.12.07-22.46.15:250][819]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.07-22.46.16:089][869]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.07-22.46.16:105][869]LogPlayLevel: [PlayLevel] Compiling BP_PlayerZD before play...
+[2024.12.07-22.46.16:145][869]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2024.12.07-22.46.16:166][869]LogPlayLevel: [PlayLevel] Compiling TestMap before play...
+[2024.12.07-22.46.16:181][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.07-22.46.16:183][869]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (3 blueprints)
+[2024.12.07-22.46.16:184][869]LogPlayLevel: Display: Creating online subsystem for client :Context_40
+[2024.12.07-22.46.16:186][869]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.12.07-22.46.16:196][870]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.07-22.46.16:199][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001674s)
+[2024.12.07-22.46.16:199][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001710s)
+[2024.12.07-22.46.16:205][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.07-22.46.16:208][870]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.07-22.46.16:209][870]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2024.12.07-22.46.16:228][870]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.12.07-22.46.16:228][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.07-22.46.16:228][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.07-22.46.16:228][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.07-22.46.16:228][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.07-22.46.16:228][870]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.07-22.46.16:228][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.07-22.46.16:228][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.07-22.46.16:228][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.07-22.46.16:228][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.07-22.46.16:228][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.07-22.46.16:228][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.07-22.46.16:230][870]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.07-22.46.16:275][870]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.07-22.46.16:276][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.07-22.46.16:276][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.07-22.46.16:276][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.07-22.46.16:276][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.12.07-22.46.16:276][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.12.07-22.46.16:277][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.12.07-22.46.16:277][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.12.07-22.46.16:277][870]LogInit: FAudioDevice initialized with ID 28.
+[2024.12.07-22.46.16:277][870]LogAudio: Display: Audio Device (ID: 28) registered with world 'TestMap'.
+[2024.12.07-22.46.16:277][870]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.12.07-22.46.16:280][870]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.07-22.46.16:280][870]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.07-16.46.16
+[2024.12.07-22.46.16:281][870]LogWorld: Bringing up level for play took: 0.000781
+[2024.12.07-22.46.16:298][870]PIE: Server logged in
+[2024.12.07-22.46.16:299][870]PIE: Play in editor total start time 0.206 seconds.
+[2024.12.07-22.46.33:055][851]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Map2"
+[2024.12.07-22.46.33:056][851]LogNet: Browse: /Game/Levels/Map2
+[2024.12.07-22.46.33:057][851]LogLoad: LoadMap: /Game/Levels/Map2
+[2024.12.07-22.46.33:057][851]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.07-22.46.33:057][851]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.46.33:058][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.46.33:058][851]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.07-22.46.33:058][851]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.07-22.46.33:068][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.07-22.46.33:069][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.07-22.46.33:077][851]LogAudio: Display: Audio Device (ID: 28) registered with world 'Map2'.
+[2024.12.07-22.46.33:077][851]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.07-22.46.33:078][851]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2024.12.07-22.46.33:078][851]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.07-22.46.33:079][851]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2024.12.07-16.46.33
+[2024.12.07-22.46.33:079][851]LogWorld: Bringing up level for play took: 0.001035
+[2024.12.07-22.46.33:080][851]LogLoad: Took 0.023730 seconds to LoadMap(/Game/Levels/Map2)
+[2024.12.07-22.46.33:080][851]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Map2
+[2024.12.07-22.46.33:081][851]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:081][851]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:094][852]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:094][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:110][853]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:110][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:127][854]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:127][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:143][855]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:143][855]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:160][856]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:160][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:177][857]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:177][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:193][858]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:193][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:210][859]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:210][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:227][860]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:227][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:244][861]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:244][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:260][862]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:260][862]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:277][863]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:277][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:293][864]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:293][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:310][865]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:310][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:327][866]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	BP_Camera_C /Game/Levels/UEDPIE_0_Map2.Map2:PersistentLevel.BP_Camera_C_2
+	Function /Game/Blueprints/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0046
+[2024.12.07-22.46.33:327][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:343][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:360][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:377][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:393][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:411][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:427][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:444][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:460][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:477][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:494][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:510][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:527][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:543][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:560][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:577][881]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:594][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:610][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:627][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:643][885]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:660][886]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:677][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:693][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:710][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:727][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:744][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:761][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:777][893]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:794][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:811][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:827][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:844][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:860][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:877][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:894][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:910][901]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:927][902]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:943][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:961][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:977][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.33:993][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:011][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:027][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:044][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:060][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:077][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:093][912]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:110][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:127][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:143][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:160][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:177][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:193][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:210][919]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:227][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:244][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:260][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:277][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:293][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:310][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:327][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:344][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:360][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:377][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:394][930]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:410][931]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:427][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:444][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:460][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:477][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:494][936]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:510][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:527][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:544][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:560][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:577][941]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:593][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:610][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:627][944]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:644][945]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:660][946]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:677][947]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:694][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:710][949]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:727][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:743][951]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:761][952]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:777][953]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:793][954]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:810][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:827][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:844][957]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:860][958]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:877][959]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:894][960]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:910][961]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:927][962]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:944][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:960][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:977][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.34:994][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:010][967]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:027][968]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:044][969]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:060][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:076][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:094][972]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:111][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:127][974]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:143][975]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:160][976]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:177][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:193][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:210][979]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:226][980]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:244][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:261][982]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:277][983]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:294][984]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:310][985]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:327][986]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:343][987]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:360][988]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:377][989]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:393][990]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:410][991]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:427][992]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:443][993]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:460][994]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:477][995]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:493][996]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:511][997]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:527][998]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:543][999]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:560][  0]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:576][  1]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:593][  2]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:610][  3]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:627][  4]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:644][  5]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:660][  6]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:677][  7]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:694][  8]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:711][  9]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:727][ 10]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:744][ 11]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:760][ 12]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:776][ 13]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:793][ 14]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:810][ 15]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:827][ 16]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:844][ 17]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:860][ 18]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:878][ 19]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:894][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:910][ 21]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:927][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:944][ 23]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:960][ 24]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:977][ 25]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.35:994][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:011][ 27]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:027][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:044][ 29]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:060][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:077][ 31]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:094][ 32]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:110][ 33]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:127][ 34]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:143][ 35]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:161][ 36]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:177][ 37]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:194][ 38]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:210][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:227][ 40]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:243][ 41]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:261][ 42]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:277][ 43]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:294][ 44]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:310][ 45]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:327][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:344][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:360][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:377][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:394][ 50]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:410][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:427][ 52]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:444][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:460][ 54]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:477][ 55]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:494][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:511][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:527][ 58]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:544][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:560][ 60]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:577][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:594][ 62]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:611][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:627][ 64]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:643][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:660][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:676][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:692][ 68]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:710][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:727][ 70]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:743][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:761][ 72]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:777][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:794][ 74]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:810][ 75]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:827][ 76]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:843][ 77]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:860][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:876][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:894][ 80]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.46.36:929][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-22.46.36:929][ 80]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Map2
+[2024.12.07-22.46.36:929][ 80]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.46.36:930][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.46.36:930][ 80]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.07-22.46.36:930][ 80]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.07-22.46.36:933][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.07-22.46.36:935][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.46.36:943][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-22.46.36:943][ 80]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.12.07-22.46.36:943][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.12.07-22.46.36:944][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.12.07-22.46.36:948][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.07-22.46.37:065][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.12.07-22.47.15:678][383]LogSlate: Window 'Message Log' being destroyed
+[2024.12.07-22.47.15:690][383]LogSlate: Window 'Message Log' being destroyed
+[2024.12.07-22.47.29:981][232]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.07-22.47.29:992][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.07-22.47.29:993][232]LogPlayLevel: Display: Creating online subsystem for client :Context_41
+[2024.12.07-22.47.29:995][232]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.12.07-22.47.30:006][233]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.07-22.47.30:007][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001681s)
+[2024.12.07-22.47.30:007][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001716s)
+[2024.12.07-22.47.30:014][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.07-22.47.30:018][233]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.07-22.47.30:019][233]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2024.12.07-22.47.30:035][233]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.12.07-22.47.30:035][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.07-22.47.30:035][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.07-22.47.30:035][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.07-22.47.30:035][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.07-22.47.30:035][233]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.07-22.47.30:035][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.07-22.47.30:035][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.07-22.47.30:035][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.07-22.47.30:035][233]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.07-22.47.30:035][233]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.07-22.47.30:035][233]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.07-22.47.30:037][233]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.07-22.47.30:075][233]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.07-22.47.30:075][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.07-22.47.30:075][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.07-22.47.30:075][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.07-22.47.30:076][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.12.07-22.47.30:076][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.12.07-22.47.30:077][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.12.07-22.47.30:077][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.12.07-22.47.30:077][233]LogInit: FAudioDevice initialized with ID 29.
+[2024.12.07-22.47.30:077][233]LogAudio: Display: Audio Device (ID: 29) registered with world 'TestMap'.
+[2024.12.07-22.47.30:077][233]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.12.07-22.47.30:079][233]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.07-22.47.30:080][233]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.07-16.47.30
+[2024.12.07-22.47.30:080][233]LogWorld: Bringing up level for play took: 0.000766
+[2024.12.07-22.47.30:097][233]PIE: Server logged in
+[2024.12.07-22.47.30:098][233]PIE: Play in editor total start time 0.113 seconds.
+[2024.12.07-22.47.30:698][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-22.47.30:698][264]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.07-22.47.30:698][264]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.47.30:698][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.47.30:698][264]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.07-22.47.30:698][264]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.07-22.47.30:700][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.07-22.47.30:702][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.47.30:708][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-22.47.30:708][264]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.12.07-22.47.30:708][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.12.07-22.47.30:710][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.12.07-22.47.30:713][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.07-22.47.30:782][266]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.12.07-22.47.32:017][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.07-22.47.32:025][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.07-22.47.32:025][340]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2024.12.07-22.47.32:028][340]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.12.07-22.47.32:038][341]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.07-22.47.32:039][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001566s)
+[2024.12.07-22.47.32:039][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001599s)
+[2024.12.07-22.47.32:047][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.07-22.47.32:050][341]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.07-22.47.32:050][341]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2024.12.07-22.47.32:066][341]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.12.07-22.47.32:066][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.07-22.47.32:066][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.07-22.47.32:066][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.07-22.47.32:066][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.07-22.47.32:066][341]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.07-22.47.32:066][341]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.07-22.47.32:066][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.07-22.47.32:066][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.07-22.47.32:066][341]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.07-22.47.32:066][341]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.07-22.47.32:066][341]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.07-22.47.32:068][341]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.07-22.47.32:106][341]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.07-22.47.32:106][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.07-22.47.32:106][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.07-22.47.32:106][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.07-22.47.32:107][341]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.12.07-22.47.32:107][341]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.12.07-22.47.32:108][341]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.12.07-22.47.32:108][341]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.12.07-22.47.32:108][341]LogInit: FAudioDevice initialized with ID 30.
+[2024.12.07-22.47.32:108][341]LogAudio: Display: Audio Device (ID: 30) registered with world 'TestMap'.
+[2024.12.07-22.47.32:108][341]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.12.07-22.47.32:110][341]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.07-22.47.32:111][341]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.07-16.47.32
+[2024.12.07-22.47.32:111][341]LogWorld: Bringing up level for play took: 0.000780
+[2024.12.07-22.47.32:130][341]PIE: Server logged in
+[2024.12.07-22.47.32:131][341]PIE: Play in editor total start time 0.111 seconds.
+[2024.12.07-22.47.47:743][275]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Map2"
+[2024.12.07-22.47.47:743][275]LogNet: Browse: /Game/Levels/Map2
+[2024.12.07-22.47.47:743][275]LogLoad: LoadMap: /Game/Levels/Map2
+[2024.12.07-22.47.47:743][275]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.07-22.47.47:743][275]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.47.47:743][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.47.47:744][275]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.07-22.47.47:744][275]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.07-22.47.47:774][275]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.07-22.47.47:775][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.07-22.47.47:778][275]LogAudio: Display: Audio Device (ID: 30) registered with world 'Map2'.
+[2024.12.07-22.47.47:778][275]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.07-22.47.47:779][275]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2024.12.07-22.47.47:779][275]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.07-22.47.47:780][275]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2024.12.07-16.47.47
+[2024.12.07-22.47.47:780][275]LogWorld: Bringing up level for play took: 0.001051
+[2024.12.07-22.47.47:782][275]LogLoad: Took 0.039698 seconds to LoadMap(/Game/Levels/Map2)
+[2024.12.07-22.47.47:782][275]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Map2
+[2024.12.07-22.47.47:782][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:793][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:810][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:827][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:844][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:860][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:878][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:893][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:911][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:927][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:944][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:960][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:978][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.47:994][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:010][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:028][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:044][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:061][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:077][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:094][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:111][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:127][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:143][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:161][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:177][299]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:193][300]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:211][301]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:227][302]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:244][303]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:261][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:278][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:293][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:311][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:327][308]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:344][309]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:361][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:377][311]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:393][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:411][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:427][314]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:444][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:461][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:478][317]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:494][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:511][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:527][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:543][321]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:560][322]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:577][323]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:593][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:611][325]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:627][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:644][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:661][328]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:677][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:693][330]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:710][331]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:728][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:744][333]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:761][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:778][335]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:793][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:811][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:828][338]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:843][339]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:861][340]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:877][341]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:894][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:911][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:927][344]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:944][345]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:960][346]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:978][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.48:994][348]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:011][349]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:027][350]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:044][351]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:060][352]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:077][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:094][354]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:111][355]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:127][356]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:144][357]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:161][358]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:178][359]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:194][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:210][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:228][362]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:243][363]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:261][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:277][365]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:294][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:310][367]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:327][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:344][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:361][370]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:377][371]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:394][372]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:411][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:427][374]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:443][375]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:461][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:477][377]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:493][378]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:511][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:527][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:544][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:560][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:577][383]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:594][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:611][385]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:628][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:644][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:661][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Camera Blueprint:  BP_Camera
+[2024.12.07-22.47.49:690][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-22.47.49:690][388]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Map2
+[2024.12.07-22.47.49:690][388]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.47.49:690][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.47.49:690][388]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.07-22.47.49:690][388]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.07-22.47.49:693][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.07-22.47.49:695][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.47.49:701][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-22.47.49:701][388]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.12.07-22.47.49:701][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.12.07-22.47.49:703][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.12.07-22.47.49:708][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.07-22.47.49:819][389]LogPlayLevel: Display: Destroying online subsystem :Context_42
