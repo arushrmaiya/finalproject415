@@ -4286,3 +4286,17 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.12.07-22.53.58:709][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.07-22.53.58:709][921]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Camera.BP_Camera
 [2024.12.07-22.53.58:709][921]AssetCheck: /Game/Blueprints/BP_Camera Validating asset
+[2024.12.07-22.56.18:858][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.56.18:905][572]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.12.07-22.56.18:905][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.12.07-22.56.18:905][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.12.07-22.56.18:915][572]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.12.07-22.56.18:915][572]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZDA825996D4BB484F23CF986A02F10D9AA.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.12.07-22.56.18:925][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.890 ms (total: 3.58 sec)
+[2024.12.07-22.56.18:968][572]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.56.18:968][572]LogContentValidation: Enabled validators:
+[2024.12.07-22.56.18:968][572]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.56.18:968][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.56.18:968][572]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.56.18:968][572]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.12.07-22.56.18:968][572]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
