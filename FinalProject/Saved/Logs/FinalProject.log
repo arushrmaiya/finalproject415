@@ -4269,3 +4269,20 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.12.07-22.47.49:703][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
 [2024.12.07-22.47.49:708][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
 [2024.12.07-22.47.49:819][389]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.12.07-22.51.55:241][281]LogDerivedDataCache: C:/Users/arush/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.07-22.53.55:777][750]LogSlate: Window 'Message Log' being destroyed
+[2024.12.07-22.53.55:787][750]LogSlate: Window 'Message Log' being destroyed
+[2024.12.07-22.53.58:629][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-22.53.58:665][921]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Camera] ([2] browsable assets)...
+[2024.12.07-22.53.58:665][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Camera]
+[2024.12.07-22.53.58:665][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Camera" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_Camera.uasset" SILENT=true
+[2024.12.07-22.53.58:669][921]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Camera
+[2024.12.07-22.53.58:669][921]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_Camera90EE82C74FFBB582174D28B7822F9E4A.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_Camera.uasset'
+[2024.12.07-22.53.58:679][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.589 ms (total: 3.51 sec)
+[2024.12.07-22.53.58:709][921]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.07-22.53.58:709][921]LogContentValidation: Enabled validators:
+[2024.12.07-22.53.58:709][921]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.07-22.53.58:709][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.07-22.53.58:709][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.07-22.53.58:709][921]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Camera.BP_Camera
+[2024.12.07-22.53.58:709][921]AssetCheck: /Game/Blueprints/BP_Camera Validating asset
