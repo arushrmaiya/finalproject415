@@ -4484,3 +4484,195 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.12.08-23.42.00:360][674]LogPlayLevel: Display: Destroying online subsystem :Context_53
 [2024.12.08-23.42.04:407][909]LogSlate: Window 'Message Log' being destroyed
 [2024.12.08-23.42.04:416][909]LogSlate: Window 'Message Log' being destroyed
+[2024.12.08-23.42.29:175][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.08-23.42.29:184][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/TestMap_Auto2
+[2024.12.08-23.42.29:184][ 24]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMap_Auto2C9EE805C4D73DEF947F41C8AD74081D9.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/Levels/TestMap_Auto2.umap'
+[2024.12.08-23.42.29:185][ 24]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/Levels/TestMap_Auto2.umap is in the /Temp path, will not scan.
+[2024.12.08-23.42.29:185][ 24]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.019
+[2024.12.08-23.42.29:185][ 24]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.12.08-23.42.29:185][ 24]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemies/bp_turret] ([2] browsable assets)...
+[2024.12.08-23.42.29:226][ 24]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret]
+[2024.12.08-23.42.29:226][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_turret]
+[2024.12.08-23.42.29:232][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Enemies/bp_turret_Auto2
+[2024.12.08-23.42.29:232][ 24]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_turret_Auto277071274492170080D8660891099165B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/Blueprints/Enemies/bp_turret_Auto2.uasset'
+[2024.12.08-23.42.29:233][ 24]LogFileHelpers: Auto-saving content packages took 0.048
+[2024.12.08-23.42.35:914][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.08-23.42.35:948][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.08-23.42.35:965][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.08-23.42.35:973][391]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2024.12.08-23.42.35:974][391]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMap9C03685D47D318D69DF56F9B029AFE83.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap'
+[2024.12.08-23.42.35:977][391]LogFileHelpers: Saving map 'TestMap' took 0.029
+[2024.12.08-23.42.35:987][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.804 ms (total: 4.43 sec)
+[2024.12.08-23.42.36:024][391]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.08-23.42.36:025][391]LogContentValidation: Enabled validators:
+[2024.12.08-23.42.36:025][391]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.08-23.42.36:025][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.08-23.42.36:025][391]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.08-23.42.36:025][391]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
+[2024.12.08-23.42.36:025][391]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.08-23.42.40:905][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.08-23.42.40:941][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/bp_turret] ([2] browsable assets)...
+[2024.12.08-23.42.40:941][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_turret]
+[2024.12.08-23.42.40:941][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bp_turret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset" SILENT=true
+[2024.12.08-23.42.40:948][679]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/bp_turret
+[2024.12.08-23.42.40:948][679]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_turretA1AB457F48CDC2868BE69BA61ED0F1B9.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset'
+[2024.12.08-23.42.40:958][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.086 ms (total: 4.48 sec)
+[2024.12.08-23.42.40:991][679]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.08-23.42.40:991][679]LogContentValidation: Enabled validators:
+[2024.12.08-23.42.40:991][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.08-23.42.40:991][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.08-23.42.40:991][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.08-23.42.40:991][679]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/bp_turret.bp_turret
+[2024.12.08-23.42.40:991][679]AssetCheck: /Game/Blueprints/Enemies/bp_turret Validating asset
+[2024.12.08-23.42.48:818][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.08-23.42.48:845][141]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemies/bp_rotaturret] ([2] browsable assets)...
+[2024.12.08-23.42.48:885][141]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret]
+[2024.12.08-23.42.48:885][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_rotaturret]
+[2024.12.08-23.42.48:885][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bp_rotaturret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset" SILENT=true
+[2024.12.08-23.42.48:890][141]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/bp_rotaturret
+[2024.12.08-23.42.48:890][141]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_rotaturret4BE8FE374AD125E2F7832CA65ACB0711.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset'
+[2024.12.08-23.42.48:902][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.067 ms (total: 4.57 sec)
+[2024.12.08-23.42.48:926][141]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.08-23.42.48:926][141]LogContentValidation: Enabled validators:
+[2024.12.08-23.42.48:926][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.08-23.42.48:926][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.08-23.42.48:926][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.08-23.42.48:926][141]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret
+[2024.12.08-23.42.48:926][141]AssetCheck: /Game/Blueprints/Enemies/bp_rotaturret Validating asset
+[2024.12.08-23.42.49:734][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.08-23.42.59:738][774]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/bp_movinenemy.bp_movinenemy
+[2024.12.08-23.43.02:029][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.08-23.43.02:071][900]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemies/bp_movinenemy] ([2] browsable assets)...
+[2024.12.08-23.43.02:109][900]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemies/bp_movinenemy.bp_movinenemy]
+[2024.12.08-23.43.02:109][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_movinenemy]
+[2024.12.08-23.43.02:109][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bp_movinenemy" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset" SILENT=true
+[2024.12.08-23.43.02:114][900]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/bp_movinenemy
+[2024.12.08-23.43.02:115][900]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_movinenemy52792FBE4EEFB0EC6A5A53AE8776D5DE.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset'
+[2024.12.08-23.43.02:127][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.600 ms (total: 4.67 sec)
+[2024.12.08-23.43.02:162][900]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.08-23.43.02:162][900]LogContentValidation: Enabled validators:
+[2024.12.08-23.43.02:162][900]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.08-23.43.02:162][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.08-23.43.02:162][900]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.08-23.43.02:162][900]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/bp_movinenemy.bp_movinenemy
+[2024.12.08-23.43.02:162][900]AssetCheck: /Game/Blueprints/Enemies/bp_movinenemy Validating asset
+[2024.12.08-23.43.02:823][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.08-23.43.39:215][106]LogEditorTransaction: Undo Move Nodes
+[2024.12.08-23.43.39:944][138]LogEditorTransaction: Undo Paste clipboard contents
+[2024.12.08-23.43.42:021][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.08-23.43.53:320][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.08-23.43.53:357][925]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemies/bp_turret] ([2] browsable assets)...
+[2024.12.08-23.43.53:397][925]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret]
+[2024.12.08-23.43.53:397][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_turret]
+[2024.12.08-23.43.53:397][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bp_turret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset" SILENT=true
+[2024.12.08-23.43.53:404][925]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/bp_turret
+[2024.12.08-23.43.53:404][925]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_turret2ED6C0F446706C35E3AB56813E937D7C.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset'
+[2024.12.08-23.43.53:416][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.703 ms (total: 4.76 sec)
+[2024.12.08-23.43.53:445][925]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.08-23.43.53:445][925]LogContentValidation: Enabled validators:
+[2024.12.08-23.43.53:445][925]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.08-23.43.53:445][925]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.08-23.43.53:445][925]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.08-23.43.53:445][925]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/bp_turret.bp_turret
+[2024.12.08-23.43.53:445][925]AssetCheck: /Game/Blueprints/Enemies/bp_turret Validating asset
+[2024.12.08-23.43.53:669][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.08-23.43.55:008][ 11]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.08-23.43.55:015][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.08-23.43.55:016][ 11]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.08-23.43.55:018][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001848s)
+[2024.12.08-23.43.55:018][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001872s)
+[2024.12.08-23.43.55:025][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.08-23.43.55:029][ 11]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.08-23.43.55:030][ 11]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2024.12.08-23.43.55:047][ 11]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.12.08-23.43.55:047][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.08-23.43.55:047][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.08-23.43.55:047][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.08-23.43.55:047][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.08-23.43.55:047][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.08-23.43.55:047][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.08-23.43.55:047][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.08-23.43.55:047][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.08-23.43.55:047][ 11]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.08-23.43.55:047][ 11]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.08-23.43.55:047][ 11]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.08-23.43.55:048][ 11]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.08-23.43.55:082][ 11]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.08-23.43.55:082][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.08-23.43.55:082][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.08-23.43.55:083][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.08-23.43.55:083][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.12.08-23.43.55:083][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.12.08-23.43.55:084][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.12.08-23.43.55:084][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.12.08-23.43.55:084][ 11]LogInit: FAudioDevice initialized with ID 27.
+[2024.12.08-23.43.55:084][ 11]LogAudio: Display: Audio Device (ID: 27) registered with world 'TestMap'.
+[2024.12.08-23.43.55:084][ 11]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.12.08-23.43.55:087][ 11]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.08-23.43.55:087][ 11]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.08-17.43.55
+[2024.12.08-23.43.55:088][ 11]LogWorld: Bringing up level for play took: 0.000863
+[2024.12.08-23.43.55:089][ 11]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2024.12.08-23.43.55:105][ 11]PIE: Server logged in
+[2024.12.08-23.43.55:106][ 11]PIE: Play in editor total start time 0.094 seconds.
+[2024.12.08-23.44.11:941][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.08-23.44.11:941][ 16]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.08-23.44.11:941][ 16]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.08-23.44.11:942][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.08-23.44.11:942][ 16]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.08-23.44.11:942][ 16]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.08-23.44.11:962][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.08-23.44.11:965][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.08-23.44.11:974][ 16]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.08-23.44.11:975][ 16]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.12.08-23.44.11:975][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.12.08-23.44.11:976][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.12.08-23.44.11:979][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.08-23.44.11:982][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.08-23.44.12:043][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2024.12.08-23.44.14:767][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.08-23.44.14:801][177]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemies/bp_rotaturret] ([2] browsable assets)...
+[2024.12.08-23.44.14:846][177]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret]
+[2024.12.08-23.44.14:846][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_rotaturret]
+[2024.12.08-23.44.14:846][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bp_rotaturret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset" SILENT=true
+[2024.12.08-23.44.14:851][177]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/bp_rotaturret
+[2024.12.08-23.44.14:851][177]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_rotaturretBA36454A4928C65877C7E89E70B786FA.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset'
+[2024.12.08-23.44.14:864][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.278 ms (total: 4.86 sec)
+[2024.12.08-23.44.14:892][177]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.08-23.44.14:892][177]LogContentValidation: Enabled validators:
+[2024.12.08-23.44.14:892][177]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.08-23.44.14:892][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.08-23.44.14:892][177]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.08-23.44.14:892][177]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret
+[2024.12.08-23.44.14:892][177]AssetCheck: /Game/Blueprints/Enemies/bp_rotaturret Validating asset
+[2024.12.08-23.44.45:150][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.08-23.44.45:554][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.08-23.44.45:592][  1]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemies/bp_rotaturret] ([2] browsable assets)...
+[2024.12.08-23.44.45:633][  1]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret]
+[2024.12.08-23.44.45:633][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_rotaturret]
+[2024.12.08-23.44.45:633][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bp_rotaturret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset" SILENT=true
+[2024.12.08-23.44.45:639][  1]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/bp_rotaturret
+[2024.12.08-23.44.45:639][  1]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_rotaturret210160234210B1A5AAF6AABEBB50DFDE.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset'
+[2024.12.08-23.44.45:651][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.198 ms (total: 4.95 sec)
+[2024.12.08-23.44.45:687][  1]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.08-23.44.45:687][  1]LogContentValidation: Enabled validators:
+[2024.12.08-23.44.45:687][  1]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.08-23.44.45:687][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.08-23.44.45:687][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.08-23.44.45:687][  1]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret
+[2024.12.08-23.44.45:687][  1]AssetCheck: /Game/Blueprints/Enemies/bp_rotaturret Validating asset
+[2024.12.08-23.44.55:863][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.08-23.44.55:903][594]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemies/bp_movinenemy] ([2] browsable assets)...
+[2024.12.08-23.44.55:941][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemies/bp_movinenemy.bp_movinenemy]
+[2024.12.08-23.44.55:941][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_movinenemy]
+[2024.12.08-23.44.55:941][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bp_movinenemy" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset" SILENT=true
+[2024.12.08-23.44.55:948][594]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/bp_movinenemy
+[2024.12.08-23.44.55:948][594]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_movinenemyA6E578314FF31C70EB8B8FB1C4A5BA0A.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset'
+[2024.12.08-23.44.55:958][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.756 ms (total: 5.05 sec)
+[2024.12.08-23.44.55:998][594]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.08-23.44.55:998][594]LogContentValidation: Enabled validators:
+[2024.12.08-23.44.55:998][594]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.08-23.44.55:998][594]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.08-23.44.55:998][594]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.08-23.44.55:998][594]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/bp_movinenemy.bp_movinenemy
+[2024.12.08-23.44.55:998][594]AssetCheck: /Game/Blueprints/Enemies/bp_movinenemy Validating asset
+[2024.12.08-23.44.56:369][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
