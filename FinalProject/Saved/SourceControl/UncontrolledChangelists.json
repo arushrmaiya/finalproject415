@@ -11,6 +11,11 @@
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Triggers/BP_NextLevel.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/Map2.umap",
+				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/WBP_Restart.uasset",
+				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_turret.uasset",
+				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Projectile/BP_Projectile.uasset",
+				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_rotaturret.uasset",
+				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_movinenemy.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset",
@@ -152,8 +157,7 @@
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
-				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset",
-				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/WBP_Restart.uasset"
+				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset"
 			]
 		}
 	]
