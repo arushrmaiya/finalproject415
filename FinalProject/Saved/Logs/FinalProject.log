@@ -2712,3 +2712,356 @@ Make sure '/Game/Blueprints/bp_movinenemy.bp_movinenemy_C' has been compiled for
 [2024.12.08-22.59.49:875][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
 [2024.12.08-22.59.49:881][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2024.12.08-22.59.49:939][267]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.12.08-23.01.30:363][124]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.12.08-23.01.30:363][124]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.12.08-23.01.32:002][298]LogLinker: Warning: [AssetLog] C:\Users\arush\Documents\GitHub\finalproject415\FinalProject\Content\Turret\source\machine_gun\arma.uasset: Failed to load '/Game/fixed-machine-gun-turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency': Can't find file.
+[2024.12.08-23.01.32:002][298]LogLinker: Warning: [AssetLog] C:\Users\arush\Documents\GitHub\finalproject415\FinalProject\Content\Turret\source\machine_gun\arma.uasset: VerifyImport: Failed to load package for import object 'Package /Game/fixed-machine-gun-turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency'
+[2024.12.08-23.01.32:002][298]LogLinker: Warning: [AssetLog] C:\Users\arush\Documents\GitHub\finalproject415\FinalProject\Content\Turret\source\machine_gun\arma.uasset: Failed to load '/Game/fixed-machine-gun-turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness': Can't find file.
+[2024.12.08-23.01.32:002][298]LogLinker: Warning: [AssetLog] C:\Users\arush\Documents\GitHub\finalproject415\FinalProject\Content\Turret\source\machine_gun\arma.uasset: VerifyImport: Failed to load package for import object 'Package /Game/fixed-machine-gun-turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness'
+[2024.12.08-23.01.32:002][298]LogLinker: Warning: [AssetLog] C:\Users\arush\Documents\GitHub\finalproject415\FinalProject\Content\Turret\source\machine_gun\arma.uasset: Failed to load '/Game/fixed-machine-gun-turret/source/machine_gun/MG_turret_portable_arma_Normal': Can't find file.
+[2024.12.08-23.01.32:002][298]LogLinker: Warning: [AssetLog] C:\Users\arush\Documents\GitHub\finalproject415\FinalProject\Content\Turret\source\machine_gun\arma.uasset: VerifyImport: Failed to load package for import object 'Package /Game/fixed-machine-gun-turret/source/machine_gun/MG_turret_portable_arma_Normal'
+[2024.12.08-23.01.32:004][298]LogMaterial: Warning: [AssetLog] C:\Users\arush\Documents\GitHub\finalproject415\FinalProject\Content\Turret\source\machine_gun\arma.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.12.08-23.01.32:067][298]LogTexture: Display: Building textures: /Game/Turret/textures/2_AlbedoTransparency.2_AlbedoTransparency (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.12.08-23.01.32:070][298]LogTexture: Display: Building textures: /Game/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency.MG_turret_portable_arma_AlbedoTransparency (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.12.08-23.01.32:074][298]LogTexture: Display: Building textures: /Game/Turret/source/machine_gun/MG_turret_portable_arma_Normal.MG_turret_portable_arma_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2024.12.08-23.01.32:075][298]LogTexture: Display: Building textures: /Game/Turret/textures/2_MetallicSmoothness.2_MetallicSmoothness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.12.08-23.01.32:075][298]LogTexture: Display: Building textures: /Game/Turret/textures/2_Normal.2_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2024.12.08-23.01.32:076][298]LogTexture: Display: Building textures: /Game/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness.MG_turret_portable_arma_MetallicSmoothness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.12.08-23.01.32:707][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.08-23.01.32:743][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/bp_turret] ([2] browsable assets)...
+[2024.12.08-23.01.32:777][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bp_turret.bp_turret]
+[2024.12.08-23.01.32:777][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bp_turret]
+[2024.12.08-23.01.32:777][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_turret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_turret.uasset" SILENT=true
+[2024.12.08-23.01.32:783][298]LogSavePackage: Moving output files for package: /Game/Blueprints/bp_turret
+[2024.12.08-23.01.32:783][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_turret1AEA77CA46614DD77166EE8FA5931A97.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_turret.uasset'
+[2024.12.08-23.01.32:784][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/bp_rotaturret] ([2] browsable assets)...
+[2024.12.08-23.01.32:790][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bp_rotaturret.bp_rotaturret]
+[2024.12.08-23.01.32:790][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bp_rotaturret]
+[2024.12.08-23.01.32:790][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_rotaturret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_rotaturret.uasset" SILENT=true
+[2024.12.08-23.01.32:795][298]LogSavePackage: Moving output files for package: /Game/Blueprints/bp_rotaturret
+[2024.12.08-23.01.32:795][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_rotaturretD43C3374400EE8636BD2BC90583DA626.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_rotaturret.uasset'
+[2024.12.08-23.01.32:796][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/bp_movinenemy] ([2] browsable assets)...
+[2024.12.08-23.01.32:801][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bp_movinenemy.bp_movinenemy]
+[2024.12.08-23.01.32:801][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bp_movinenemy]
+[2024.12.08-23.01.32:801][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_movinenemy" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_movinenemy.uasset" SILENT=true
+[2024.12.08-23.01.32:806][298]LogSavePackage: Moving output files for package: /Game/Blueprints/bp_movinenemy
+[2024.12.08-23.01.32:807][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_movinenemy1F464BA641492E9F1ED0738250ABAD69.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_movinenemy.uasset'
+[2024.12.08-23.01.32:808][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Turret/source/machine_gun/MG_turret_portable] ([1] browsable assets)...
+[2024.12.08-23.01.32:808][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Turret/source/machine_gun/MG_turret_portable]
+[2024.12.08-23.01.32:813][298]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable
+[2024.12.08-23.01.32:813][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/MG_turret_portable85FD830F41788A6464C223A274D7F503.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Turret/source/machine_gun/MG_turret_portable.uasset'
+[2024.12.08-23.01.32:815][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_Normal] ([1] browsable assets)...
+[2024.12.08-23.01.32:816][298]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_Normal.MG_turret_portable_arma_Normal]
+[2024.12.08-23.01.32:817][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_Normal]
+[2024.12.08-23.01.32:837][298]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_Normal
+[2024.12.08-23.01.32:837][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/MG_turret_portable_arma_Normal3755BCF6424E27063EED98AA636DD76A.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_Normal.uasset'
+[2024.12.08-23.01.32:838][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness] ([1] browsable assets)...
+[2024.12.08-23.01.32:840][298]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness.MG_turret_portable_arma_MetallicSmoothness]
+[2024.12.08-23.01.32:840][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness]
+[2024.12.08-23.01.32:855][298]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness
+[2024.12.08-23.01.32:855][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/MG_turret_portable_arma_MetallicA5DC8F784C5A0A6A525CAA96443CD626.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness.uasset'
+[2024.12.08-23.01.32:857][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency] ([1] browsable assets)...
+[2024.12.08-23.01.32:861][298]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency.MG_turret_portable_arma_AlbedoTransparency]
+[2024.12.08-23.01.32:861][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency]
+[2024.12.08-23.01.32:880][298]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency
+[2024.12.08-23.01.32:880][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/MG_turret_portable_arma_AlbedoTr7390AC6C452F8083290AD3BEDE411611.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency.uasset'
+[2024.12.08-23.01.32:881][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Turret/source/machine_gun/arma] ([1] browsable assets)...
+[2024.12.08-23.01.32:881][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Turret/source/machine_gun/arma]
+[2024.12.08-23.01.32:883][298]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/source/machine_gun/arma
+[2024.12.08-23.01.32:883][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/armaA430B98A44C65D6FE38FD1925236B9A1.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Turret/source/machine_gun/arma.uasset'
+[2024.12.08-23.01.32:883][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Turret/textures/2_Normal] ([1] browsable assets)...
+[2024.12.08-23.01.32:886][298]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/Turret/textures/2_Normal.2_Normal]
+[2024.12.08-23.01.32:886][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Turret/textures/2_Normal]
+[2024.12.08-23.01.32:886][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Turret/textures/2_Normal" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Turret/textures/2_Normal.uasset" SILENT=true
+[2024.12.08-23.01.32:936][298]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/textures/2_Normal
+[2024.12.08-23.01.32:937][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/2_Normal3B5CB505464E7C799D1E70A165845344.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Turret/textures/2_Normal.uasset'
+[2024.12.08-23.01.32:938][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Turret/textures/2_MetallicSmoothness] ([1] browsable assets)...
+[2024.12.08-23.01.32:941][298]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/Turret/textures/2_MetallicSmoothness.2_MetallicSmoothness]
+[2024.12.08-23.01.32:941][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Turret/textures/2_MetallicSmoothness]
+[2024.12.08-23.01.32:984][298]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/textures/2_MetallicSmoothness
+[2024.12.08-23.01.32:984][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/2_MetallicSmoothness2EFF345F430F8BBB73BC598D0FC8A0A9.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Turret/textures/2_MetallicSmoothness.uasset'
+[2024.12.08-23.01.32:985][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Turret/textures/2_AlbedoTransparency] ([1] browsable assets)...
+[2024.12.08-23.01.32:987][298]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/Turret/textures/2_AlbedoTransparency.2_AlbedoTransparency]
+[2024.12.08-23.01.32:987][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Turret/textures/2_AlbedoTransparency]
+[2024.12.08-23.01.33:035][298]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/textures/2_AlbedoTransparency
+[2024.12.08-23.01.33:035][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/2_AlbedoTransparencyE22B40D44BE09630627F698D8E6E4014.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Turret/textures/2_AlbedoTransparency.uasset'
+[2024.12.08-23.01.33:047][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 339.312 ms (total: 1.95 sec)
+[2024.12.08-23.01.33:084][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.08-23.01.33:092][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.08-23.01.33:104][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.08-23.01.33:140][298]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.08-23.01.33:140][298]LogContentValidation: Display: Starting to validate 11 assets
+[2024.12.08-23.01.33:140][298]LogContentValidation: Enabled validators:
+[2024.12.08-23.01.33:140][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.08-23.01.33:140][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.08-23.01.33:140][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.08-23.01.33:140][298]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_turret.bp_turret
+[2024.12.08-23.01.33:140][298]AssetCheck: /Game/Blueprints/bp_turret Validating asset
+[2024.12.08-23.01.33:140][298]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_rotaturret.bp_rotaturret
+[2024.12.08-23.01.33:140][298]AssetCheck: /Game/Blueprints/bp_rotaturret Validating asset
+[2024.12.08-23.01.33:140][298]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_movinenemy.bp_movinenemy
+[2024.12.08-23.01.33:140][298]AssetCheck: /Game/Blueprints/bp_movinenemy Validating asset
+[2024.12.08-23.01.33:140][298]LogContentValidation: Display: Validating asset /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable.MG_turret_portable
+[2024.12.08-23.01.33:140][298]AssetCheck: /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable Validating asset
+[2024.12.08-23.01.33:140][298]LogContentValidation: Display: Validating asset /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_Normal.MG_turret_portable_arma_Normal
+[2024.12.08-23.01.33:140][298]AssetCheck: /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_Normal Validating asset
+[2024.12.08-23.01.33:141][298]LogContentValidation: Display: Validating asset /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness.MG_turret_portable_arma_MetallicSmoothness
+[2024.12.08-23.01.33:141][298]AssetCheck: /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness Validating asset
+[2024.12.08-23.01.33:141][298]LogContentValidation: Display: Validating asset /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency.MG_turret_portable_arma_AlbedoTransparency
+[2024.12.08-23.01.33:141][298]AssetCheck: /Game/Blueprints/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency Validating asset
+[2024.12.08-23.01.33:141][298]LogContentValidation: Display: Validating asset /Game/Blueprints/Turret/source/machine_gun/arma.arma
+[2024.12.08-23.01.33:141][298]AssetCheck: /Game/Blueprints/Turret/source/machine_gun/arma Validating asset
+[2024.12.08-23.01.33:141][298]LogContentValidation: Display: Validating asset /Game/Blueprints/Turret/textures/2_Normal.2_Normal
+[2024.12.08-23.01.33:141][298]AssetCheck: /Game/Blueprints/Turret/textures/2_Normal Validating asset
+[2024.12.08-23.01.33:141][298]LogContentValidation: Display: Validating asset /Game/Blueprints/Turret/textures/2_MetallicSmoothness.2_MetallicSmoothness
+[2024.12.08-23.01.33:141][298]AssetCheck: /Game/Blueprints/Turret/textures/2_MetallicSmoothness Validating asset
+[2024.12.08-23.01.33:141][298]LogContentValidation: Display: Validating asset /Game/Blueprints/Turret/textures/2_AlbedoTransparency.2_AlbedoTransparency
+[2024.12.08-23.01.33:141][298]AssetCheck: /Game/Blueprints/Turret/textures/2_AlbedoTransparency Validating asset
+[2024.12.08-23.01.41:017][168]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.08-23.01.41:043][168]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.08-23.01.41:054][169]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.08-23.01.42:946][396]LogContentBrowser: Attempting asset rename: NewFolder -> Enemies
+[2024.12.08-23.01.42:946][396]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.08-23.01.46:049][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.08-23.01.46:089][742]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/bp_turret] ([2] browsable assets)...
+[2024.12.08-23.01.46:140][742]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bp_turret.bp_turret]
+[2024.12.08-23.01.46:140][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bp_turret]
+[2024.12.08-23.01.46:140][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_turret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_turret.uasset" SILENT=true
+[2024.12.08-23.01.46:145][742]LogSavePackage: Moving output files for package: /Game/Blueprints/bp_turret
+[2024.12.08-23.01.46:146][742]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_turret45823483426EAA94A78D49AB818FF478.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_turret.uasset'
+[2024.12.08-23.01.46:146][742]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/bp_rotaturret] ([2] browsable assets)...
+[2024.12.08-23.01.46:151][742]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bp_rotaturret.bp_rotaturret]
+[2024.12.08-23.01.46:152][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bp_rotaturret]
+[2024.12.08-23.01.46:152][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_rotaturret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_rotaturret.uasset" SILENT=true
+[2024.12.08-23.01.46:157][742]LogSavePackage: Moving output files for package: /Game/Blueprints/bp_rotaturret
+[2024.12.08-23.01.46:157][742]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_rotaturretAC65B19F470038D6420860B8A516D64F.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_rotaturret.uasset'
+[2024.12.08-23.01.46:158][742]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/bp_movinenemy] ([2] browsable assets)...
+[2024.12.08-23.01.46:162][742]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bp_movinenemy.bp_movinenemy]
+[2024.12.08-23.01.46:162][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bp_movinenemy]
+[2024.12.08-23.01.46:162][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_movinenemy" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_movinenemy.uasset" SILENT=true
+[2024.12.08-23.01.46:167][742]LogSavePackage: Moving output files for package: /Game/Blueprints/bp_movinenemy
+[2024.12.08-23.01.46:167][742]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_movinenemy21B851234C3D12094180E4881D546B76.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_movinenemy.uasset'
+[2024.12.08-23.01.46:168][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable] ([1] browsable assets)...
+[2024.12.08-23.01.46:168][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable]
+[2024.12.08-23.01.46:171][742]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable
+[2024.12.08-23.01.46:171][742]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/MG_turret_portable04A9D02149F8A61FCD22B88FF9F66C4D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable.uasset'
+[2024.12.08-23.01.46:174][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/textures/2_AlbedoTransparency] ([1] browsable assets)...
+[2024.12.08-23.01.46:174][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/textures/2_AlbedoTransparency]
+[2024.12.08-23.01.46:196][742]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/textures/2_AlbedoTransparency
+[2024.12.08-23.01.46:196][742]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/2_AlbedoTransparency430B7B0A4C0ACB80189030981627AF85.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/textures/2_AlbedoTransparency.uasset'
+[2024.12.08-23.01.46:196][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/textures/2_MetallicSmoothness] ([1] browsable assets)...
+[2024.12.08-23.01.46:196][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/textures/2_MetallicSmoothness]
+[2024.12.08-23.01.46:235][742]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/textures/2_MetallicSmoothness
+[2024.12.08-23.01.46:235][742]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/2_MetallicSmoothness43C14002477E52448E48F398F050F060.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/textures/2_MetallicSmoothness.uasset'
+[2024.12.08-23.01.46:237][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/textures/2_Normal] ([1] browsable assets)...
+[2024.12.08-23.01.46:237][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/textures/2_Normal]
+[2024.12.08-23.01.46:295][742]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/textures/2_Normal
+[2024.12.08-23.01.46:295][742]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/2_Normal1D338D6B4269C8CF3D3BA0800B160C90.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/textures/2_Normal.uasset'
+[2024.12.08-23.01.46:297][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/source/machine_gun/arma] ([1] browsable assets)...
+[2024.12.08-23.01.46:297][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/source/machine_gun/arma]
+[2024.12.08-23.01.46:299][742]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/source/machine_gun/arma
+[2024.12.08-23.01.46:299][742]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/arma6D55563F48DE69E5A194A1946A11548B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/source/machine_gun/arma.uasset'
+[2024.12.08-23.01.46:300][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency] ([1] browsable assets)...
+[2024.12.08-23.01.46:300][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency]
+[2024.12.08-23.01.46:338][742]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency
+[2024.12.08-23.01.46:338][742]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/MG_turret_portable_arma_AlbedoTr1C385A2D407E61C2FABE83959B59C0EF.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency.uasset'
+[2024.12.08-23.01.46:340][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness] ([1] browsable assets)...
+[2024.12.08-23.01.46:340][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness]
+[2024.12.08-23.01.46:370][742]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness
+[2024.12.08-23.01.46:370][742]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/MG_turret_portable_arma_MetallicFCDC06844E2ABC2A75FE4494FC3B722B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness.uasset'
+[2024.12.08-23.01.46:371][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_Normal] ([1] browsable assets)...
+[2024.12.08-23.01.46:371][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_Normal]
+[2024.12.08-23.01.46:411][742]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_Normal
+[2024.12.08-23.01.46:411][742]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/MG_turret_portable_arma_Normal30DD43C547C189A97107E99035FB3EF5.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_Normal.uasset'
+[2024.12.08-23.01.46:422][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 374.410 ms (total: 2.32 sec)
+[2024.12.08-23.01.46:465][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.08-23.01.46:475][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.08-23.01.46:484][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.12.08-23.01.46:520][742]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.08-23.01.46:520][742]LogContentValidation: Display: Starting to validate 11 assets
+[2024.12.08-23.01.46:520][742]LogContentValidation: Enabled validators:
+[2024.12.08-23.01.46:520][742]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.08-23.01.46:520][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.08-23.01.46:520][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.08-23.01.46:520][742]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_turret.bp_turret
+[2024.12.08-23.01.46:521][742]AssetCheck: /Game/Blueprints/bp_turret Validating asset
+[2024.12.08-23.01.46:521][742]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_rotaturret.bp_rotaturret
+[2024.12.08-23.01.46:521][742]AssetCheck: /Game/Blueprints/bp_rotaturret Validating asset
+[2024.12.08-23.01.46:521][742]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_movinenemy.bp_movinenemy
+[2024.12.08-23.01.46:521][742]AssetCheck: /Game/Blueprints/bp_movinenemy Validating asset
+[2024.12.08-23.01.46:521][742]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable.MG_turret_portable
+[2024.12.08-23.01.46:521][742]AssetCheck: /Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable Validating asset
+[2024.12.08-23.01.46:521][742]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/textures/2_AlbedoTransparency.2_AlbedoTransparency
+[2024.12.08-23.01.46:521][742]AssetCheck: /Game/Blueprints/Enemies/Turret/textures/2_AlbedoTransparency Validating asset
+[2024.12.08-23.01.46:521][742]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/textures/2_MetallicSmoothness.2_MetallicSmoothness
+[2024.12.08-23.01.46:521][742]AssetCheck: /Game/Blueprints/Enemies/Turret/textures/2_MetallicSmoothness Validating asset
+[2024.12.08-23.01.46:521][742]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/textures/2_Normal.2_Normal
+[2024.12.08-23.01.46:521][742]AssetCheck: /Game/Blueprints/Enemies/Turret/textures/2_Normal Validating asset
+[2024.12.08-23.01.46:521][742]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/source/machine_gun/arma.arma
+[2024.12.08-23.01.46:521][742]AssetCheck: /Game/Blueprints/Enemies/Turret/source/machine_gun/arma Validating asset
+[2024.12.08-23.01.46:521][742]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency.MG_turret_portable_arma_AlbedoTransparency
+[2024.12.08-23.01.46:521][742]AssetCheck: /Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_AlbedoTransparency Validating asset
+[2024.12.08-23.01.46:521][742]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness.MG_turret_portable_arma_MetallicSmoothness
+[2024.12.08-23.01.46:521][742]AssetCheck: /Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_MetallicSmoothness Validating asset
+[2024.12.08-23.01.46:521][742]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_Normal.MG_turret_portable_arma_Normal
+[2024.12.08-23.01.46:521][742]AssetCheck: /Game/Blueprints/Enemies/Turret/source/machine_gun/MG_turret_portable_arma_Normal Validating asset
+[2024.12.08-23.01.52:724][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_bullet.bp_bullet:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/bp_bullet.PackageMetaData'
+[2024.12.08-23.01.52:724][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_bullet.bp_bullet_C' ref from Metadata '/Game/Blueprints/bp_bullet.PackageMetaData'
+[2024.12.08-23.01.52:724][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_bullet.bp_bullet:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/bp_bullet.PackageMetaData'
+[2024.12.08-23.01.52:724][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_bullet.bp_bullet:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/bp_bullet.PackageMetaData'
+[2024.12.08-23.01.52:724][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_bullet.bp_bullet:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/bp_bullet.PackageMetaData'
+[2024.12.08-23.01.52:724][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_bullet.SKEL_bp_bullet_C' ref from Metadata '/Game/Blueprints/bp_bullet.PackageMetaData'
+[2024.12.08-23.01.52:724][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_bullet.bp_bullet_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/bp_bullet.PackageMetaData'
+[2024.12.08-23.01.52:724][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_bullet.SKEL_bp_bullet_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/bp_bullet.PackageMetaData'
+[2024.12.08-23.01.52:724][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_bullet.SKEL_bp_bullet_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/bp_bullet.PackageMetaData'
+[2024.12.08-23.01.52:724][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_bullet.SKEL_bp_bullet_C:ReceiveTick' ref from Metadata '/Game/Blueprints/bp_bullet.PackageMetaData'
+[2024.12.08-23.01.52:724][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_bullet.SKEL_bp_bullet_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/bp_bullet.PackageMetaData'
+[2024.12.08-23.01.52:726][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_movinenemy.bp_movinenemy_C' ref from Metadata '/Game/Blueprints/bp_movinenemy.PackageMetaData'
+[2024.12.08-23.01.52:726][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_movinenemy.bp_movinenemy_C:ReceiveTick' ref from Metadata '/Game/Blueprints/bp_movinenemy.PackageMetaData'
+[2024.12.08-23.01.52:726][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_movinenemy.bp_movinenemy_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/bp_movinenemy.PackageMetaData'
+[2024.12.08-23.01.52:726][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_movinenemy.SKEL_bp_movinenemy_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/bp_movinenemy.PackageMetaData'
+[2024.12.08-23.01.52:726][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_movinenemy.SKEL_bp_movinenemy_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/bp_movinenemy.PackageMetaData'
+[2024.12.08-23.01.52:726][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_movinenemy.SKEL_bp_movinenemy_C:BndEvt__bp_turret_Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/bp_movinenemy.PackageMetaData'
+[2024.12.08-23.01.52:726][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_movinenemy.SKEL_bp_movinenemy_C' ref from Metadata '/Game/Blueprints/bp_movinenemy.PackageMetaData'
+[2024.12.08-23.01.52:726][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_movinenemy.SKEL_bp_movinenemy_C:ReceiveTick' ref from Metadata '/Game/Blueprints/bp_movinenemy.PackageMetaData'
+[2024.12.08-23.01.52:734][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C' ref from Metadata '/Game/Blueprints/bp_rotaturret.PackageMetaData'
+[2024.12.08-23.01.52:734][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C:ReceiveTick' ref from Metadata '/Game/Blueprints/bp_rotaturret.PackageMetaData'
+[2024.12.08-23.01.52:734][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_rotaturret.SKEL_bp_rotaturret_C' ref from Metadata '/Game/Blueprints/bp_rotaturret.PackageMetaData'
+[2024.12.08-23.01.52:734][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/bp_rotaturret.PackageMetaData'
+[2024.12.08-23.01.52:734][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_rotaturret.SKEL_bp_rotaturret_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/bp_rotaturret.PackageMetaData'
+[2024.12.08-23.01.52:734][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_rotaturret.SKEL_bp_rotaturret_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/bp_rotaturret.PackageMetaData'
+[2024.12.08-23.01.52:734][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_rotaturret.SKEL_bp_rotaturret_C:BndEvt__bp_turret_Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/bp_rotaturret.PackageMetaData'
+[2024.12.08-23.01.52:734][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_rotaturret.SKEL_bp_rotaturret_C:ReceiveTick' ref from Metadata '/Game/Blueprints/bp_rotaturret.PackageMetaData'
+[2024.12.08-23.01.52:734][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_rotaturret.SKEL_bp_rotaturret_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/bp_rotaturret.PackageMetaData'
+[2024.12.08-23.01.52:740][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_turret.bp_turret:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/bp_turret.PackageMetaData'
+[2024.12.08-23.01.52:741][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_turret.bp_turret_C' ref from Metadata '/Game/Blueprints/bp_turret.PackageMetaData'
+[2024.12.08-23.01.52:741][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_turret.bp_turret:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/bp_turret.PackageMetaData'
+[2024.12.08-23.01.52:741][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_turret.bp_turret:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/bp_turret.PackageMetaData'
+[2024.12.08-23.01.52:741][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_turret.SKEL_bp_turret_C' ref from Metadata '/Game/Blueprints/bp_turret.PackageMetaData'
+[2024.12.08-23.01.52:741][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_turret.bp_turret_C:ReceiveTick' ref from Metadata '/Game/Blueprints/bp_turret.PackageMetaData'
+[2024.12.08-23.01.52:741][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_turret.bp_turret_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/bp_turret.PackageMetaData'
+[2024.12.08-23.01.52:741][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_turret.SKEL_bp_turret_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/bp_turret.PackageMetaData'
+[2024.12.08-23.01.52:741][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_turret.SKEL_bp_turret_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/bp_turret.PackageMetaData'
+[2024.12.08-23.01.52:741][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_turret.SKEL_bp_turret_C:BndEvt__bp_turret_Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/bp_turret.PackageMetaData'
+[2024.12.08-23.01.52:741][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_turret.SKEL_bp_turret_C:ReceiveTick' ref from Metadata '/Game/Blueprints/bp_turret.PackageMetaData'
+[2024.12.08-23.01.52:741][384]LogMetaData: Removing '/Game/Blueprints/Enemies/bp_turret.SKEL_bp_turret_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/bp_turret.PackageMetaData'
+[2024.12.08-23.01.52:747][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.08-23.01.52:785][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Camera] ([2] browsable assets)...
+[2024.12.08-23.01.52:785][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Camera]
+[2024.12.08-23.01.52:785][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Camera" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_Camera.uasset" SILENT=true
+[2024.12.08-23.01.52:791][384]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Camera
+[2024.12.08-23.01.52:792][384]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_Camera0BB8446744E66DD9DEC6F6BFDBD604CF.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_Camera.uasset'
+[2024.12.08-23.01.52:793][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerZD] ([2] browsable assets)...
+[2024.12.08-23.01.52:793][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerZD]
+[2024.12.08-23.01.52:793][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset" SILENT=true
+[2024.12.08-23.01.52:808][384]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerZD
+[2024.12.08-23.01.52:808][384]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD730497A143C9C6682D58CDAEC3FE77A0.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset'
+[2024.12.08-23.01.52:809][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/bp_bullet] ([2] browsable assets)...
+[2024.12.08-23.01.52:809][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_bullet]
+[2024.12.08-23.01.52:809][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bp_bullet" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_bullet.uasset" SILENT=true
+[2024.12.08-23.01.52:809][384]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Enemies/bp_bullet does not exist, will not scan.
+[2024.12.08-23.01.52:812][384]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/bp_bullet
+[2024.12.08-23.01.52:812][384]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_bullet152113DB40562F8585C635A32195A12C.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_bullet.uasset'
+[2024.12.08-23.01.52:814][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/bp_movinenemy] ([2] browsable assets)...
+[2024.12.08-23.01.52:814][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_movinenemy]
+[2024.12.08-23.01.52:814][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bp_movinenemy" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset" SILENT=true
+[2024.12.08-23.01.52:819][384]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/bp_movinenemy
+[2024.12.08-23.01.52:819][384]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_movinenemy150DEA244F955FDBE7F6F6AB83F0E1CE.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset'
+[2024.12.08-23.01.52:821][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/bp_movinenemy] ([5] browsable assets)...
+[2024.12.08-23.01.52:821][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bp_movinenemy]
+[2024.12.08-23.01.52:821][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_movinenemy" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_movinenemy.uasset" SILENT=true
+[2024.12.08-23.01.52:822][384]LogSavePackage: Moving output files for package: /Game/Blueprints/bp_movinenemy
+[2024.12.08-23.01.52:822][384]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_movinenemyEABA1EA34E4A9222B99A7E97DE1BE705.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_movinenemy.uasset'
+[2024.12.08-23.01.52:823][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/bp_rotaturret] ([2] browsable assets)...
+[2024.12.08-23.01.52:823][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_rotaturret]
+[2024.12.08-23.01.52:823][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bp_rotaturret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset" SILENT=true
+[2024.12.08-23.01.52:827][384]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/bp_rotaturret
+[2024.12.08-23.01.52:827][384]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_rotaturret16886A8445B1170367CB39BDEBC8B0DF.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset'
+[2024.12.08-23.01.52:831][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/bp_rotaturret] ([5] browsable assets)...
+[2024.12.08-23.01.52:831][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bp_rotaturret]
+[2024.12.08-23.01.52:831][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_rotaturret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_rotaturret.uasset" SILENT=true
+[2024.12.08-23.01.52:831][384]LogSavePackage: Moving output files for package: /Game/Blueprints/bp_rotaturret
+[2024.12.08-23.01.52:832][384]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_rotaturret3B9747984E21F4A9CF0C818FA9A0731C.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_rotaturret.uasset'
+[2024.12.08-23.01.52:833][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/bp_turret] ([2] browsable assets)...
+[2024.12.08-23.01.52:833][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_turret]
+[2024.12.08-23.01.52:833][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bp_turret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset" SILENT=true
+[2024.12.08-23.01.52:838][384]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/bp_turret
+[2024.12.08-23.01.52:838][384]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_turret57B8C02342B51BA886FEC3B66329D51E.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset'
+[2024.12.08-23.01.52:840][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/bp_turret] ([5] browsable assets)...
+[2024.12.08-23.01.52:840][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bp_turret]
+[2024.12.08-23.01.52:840][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_turret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_turret.uasset" SILENT=true
+[2024.12.08-23.01.52:840][384]LogSavePackage: Moving output files for package: /Game/Blueprints/bp_turret
+[2024.12.08-23.01.52:840][384]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_turret8CA777ED4BF921CFA8D4039966DC6896.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/bp_turret.uasset'
+[2024.12.08-23.01.52:855][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.849 ms (total: 2.43 sec)
+[2024.12.08-23.01.52:867][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.08-23.01.52:877][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.08-23.01.52:884][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.12.08-23.01.52:906][384]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Starting to validate 15 assets
+[2024.12.08-23.01.52:906][384]LogContentValidation: Enabled validators:
+[2024.12.08-23.01.52:906][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.08-23.01.52:906][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.08-23.01.52:906][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Camera.BP_Camera
+[2024.12.08-23.01.52:906][384]AssetCheck: /Game/Blueprints/BP_Camera Validating asset
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_PlayerZD.BP_PlayerZD
+[2024.12.08-23.01.52:906][384]AssetCheck: /Game/Blueprints/Player/BP_PlayerZD Validating asset
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/bp_bullet.bp_bullet
+[2024.12.08-23.01.52:906][384]AssetCheck: /Game/Blueprints/Enemies/bp_bullet Validating asset
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/bp_movinenemy.bp_movinenemy
+[2024.12.08-23.01.52:906][384]AssetCheck: /Game/Blueprints/Enemies/bp_movinenemy Validating asset
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_movinenemy.bp_movinenemy_C
+[2024.12.08-23.01.52:906][384]AssetCheck: /Game/Blueprints/bp_movinenemy Validating asset
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_movinenemy.bp_movinenemy
+[2024.12.08-23.01.52:906][384]AssetCheck: /Game/Blueprints/bp_movinenemy Validating asset
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_movinenemy.Default__bp_movinenemy_C
+[2024.12.08-23.01.52:906][384]AssetCheck: /Game/Blueprints/bp_movinenemy Validating asset
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret
+[2024.12.08-23.01.52:906][384]AssetCheck: /Game/Blueprints/Enemies/bp_rotaturret Validating asset
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_rotaturret.bp_rotaturret_C
+[2024.12.08-23.01.52:906][384]AssetCheck: /Game/Blueprints/bp_rotaturret Validating asset
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_rotaturret.bp_rotaturret
+[2024.12.08-23.01.52:906][384]AssetCheck: /Game/Blueprints/bp_rotaturret Validating asset
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_rotaturret.Default__bp_rotaturret_C
+[2024.12.08-23.01.52:906][384]AssetCheck: /Game/Blueprints/bp_rotaturret Validating asset
+[2024.12.08-23.01.52:906][384]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/bp_turret.bp_turret
+[2024.12.08-23.01.52:906][384]AssetCheck: /Game/Blueprints/Enemies/bp_turret Validating asset
+[2024.12.08-23.01.52:907][384]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_turret.bp_turret_C
+[2024.12.08-23.01.52:907][384]AssetCheck: /Game/Blueprints/bp_turret Validating asset
+[2024.12.08-23.01.52:907][384]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_turret.bp_turret
+[2024.12.08-23.01.52:907][384]AssetCheck: /Game/Blueprints/bp_turret Validating asset
+[2024.12.08-23.01.52:907][384]LogContentValidation: Display: Validating asset /Game/Blueprints/bp_turret.Default__bp_turret_C
+[2024.12.08-23.01.52:907][384]AssetCheck: /Game/Blueprints/bp_turret Validating asset
+[2024.12.08-23.02.27:326][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.08-23.02.27:336][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/TestMap_Auto1
+[2024.12.08-23.02.27:337][299]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMap_Auto1EB548E034809B68F23DEBF8893FCB817.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/Levels/TestMap_Auto1.umap'
+[2024.12.08-23.02.27:338][299]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/Levels/TestMap_Auto1.umap is in the /Temp path, will not scan.
+[2024.12.08-23.02.27:338][299]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.020
+[2024.12.08-23.02.27:338][299]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2024.12.08-23.02.27:453][299]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Projectile/BP_Projectile] ([2] browsable assets)...
+[2024.12.08-23.02.27:501][299]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectile/BP_Projectile.BP_Projectile]
+[2024.12.08-23.02.27:501][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectile/BP_Projectile]
+[2024.12.08-23.02.27:503][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Projectile/BP_Projectile_Auto1
+[2024.12.08-23.02.27:504][299]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_Projectile_Auto1253E4C4C44B5284B9AA714B8E89EDA8F.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/Blueprints/Projectile/BP_Projectile_Auto1.uasset'
+[2024.12.08-23.02.27:504][299]LogFileHelpers: Auto-saving content packages took 0.052
+[2024.12.08-23.05.26:776][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.08-23.05.32:413][434]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.08-23.05.48:071][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.08-23.05.48:113][145]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Projectile/BP_Projectile] ([2] browsable assets)...
+[2024.12.08-23.05.48:152][145]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectile/BP_Projectile.BP_Projectile]
+[2024.12.08-23.05.48:152][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectile/BP_Projectile]
+[2024.12.08-23.05.48:152][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile/BP_Projectile" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Projectile/BP_Projectile.uasset" SILENT=true
+[2024.12.08-23.05.48:155][145]LogSavePackage: Moving output files for package: /Game/Blueprints/Projectile/BP_Projectile
+[2024.12.08-23.05.48:155][145]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_Projectile12C461644C01663B57A04EA339E5D344.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Projectile/BP_Projectile.uasset'
+[2024.12.08-23.05.48:167][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.961 ms (total: 2.53 sec)
+[2024.12.08-23.05.48:193][145]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.08-23.05.48:193][145]LogContentValidation: Enabled validators:
+[2024.12.08-23.05.48:193][145]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.08-23.05.48:193][145]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.08-23.05.48:193][145]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.08-23.05.48:193][145]LogContentValidation: Display: Validating asset /Game/Blueprints/Projectile/BP_Projectile.BP_Projectile
+[2024.12.08-23.05.48:193][145]AssetCheck: /Game/Blueprints/Projectile/BP_Projectile Validating asset
+[2024.12.08-23.05.48:634][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
