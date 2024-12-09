@@ -4165,3 +4165,822 @@ Make sure '/Game/Blueprints/Enemies/test_enemy_art.test_enemy_art_C' has been co
 [2024.12.09-22.52.33:408][925]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.09-22.52.33:408][925]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
 [2024.12.09-22.52.33:408][925]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.09-23.02.33:410][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.12.09-23.02.33:412][816]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.011
+[2024.12.09-23.02.33:413][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/turret_FACE] ([1] browsable assets)...
+[2024.12.09-23.02.33:413][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/turret_FACE]
+[2024.12.09-23.02.33:414][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Enemies/turret_FACE_Auto3
+[2024.12.09-23.02.33:414][816]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/turret_FACE_Auto3D8AF639A49E99206278C8CB922620445.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/Blueprints/Enemies/turret_FACE_Auto3.uasset'
+[2024.12.09-23.02.33:414][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot] ([1] browsable assets)...
+[2024.12.09-23.02.33:414][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot]
+[2024.12.09-23.02.33:415][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot_Auto3
+[2024.12.09-23.02.33:415][816]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Shoot_Auto36518338741E9846D462102AABB3E3F88.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot_Auto3.uasset'
+[2024.12.09-23.02.33:418][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle] ([1] browsable assets)...
+[2024.12.09-23.02.33:418][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle]
+[2024.12.09-23.02.33:419][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle_Auto3
+[2024.12.09-23.02.33:419][816]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Idle_Auto34208CB4244297BD10FE29BBD29DC9C0A.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle_Auto3.uasset'
+[2024.12.09-23.02.33:420][816]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.12.09-23.07.44:936][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.12.09-23.07.46:622][834]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.09-23.07.46:642][834]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Enemies/turret_BASE_Sprite_0.turret_BASE_Sprite_0
+	Asset Type: PaperSprite
+[2024.12.09-23.07.46:827][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.09-23.07.46:841][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.09-23.07.46:851][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.09-23.07.47:514][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.09-23.07.49:798][871]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.09-23.07.49:822][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.09-23.07.49:830][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.09-23.07.49:840][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.12.09-23.07.49:850][871]LogAutomationController: Ignoring very large delta of 2.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.09-23.07.52:135][  8]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Blueprints/Enemies/turret_FACE.turret_FACE
+[2024.12.09-23.07.53:932][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.07.53:954][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/turret_FACE] ([1] browsable assets)...
+[2024.12.09-23.07.53:955][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/Enemies/turret_FACE.turret_FACE]
+[2024.12.09-23.07.53:955][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/turret_FACE]
+[2024.12.09-23.07.53:955][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/turret_FACE" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/turret_FACE.uasset" SILENT=true
+[2024.12.09-23.07.53:956][110]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/turret_FACE
+[2024.12.09-23.07.53:957][110]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/turret_FACE0FAB940140ECD92C2744D2866DB4AF9F.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/turret_FACE.uasset'
+[2024.12.09-23.07.53:965][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.712 ms (total: 3.91 sec)
+[2024.12.09-23.07.54:018][110]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.07.54:018][110]LogContentValidation: Enabled validators:
+[2024.12.09-23.07.54:018][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.07.54:018][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.07.54:018][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.07.54:018][110]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/turret_FACE.turret_FACE
+[2024.12.09-23.07.54:018][110]AssetCheck: /Game/Blueprints/Enemies/turret_FACE Validating asset
+[2024.12.09-23.08.28:152][137]LogTexture: Display: Building textures: /Game/Blueprints/Player/2D/T_Char.T_Char (BGRA8, 128x288 x1x1x1) (Required Memory Estimate: 1.140625 MB), EncodeSpeed: Fast
+[2024.12.09-23.11.54:583][251]LogSlate: Window 'Extract sprites' being destroyed
+[2024.12.09-23.13.06:548][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.13.06:586][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/test_turret_2d] ([2] browsable assets)...
+[2024.12.09-23.13.06:586][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/test_turret_2d]
+[2024.12.09-23.13.06:586][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/test_turret_2d" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/test_turret_2d.uasset" SILENT=true
+[2024.12.09-23.13.06:594][758]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/test_turret_2d
+[2024.12.09-23.13.06:594][758]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/test_turret_2dCA6E94DC4E0B1774B87A4480D39B1595.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/test_turret_2d.uasset'
+[2024.12.09-23.13.06:610][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.151 ms (total: 3.98 sec)
+[2024.12.09-23.13.06:640][758]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.13.06:640][758]LogContentValidation: Enabled validators:
+[2024.12.09-23.13.06:640][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.13.06:640][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.13.06:640][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.13.06:640][758]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/test_turret_2d.test_turret_2d
+[2024.12.09-23.13.06:640][758]AssetCheck: /Game/Blueprints/Enemies/test_turret_2d Validating asset
+[2024.12.09-23.13.07:277][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.09-23.13.09:057][894]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-23.13.09:078][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-23.13.09:078][894]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.13.09:081][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001896s)
+[2024.12.09-23.13.09:081][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001930s)
+[2024.12.09-23.13.09:091][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.09-23.13.09:094][894]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-23.13.09:094][894]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2024.12.09-23.13.09:110][894]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.12.09-23.13.09:110][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-23.13.09:110][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-23.13.09:110][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-23.13.09:110][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-23.13.09:110][894]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-23.13.09:110][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-23.13.09:110][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-23.13.09:110][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-23.13.09:110][894]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-23.13.09:110][894]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-23.13.09:110][894]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-23.13.09:111][894]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-23.13.09:144][894]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.09-23.13.09:144][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-23.13.09:144][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-23.13.09:144][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-23.13.09:145][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.12.09-23.13.09:145][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.12.09-23.13.09:146][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.12.09-23.13.09:146][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.12.09-23.13.09:146][894]LogInit: FAudioDevice initialized with ID 25.
+[2024.12.09-23.13.09:146][894]LogAudio: Display: Audio Device (ID: 25) registered with world 'TestMap'.
+[2024.12.09-23.13.09:146][894]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.12.09-23.13.09:148][894]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.09-23.13.09:148][894]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.09-17.13.09
+[2024.12.09-23.13.09:148][894]LogWorld: Bringing up level for play took: 0.000961
+[2024.12.09-23.13.09:151][894]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.12.09-23.13.09:169][894]PIE: Server logged in
+[2024.12.09-23.13.09:170][894]PIE: Play in editor total start time 0.108 seconds.
+[2024.12.09-23.13.17:354][375]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.09-23.13.17:354][375]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.12.09-23.13.17:955][411]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.12.09-23.13.17:955][411]LogScript: Warning: Script Msg called by: BP_PlayerZD_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_PlayerZD_C_0
+[2024.12.09-23.13.18:104][420]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.12.09-23.13.18:104][420]LogScript: Warning: Script Msg called by: BP_PlayerZD_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_PlayerZD_C_0
+[2024.12.09-23.13.18:320][433]Cmd: Restartlevel
+[2024.12.09-23.13.18:320][433]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.09-23.13.18:320][433]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.12.09-23.13.18:322][433]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/TestMap?restart"
+[2024.12.09-23.13.18:322][433]LogNet: Browse: /Game/Levels/TestMap?restart
+[2024.12.09-23.13.18:322][433]LogLoad: LoadMap: /Game/Levels/TestMap
+[2024.12.09-23.13.18:322][433]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.13.18:323][433]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.13.18:323][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.13.18:323][433]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-23.13.18:323][433]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-23.13.18:330][433]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-23.13.18:334][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.09-23.13.18:336][433]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.13.18:338][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001912s)
+[2024.12.09-23.13.18:338][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001950s)
+[2024.12.09-23.13.18:338][433]LogAudio: Display: Audio Device (ID: 25) registered with world 'TestMap'.
+[2024.12.09-23.13.18:338][433]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-23.13.18:339][433]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2024.12.09-23.13.18:339][433]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.09-23.13.18:339][433]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.09-17.13.18
+[2024.12.09-23.13.18:340][433]LogWorld: Bringing up level for play took: 0.000757
+[2024.12.09-23.13.18:341][433]LogLoad: Took 0.018865 seconds to LoadMap(/Game/Levels/UEDPIE_0_TestMap)
+[2024.12.09-23.13.18:341][433]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.13.32:762][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.13.32:762][296]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.13.32:762][296]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.13.32:763][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.13.32:763][296]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-23.13.32:763][296]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-23.13.32:777][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-23.13.32:779][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.13.32:788][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.13.32:788][296]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.12.09-23.13.32:788][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.12.09-23.13.32:789][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.12.09-23.13.32:795][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.09-23.13.32:872][297]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.12.09-23.13.42:970][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.09-23.13.42:972][855]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.014
+[2024.12.09-23.13.42:973][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/2D/T_Char] ([1] browsable assets)...
+[2024.12.09-23.13.42:975][855]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/Player/2D/T_Char.T_Char]
+[2024.12.09-23.13.42:975][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/T_Char]
+[2024.12.09-23.13.43:084][855]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/2D/T_Char_Auto4
+[2024.12.09-23.13.43:084][855]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Auto4F838CAC74BF6A55F52E6D586E062A4DD.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/Blueprints/Player/2D/T_Char_Auto4.uasset'
+[2024.12.09-23.13.43:084][855]LogFileHelpers: Auto-saving content packages took 0.112
+[2024.12.09-23.13.50:287][ 29]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.13.50:287][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.13.50:307][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.09-23.13.56:207][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.13.56:247][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/T_Char] ([1] browsable assets)...
+[2024.12.09-23.13.56:247][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/T_Char]
+[2024.12.09-23.13.56:247][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/2D/T_Char" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/T_Char.uasset" SILENT=true
+[2024.12.09-23.13.56:249][376]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/T_Char
+[2024.12.09-23.13.56:249][376]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_CharBFDC11D643B80E619A9438A056E0D933.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/T_Char.uasset'
+[2024.12.09-23.13.56:261][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.623 ms (total: 4.03 sec)
+[2024.12.09-23.13.56:290][376]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.13.56:290][376]LogContentValidation: Enabled validators:
+[2024.12.09-23.13.56:290][376]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.13.56:290][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.13.56:290][376]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.13.56:290][376]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/T_Char.T_Char
+[2024.12.09-23.13.56:290][376]AssetCheck: /Game/Blueprints/Player/2D/T_Char Validating asset
+[2024.12.09-23.14.01:025][657]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Blueprints/Player/2D/Down/FB_Idle_Down.FB_Idle_Down
+[2024.12.09-23.14.03:979][829]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.14.03:980][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.14.03:997][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.12.09-23.14.19:569][759]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Blueprints/Player/2D/DownLeft/FB_Idle_DownLeft.FB_Idle_DownLeft
+[2024.12.09-23.14.22:597][936]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.14.22:597][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.14.22:612][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.09-23.14.30:302][397]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Blueprints/Player/2D/DownRight/FB_Walk_DownRight.FB_Walk_DownRight
+[2024.12.09-23.14.33:946][611]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.14.33:946][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.14.33:961][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.09-23.14.35:775][720]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-23.14.35:785][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-23.14.35:785][720]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.14.35:787][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001752s)
+[2024.12.09-23.14.35:787][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001782s)
+[2024.12.09-23.14.35:798][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.09-23.14.35:799][720]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-23.14.35:800][720]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2024.12.09-23.14.35:817][720]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.12.09-23.14.35:817][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-23.14.35:818][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-23.14.35:818][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-23.14.35:818][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-23.14.35:818][720]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-23.14.35:818][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-23.14.35:818][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-23.14.35:818][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-23.14.35:818][720]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-23.14.35:818][720]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-23.14.35:818][720]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-23.14.35:819][720]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-23.14.35:852][720]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.09-23.14.35:852][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-23.14.35:852][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-23.14.35:852][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-23.14.35:852][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.12.09-23.14.35:852][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.12.09-23.14.35:854][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.12.09-23.14.35:854][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.12.09-23.14.35:854][720]LogInit: FAudioDevice initialized with ID 26.
+[2024.12.09-23.14.35:854][720]LogAudio: Display: Audio Device (ID: 26) registered with world 'TestMap'.
+[2024.12.09-23.14.35:854][720]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.12.09-23.14.35:861][720]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.09-23.14.35:862][720]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.09-17.14.35
+[2024.12.09-23.14.35:862][720]LogWorld: Bringing up level for play took: 0.000947
+[2024.12.09-23.14.35:863][720]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.12.09-23.14.35:881][720]PIE: Server logged in
+[2024.12.09-23.14.35:881][720]PIE: Play in editor total start time 0.103 seconds.
+[2024.12.09-23.14.38:523][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.14.38:523][870]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.14.38:523][870]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.14.38:524][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.14.38:524][870]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-23.14.38:524][870]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-23.14.38:531][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-23.14.38:533][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.14.38:543][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.14.38:543][870]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.12.09-23.14.38:543][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.12.09-23.14.38:545][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.12.09-23.14.38:550][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.09-23.14.38:625][871]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.12.09-23.14.47:619][407]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Blueprints/Player/2D/Up/FB_Idle_Up.FB_Idle_Up
+[2024.12.09-23.14.50:320][564]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.14.50:320][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.14.50:335][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.09-23.14.52:801][712]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Blueprints/Player/2D/Up/FB_Walk_Up.FB_Walk_Up
+[2024.12.09-23.14.55:379][862]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.14.55:379][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.14.55:393][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.09-23.15.06:775][512]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-23.15.06:785][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-23.15.06:785][512]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.15.06:788][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001744s)
+[2024.12.09-23.15.06:788][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001772s)
+[2024.12.09-23.15.06:795][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.09-23.15.06:797][512]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-23.15.06:798][512]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2024.12.09-23.15.06:814][512]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.12.09-23.15.06:814][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-23.15.06:814][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-23.15.06:814][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-23.15.06:814][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-23.15.06:814][512]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-23.15.06:814][512]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-23.15.06:814][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-23.15.06:814][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-23.15.06:814][512]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-23.15.06:814][512]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-23.15.06:814][512]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-23.15.06:815][512]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-23.15.06:848][512]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.09-23.15.06:848][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-23.15.06:848][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-23.15.06:848][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-23.15.06:848][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.12.09-23.15.06:848][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.12.09-23.15.06:849][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.12.09-23.15.06:849][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.12.09-23.15.06:849][512]LogInit: FAudioDevice initialized with ID 27.
+[2024.12.09-23.15.06:849][512]LogAudio: Display: Audio Device (ID: 27) registered with world 'TestMap'.
+[2024.12.09-23.15.06:849][512]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.12.09-23.15.06:852][512]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.09-23.15.06:853][512]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.09-17.15.06
+[2024.12.09-23.15.06:853][512]LogWorld: Bringing up level for play took: 0.000868
+[2024.12.09-23.15.06:854][512]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.12.09-23.15.06:870][512]PIE: Server logged in
+[2024.12.09-23.15.06:871][512]PIE: Play in editor total start time 0.093 seconds.
+[2024.12.09-23.15.13:282][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.15.13:282][887]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.15.13:283][887]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.15.13:284][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.15.13:284][887]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-23.15.13:284][887]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-23.15.13:290][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-23.15.13:293][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.15.13:304][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.15.13:305][887]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.12.09-23.15.13:305][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.12.09-23.15.13:306][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.12.09-23.15.13:312][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.09-23.15.13:397][888]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.12.09-23.17.08:695][750]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.09-23.17.08:711][750]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.09-23.17.08:717][751]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.09-23.17.11:047][891]LogContentBrowser: Attempting asset rename: NewFolder -> Animation
+[2024.12.09-23.17.11:047][891]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.09-23.17.27:010][834]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.09-23.17.27:024][834]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.09-23.17.27:031][835]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.09-23.17.30:645][ 52]LogContentBrowser: Attempting asset rename: NewFolder -> Animation
+[2024.12.09-23.17.30:645][ 52]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.09-23.17.37:902][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.17.37:954][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/ABP_Player] ([2] browsable assets)...
+[2024.12.09-23.17.37:954][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/ABP_Player]
+[2024.12.09-23.17.37:954][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/2D/ABP_Player" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/ABP_Player.uasset" SILENT=true
+[2024.12.09-23.17.37:957][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/ABP_Player
+[2024.12.09-23.17.37:957][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/ABP_PlayerF13967C249532AF11DE8E0A5B1A71DB2.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/ABP_Player.uasset'
+[2024.12.09-23.17.37:958][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk] ([1] browsable assets)...
+[2024.12.09-23.17.37:958][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk]
+[2024.12.09-23.17.37:959][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Walk
+[2024.12.09-23.17.37:959][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Walk2B2E01ED4DD240E15788C8BABEC6E081.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Walk.uasset'
+[2024.12.09-23.17.37:961][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle] ([1] browsable assets)...
+[2024.12.09-23.17.37:961][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle]
+[2024.12.09-23.17.37:961][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Idle
+[2024.12.09-23.17.37:961][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Idle2C6C6C5342CF367E9578D785FFDB1D29.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Idle.uasset'
+[2024.12.09-23.17.37:969][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.065 ms (total: 4.10 sec)
+[2024.12.09-23.17.37:984][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.09-23.17.37:993][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.09-23.17.38:006][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.12.09-23.17.38:047][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.17.38:099][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/BP_PlayerZD] ([2] browsable assets)...
+[2024.12.09-23.17.38:099][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/BP_PlayerZD]
+[2024.12.09-23.17.38:099][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/2D/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset" SILENT=true
+[2024.12.09-23.17.38:114][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/BP_PlayerZD
+[2024.12.09-23.17.38:118][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD4D3C2FBB47DFEB8E3A3E94AFD4D1F308.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset'
+[2024.12.09-23.17.38:118][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle] ([1] browsable assets)...
+[2024.12.09-23.17.38:118][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle]
+[2024.12.09-23.17.38:119][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Idle
+[2024.12.09-23.17.38:120][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Idle43D3700149859527DCEDDF9C5C3BADFF.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Idle.uasset'
+[2024.12.09-23.17.38:120][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk] ([1] browsable assets)...
+[2024.12.09-23.17.38:120][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk]
+[2024.12.09-23.17.38:121][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Walk
+[2024.12.09-23.17.38:121][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/WalkB61AC8F84E72B12F4530F48A360C9EDD.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Walk.uasset'
+[2024.12.09-23.17.38:121][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_12] ([1] browsable assets)...
+[2024.12.09-23.17.38:121][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_12]
+[2024.12.09-23.17.38:123][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_12
+[2024.12.09-23.17.38:123][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_12BD1D8FB0455AF4F9F05B2295BFE32500.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_12.uasset'
+[2024.12.09-23.17.38:124][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Down/FB_Idle_Down] ([1] browsable assets)...
+[2024.12.09-23.17.38:124][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Down/FB_Idle_Down]
+[2024.12.09-23.17.38:125][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Down/FB_Idle_Down
+[2024.12.09-23.17.38:125][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Idle_DownEB182D3B4FA71C260D97F79E7534FE2F.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Down/FB_Idle_Down.uasset'
+[2024.12.09-23.17.38:125][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_20] ([1] browsable assets)...
+[2024.12.09-23.17.38:125][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_20]
+[2024.12.09-23.17.38:126][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_20
+[2024.12.09-23.17.38:126][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_20EA8A52E4463994B56F0232A9328B9A67.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_20.uasset'
+[2024.12.09-23.17.38:127][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_4] ([1] browsable assets)...
+[2024.12.09-23.17.38:127][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_4]
+[2024.12.09-23.17.38:128][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_4
+[2024.12.09-23.17.38:128][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_475D2C56F4069DC86ECC3579CFBAF83B9.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_4.uasset'
+[2024.12.09-23.17.38:128][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Down/FB_Walk_Down] ([1] browsable assets)...
+[2024.12.09-23.17.38:128][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Down/FB_Walk_Down]
+[2024.12.09-23.17.38:129][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Down/FB_Walk_Down
+[2024.12.09-23.17.38:129][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Walk_Down7AC585DD4B1F6387DE6216B95AE29C83.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Down/FB_Walk_Down.uasset'
+[2024.12.09-23.17.38:141][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.027 ms (total: 4.19 sec)
+[2024.12.09-23.17.38:167][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.09-23.17.38:180][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.09-23.17.38:187][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.12.09-23.17.38:224][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.17.38:268][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk] ([1] browsable assets)...
+[2024.12.09-23.17.38:268][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk]
+[2024.12.09-23.17.38:268][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Walk
+[2024.12.09-23.17.38:269][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Walk9BFBC69B447233F68967AFAA4E428E6B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Walk.uasset'
+[2024.12.09-23.17.38:269][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle] ([1] browsable assets)...
+[2024.12.09-23.17.38:269][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle]
+[2024.12.09-23.17.38:270][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Idle
+[2024.12.09-23.17.38:270][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Idle90C9B4224A38572F33555F9F82FCC1BA.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Idle.uasset'
+[2024.12.09-23.17.38:271][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_21] ([1] browsable assets)...
+[2024.12.09-23.17.38:271][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_21]
+[2024.12.09-23.17.38:272][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_21
+[2024.12.09-23.17.38:272][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_2176C2B1194F7F77F31BFE35A051FE8107.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_21.uasset'
+[2024.12.09-23.17.38:273][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_5] ([1] browsable assets)...
+[2024.12.09-23.17.38:273][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_5]
+[2024.12.09-23.17.38:274][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_5
+[2024.12.09-23.17.38:274][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_5F2B20151436479A7C11A7D8FB4BD5AEC.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_5.uasset'
+[2024.12.09-23.17.38:275][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownLeft/FB_Walk_DownLeft] ([1] browsable assets)...
+[2024.12.09-23.17.38:275][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownLeft/FB_Walk_DownLeft]
+[2024.12.09-23.17.38:275][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownLeft/FB_Walk_DownLeft
+[2024.12.09-23.17.38:275][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Walk_DownLeft52F57BA5483111C1423B07AD41720135.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownLeft/FB_Walk_DownLeft.uasset'
+[2024.12.09-23.17.38:277][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownLeft/FB_Idle_DownLeft] ([1] browsable assets)...
+[2024.12.09-23.17.38:277][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownLeft/FB_Idle_DownLeft]
+[2024.12.09-23.17.38:278][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownLeft/FB_Idle_DownLeft
+[2024.12.09-23.17.38:278][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Idle_DownLeftA72A3230437166897712EF88FB6DFA0E.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownLeft/FB_Idle_DownLeft.uasset'
+[2024.12.09-23.17.38:278][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_13] ([1] browsable assets)...
+[2024.12.09-23.17.38:278][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_13]
+[2024.12.09-23.17.38:278][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_13
+[2024.12.09-23.17.38:278][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_13582E559D4381EF14FBC5D9ACE030686B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_13.uasset'
+[2024.12.09-23.17.38:291][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.548 ms (total: 4.26 sec)
+[2024.12.09-23.17.38:313][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.09-23.17.38:327][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.09-23.17.38:335][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.09-23.17.38:370][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.17.38:407][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk] ([1] browsable assets)...
+[2024.12.09-23.17.38:407][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk]
+[2024.12.09-23.17.38:408][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Walk
+[2024.12.09-23.17.38:408][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Walk41D9584042ECBE59924C20BF685DA144.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Walk.uasset'
+[2024.12.09-23.17.38:408][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle] ([1] browsable assets)...
+[2024.12.09-23.17.38:408][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle]
+[2024.12.09-23.17.38:409][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Idle
+[2024.12.09-23.17.38:409][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/IdleE7C357174B25E2248945378EFC131384.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Idle.uasset'
+[2024.12.09-23.17.38:410][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_19] ([1] browsable assets)...
+[2024.12.09-23.17.38:410][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_19]
+[2024.12.09-23.17.38:411][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_19
+[2024.12.09-23.17.38:411][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_1909D5F6FF4E2DEE3C3A7088892228C6A3.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_19.uasset'
+[2024.12.09-23.17.38:414][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_3] ([1] browsable assets)...
+[2024.12.09-23.17.38:414][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_3]
+[2024.12.09-23.17.38:415][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_3
+[2024.12.09-23.17.38:415][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_370C808FC49778D3E5F74AAAB678868D5.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_3.uasset'
+[2024.12.09-23.17.38:415][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownRight/FB_Walk_DownRight] ([1] browsable assets)...
+[2024.12.09-23.17.38:415][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownRight/FB_Walk_DownRight]
+[2024.12.09-23.17.38:416][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownRight/FB_Walk_DownRight
+[2024.12.09-23.17.38:416][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Walk_DownRightAE2D72744C1713DD3590D3BFFAFEAD01.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownRight/FB_Walk_DownRight.uasset'
+[2024.12.09-23.17.38:417][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownRight/FB_Idle_DownRight] ([1] browsable assets)...
+[2024.12.09-23.17.38:417][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownRight/FB_Idle_DownRight]
+[2024.12.09-23.17.38:417][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownRight/FB_Idle_DownRight
+[2024.12.09-23.17.38:417][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Idle_DownRight2B62BE8A48086734D6057680A9412E1F.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownRight/FB_Idle_DownRight.uasset'
+[2024.12.09-23.17.38:418][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_11] ([1] browsable assets)...
+[2024.12.09-23.17.38:418][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_11]
+[2024.12.09-23.17.38:418][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_11
+[2024.12.09-23.17.38:418][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_11D9566D394A48D947788F8ABE3CF05C1A.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_11.uasset'
+[2024.12.09-23.17.38:430][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.644 ms (total: 4.32 sec)
+[2024.12.09-23.17.38:453][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.09-23.17.38:460][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.09-23.17.38:469][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.09-23.17.38:499][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.17.38:541][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk] ([1] browsable assets)...
+[2024.12.09-23.17.38:541][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk]
+[2024.12.09-23.17.38:541][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Walk
+[2024.12.09-23.17.38:543][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/WalkD53DFA4A4424D0B4CB9A7A9A8B70C863.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Walk.uasset'
+[2024.12.09-23.17.38:543][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle] ([1] browsable assets)...
+[2024.12.09-23.17.38:543][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle]
+[2024.12.09-23.17.38:544][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Idle
+[2024.12.09-23.17.38:544][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/IdleE3FEA99D403C241CCED7038FF0B5674A.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Idle.uasset'
+[2024.12.09-23.17.38:545][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_22] ([1] browsable assets)...
+[2024.12.09-23.17.38:545][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_22]
+[2024.12.09-23.17.38:545][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_22
+[2024.12.09-23.17.38:545][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_22551B57674534DBD3426FDD868D2B2B3B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_22.uasset'
+[2024.12.09-23.17.38:547][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_6] ([1] browsable assets)...
+[2024.12.09-23.17.38:547][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_6]
+[2024.12.09-23.17.38:548][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_6
+[2024.12.09-23.17.38:548][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_655EDE1DC46E2941567C8098D4E54DE1F.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_6.uasset'
+[2024.12.09-23.17.38:549][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Left/FB_Walk_Left] ([1] browsable assets)...
+[2024.12.09-23.17.38:549][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Left/FB_Walk_Left]
+[2024.12.09-23.17.38:549][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Left/FB_Walk_Left
+[2024.12.09-23.17.38:549][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Walk_LeftFF9F10BD4150B690B4700B91609F9A5D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Left/FB_Walk_Left.uasset'
+[2024.12.09-23.17.38:550][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Left/FB_Idle_Left] ([1] browsable assets)...
+[2024.12.09-23.17.38:550][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Left/FB_Idle_Left]
+[2024.12.09-23.17.38:550][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Left/FB_Idle_Left
+[2024.12.09-23.17.38:550][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Idle_Left8524EB844D11734D78697590201790DB.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Left/FB_Idle_Left.uasset'
+[2024.12.09-23.17.38:551][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_14] ([1] browsable assets)...
+[2024.12.09-23.17.38:551][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_14]
+[2024.12.09-23.17.38:551][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_14
+[2024.12.09-23.17.38:551][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_14C6AD548943F52ED6E73A6F96578B3A44.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_14.uasset'
+[2024.12.09-23.17.38:560][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.347 ms (total: 4.38 sec)
+[2024.12.09-23.17.38:582][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.12.09-23.17.38:591][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.09-23.17.38:599][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.12.09-23.17.38:633][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.17.38:674][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk] ([1] browsable assets)...
+[2024.12.09-23.17.38:674][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk]
+[2024.12.09-23.17.38:674][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Walk
+[2024.12.09-23.17.38:675][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Walk112B8E5B470330DF0B5CE6B29E4430F8.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Walk.uasset'
+[2024.12.09-23.17.38:675][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_18] ([1] browsable assets)...
+[2024.12.09-23.17.38:675][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_18]
+[2024.12.09-23.17.38:676][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_18
+[2024.12.09-23.17.38:676][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_1827EDC1E84198B47944641CB4553E717E.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_18.uasset'
+[2024.12.09-23.17.38:677][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_2] ([1] browsable assets)...
+[2024.12.09-23.17.38:677][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_2]
+[2024.12.09-23.17.38:679][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_2
+[2024.12.09-23.17.38:679][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_2EB58936F4C2AA1C250F252AC1741F81E.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_2.uasset'
+[2024.12.09-23.17.38:680][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Right/FB_Walk_Right] ([1] browsable assets)...
+[2024.12.09-23.17.38:680][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Right/FB_Walk_Right]
+[2024.12.09-23.17.38:680][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Right/FB_Walk_Right
+[2024.12.09-23.17.38:680][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Walk_RightB3E7BE11443985DFB4855A9B64C45038.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Right/FB_Walk_Right.uasset'
+[2024.12.09-23.17.38:681][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_10] ([1] browsable assets)...
+[2024.12.09-23.17.38:681][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_10]
+[2024.12.09-23.17.38:681][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_10
+[2024.12.09-23.17.38:681][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_105F5128774B813D4D630F9DB905576C1A.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_10.uasset'
+[2024.12.09-23.17.38:682][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Right/FB_Idle_Right] ([1] browsable assets)...
+[2024.12.09-23.17.38:682][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Right/FB_Idle_Right]
+[2024.12.09-23.17.38:682][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Right/FB_Idle_Right
+[2024.12.09-23.17.38:683][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Idle_RightCDAEBE3742B82B4FB8A40AB9FAC6D722.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Right/FB_Idle_Right.uasset'
+[2024.12.09-23.17.38:691][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.743 ms (total: 4.44 sec)
+[2024.12.09-23.17.38:713][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.09-23.17.38:720][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.09-23.17.38:731][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.12.09-23.17.38:770][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.17.38:805][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk] ([1] browsable assets)...
+[2024.12.09-23.17.38:805][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk]
+[2024.12.09-23.17.38:805][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Walk
+[2024.12.09-23.17.38:806][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Walk0446E7F64A44E3D629E85287CA81B6BC.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Walk.uasset'
+[2024.12.09-23.17.38:806][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle] ([1] browsable assets)...
+[2024.12.09-23.17.38:806][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle]
+[2024.12.09-23.17.38:807][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Idle
+[2024.12.09-23.17.38:807][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Idle01F70ABD4A086B4B4E0DDFAC4155F178.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Idle.uasset'
+[2024.12.09-23.17.38:808][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_0] ([1] browsable assets)...
+[2024.12.09-23.17.38:808][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_0]
+[2024.12.09-23.17.38:808][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_0
+[2024.12.09-23.17.38:808][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_0BA8F543544B6ACB2EF956FBDC1F76A86.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_0.uasset'
+[2024.12.09-23.17.38:810][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_16] ([1] browsable assets)...
+[2024.12.09-23.17.38:810][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_16]
+[2024.12.09-23.17.38:811][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_16
+[2024.12.09-23.17.38:811][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_16A1E2010C48E8B9070DF5C2B8CEB840F5.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_16.uasset'
+[2024.12.09-23.17.38:811][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Up/FB_Walk_Up] ([1] browsable assets)...
+[2024.12.09-23.17.38:811][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Up/FB_Walk_Up]
+[2024.12.09-23.17.38:812][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Up/FB_Walk_Up
+[2024.12.09-23.17.38:812][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Walk_Up8485660A4554FB55E9A713BA37A43745.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Up/FB_Walk_Up.uasset'
+[2024.12.09-23.17.38:813][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Up/FB_Idle_Up] ([1] browsable assets)...
+[2024.12.09-23.17.38:813][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Up/FB_Idle_Up]
+[2024.12.09-23.17.38:814][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Up/FB_Idle_Up
+[2024.12.09-23.17.38:814][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Idle_Up2CC57B7140227DB07FA1D9AD2FECEC4F.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Up/FB_Idle_Up.uasset'
+[2024.12.09-23.17.38:815][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_8] ([1] browsable assets)...
+[2024.12.09-23.17.38:815][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_8]
+[2024.12.09-23.17.38:815][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_8
+[2024.12.09-23.17.38:815][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_81F491336406CE2D9FF1CD58EA1C800E1.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_8.uasset'
+[2024.12.09-23.17.38:826][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.760 ms (total: 4.49 sec)
+[2024.12.09-23.17.38:849][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.09-23.17.38:857][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.09-23.17.38:864][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.09-23.17.38:897][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.17.38:938][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk] ([1] browsable assets)...
+[2024.12.09-23.17.38:938][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk]
+[2024.12.09-23.17.38:939][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Walk
+[2024.12.09-23.17.38:939][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Walk17F93C204C9E5320370ACFAFE9348CCA.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Walk.uasset'
+[2024.12.09-23.17.38:940][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle] ([1] browsable assets)...
+[2024.12.09-23.17.38:940][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle]
+[2024.12.09-23.17.38:940][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Idle
+[2024.12.09-23.17.38:941][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Idle56759B7F485D7E0506EBD596897B1544.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Idle.uasset'
+[2024.12.09-23.17.38:941][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_23] ([1] browsable assets)...
+[2024.12.09-23.17.38:941][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_23]
+[2024.12.09-23.17.38:943][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_23
+[2024.12.09-23.17.38:943][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_23976FBD8F4B84714B48E2B3AB1D840F98.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_23.uasset'
+[2024.12.09-23.17.38:945][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_7] ([1] browsable assets)...
+[2024.12.09-23.17.38:945][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_7]
+[2024.12.09-23.17.38:945][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_7
+[2024.12.09-23.17.38:945][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_7FCF592C545E7C10185CE83B1B67FE072.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_7.uasset'
+[2024.12.09-23.17.38:946][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpLeft/FB_Walk_UpLeft] ([1] browsable assets)...
+[2024.12.09-23.17.38:946][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpLeft/FB_Walk_UpLeft]
+[2024.12.09-23.17.38:947][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpLeft/FB_Walk_UpLeft
+[2024.12.09-23.17.38:947][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Walk_UpLeft881E5345433E5B67E4F0F58A4F8F5662.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpLeft/FB_Walk_UpLeft.uasset'
+[2024.12.09-23.17.38:947][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpLeft/FB_Idle_UpLeft] ([1] browsable assets)...
+[2024.12.09-23.17.38:947][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpLeft/FB_Idle_UpLeft]
+[2024.12.09-23.17.38:948][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpLeft/FB_Idle_UpLeft
+[2024.12.09-23.17.38:948][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Idle_UpLeft21E4E3374AE305CF55EEE1ABE48C577B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpLeft/FB_Idle_UpLeft.uasset'
+[2024.12.09-23.17.38:949][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_15] ([1] browsable assets)...
+[2024.12.09-23.17.38:949][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_15]
+[2024.12.09-23.17.38:949][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_15
+[2024.12.09-23.17.38:949][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_15B482C1AA49808BB61AEA59854DF53FD0.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_15.uasset'
+[2024.12.09-23.17.38:961][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.222 ms (total: 4.56 sec)
+[2024.12.09-23.17.38:983][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.09-23.17.38:990][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.09-23.17.38:999][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.12.09-23.17.39:031][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.17.39:076][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk] ([1] browsable assets)...
+[2024.12.09-23.17.39:076][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk]
+[2024.12.09-23.17.39:076][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Walk
+[2024.12.09-23.17.39:077][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/WalkE9EBF764472FF895BC15D3B57EED5296.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Walk.uasset'
+[2024.12.09-23.17.39:077][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle] ([1] browsable assets)...
+[2024.12.09-23.17.39:077][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle]
+[2024.12.09-23.17.39:078][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Idle
+[2024.12.09-23.17.39:078][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/IdleEA4C75A34010B105CEEAA2BD7B0DF4BD.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Idle.uasset'
+[2024.12.09-23.17.39:079][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_1] ([1] browsable assets)...
+[2024.12.09-23.17.39:079][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_1]
+[2024.12.09-23.17.39:080][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_1
+[2024.12.09-23.17.39:080][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_15E49E14F4D155481EA0992B90E179BD4.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_1.uasset'
+[2024.12.09-23.17.39:081][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_17] ([1] browsable assets)...
+[2024.12.09-23.17.39:081][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_17]
+[2024.12.09-23.17.39:082][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_17
+[2024.12.09-23.17.39:082][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_1770302B8943236D2EA0C2DCA4037F11AE.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_17.uasset'
+[2024.12.09-23.17.39:082][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpRight/FB_Walk_UpRight] ([1] browsable assets)...
+[2024.12.09-23.17.39:082][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpRight/FB_Walk_UpRight]
+[2024.12.09-23.17.39:083][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpRight/FB_Walk_UpRight
+[2024.12.09-23.17.39:083][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Walk_UpRight5CEC70B14802B616221878853A65F45F.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpRight/FB_Walk_UpRight.uasset'
+[2024.12.09-23.17.39:085][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpRight/FB_Idle_UpRight] ([1] browsable assets)...
+[2024.12.09-23.17.39:085][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpRight/FB_Idle_UpRight]
+[2024.12.09-23.17.39:085][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpRight/FB_Idle_UpRight
+[2024.12.09-23.17.39:085][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/FB_Idle_UpRightA1B9AEB44144817C827B92AD63BB5EB1.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpRight/FB_Idle_UpRight.uasset'
+[2024.12.09-23.17.39:086][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_9] ([1] browsable assets)...
+[2024.12.09-23.17.39:086][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_9]
+[2024.12.09-23.17.39:087][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_9
+[2024.12.09-23.17.39:087][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_9A55F3B524B9784C85B6ECCB56E9B07AA.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_9.uasset'
+[2024.12.09-23.17.39:100][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.790 ms (total: 4.63 sec)
+[2024.12.09-23.17.39:123][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.12.09-23.17.39:131][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.09-23.17.39:144][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.12.09-23.17.39:172][471]LogMetaData: Removing '/Game/Blueprints/Player/2D/Animation/ABP_Player.ABP_Player_C' ref from Metadata '/Game/Blueprints/Player/2D/ABP_Player.PackageMetaData'
+[2024.12.09-23.17.39:172][471]LogMetaData: Removing '/Game/Blueprints/Player/2D/Animation/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_Sink_0' ref from Metadata '/Game/Blueprints/Player/2D/ABP_Player.PackageMetaData'
+[2024.12.09-23.17.39:172][471]LogMetaData: Removing '/Game/Blueprints/Player/2D/Animation/ABP_Player.ABP_Player:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Player/2D/ABP_Player.PackageMetaData'
+[2024.12.09-23.17.39:172][471]LogMetaData: Removing '/Game/Blueprints/Player/2D/Animation/ABP_Player.ABP_Player:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Player/2D/ABP_Player.PackageMetaData'
+[2024.12.09-23.17.39:172][471]LogMetaData: Removing '/Game/Blueprints/Player/2D/Animation/ABP_Player.SKEL_ABP_Player_C' ref from Metadata '/Game/Blueprints/Player/2D/ABP_Player.PackageMetaData'
+[2024.12.09-23.17.39:172][471]LogMetaData: Removing '/Game/Blueprints/Player/2D/Animation/ABP_Player.ABP_Player_C:OnInit' ref from Metadata '/Game/Blueprints/Player/2D/ABP_Player.PackageMetaData'
+[2024.12.09-23.17.39:172][471]LogMetaData: Removing '/Game/Blueprints/Player/2D/Animation/ABP_Player.SKEL_ABP_Player_C:OnTick' ref from Metadata '/Game/Blueprints/Player/2D/ABP_Player.PackageMetaData'
+[2024.12.09-23.17.39:172][471]LogMetaData: Removing '/Game/Blueprints/Player/2D/Animation/ABP_Player.SKEL_ABP_Player_C:OnInit' ref from Metadata '/Game/Blueprints/Player/2D/ABP_Player.PackageMetaData'
+[2024.12.09-23.17.39:195][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.17.39:239][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/BP_PlayerZD] ([2] browsable assets)...
+[2024.12.09-23.17.39:239][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/BP_PlayerZD]
+[2024.12.09-23.17.39:239][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/2D/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset" SILENT=true
+[2024.12.09-23.17.39:255][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/BP_PlayerZD
+[2024.12.09-23.17.39:255][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD5C318FCE4544288115FBDABBDEB28E4A.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset'
+[2024.12.09-23.17.39:256][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk] ([1] browsable assets)...
+[2024.12.09-23.17.39:256][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Walk]
+[2024.12.09-23.17.39:257][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Walk
+[2024.12.09-23.17.39:257][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Walk1022AE314D5D2932AF613BA7D65A071D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Walk.uasset'
+[2024.12.09-23.17.39:258][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle] ([1] browsable assets)...
+[2024.12.09-23.17.39:258][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AnimSequences/Idle]
+[2024.12.09-23.17.39:258][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AnimSequences/Idle
+[2024.12.09-23.17.39:259][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Idle560C426D4FA75BF2ADDF9D9185043C14.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AnimSequences/Idle.uasset'
+[2024.12.09-23.17.39:259][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_4] ([1] browsable assets)...
+[2024.12.09-23.17.39:259][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_4]
+[2024.12.09-23.17.39:260][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_4
+[2024.12.09-23.17.39:260][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_4F68C24B34C9C15E3C5AE75A1CA5D83C5.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_4.uasset'
+[2024.12.09-23.17.39:261][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_12] ([1] browsable assets)...
+[2024.12.09-23.17.39:261][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_12]
+[2024.12.09-23.17.39:262][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_12
+[2024.12.09-23.17.39:262][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_1243BBB614405E29C38589159994890FD4.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_12.uasset'
+[2024.12.09-23.17.39:262][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_20] ([1] browsable assets)...
+[2024.12.09-23.17.39:262][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_20]
+[2024.12.09-23.17.39:263][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_20
+[2024.12.09-23.17.39:263][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_20D841F8F84130E85042802FB2F32BA272.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_20.uasset'
+[2024.12.09-23.17.39:264][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_5] ([1] browsable assets)...
+[2024.12.09-23.17.39:264][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_5]
+[2024.12.09-23.17.39:266][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_5
+[2024.12.09-23.17.39:266][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_5E7A28A084B1E73CBEC6ED588EE4560B9.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_5.uasset'
+[2024.12.09-23.17.39:267][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_13] ([1] browsable assets)...
+[2024.12.09-23.17.39:267][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_13]
+[2024.12.09-23.17.39:268][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_13
+[2024.12.09-23.17.39:268][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_13AB11F700408CF75139B5739C623B772D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_13.uasset'
+[2024.12.09-23.17.39:269][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_21] ([1] browsable assets)...
+[2024.12.09-23.17.39:269][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_21]
+[2024.12.09-23.17.39:270][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_21
+[2024.12.09-23.17.39:270][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_2155CC5A104764CD74F08F70B299324480.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_21.uasset'
+[2024.12.09-23.17.39:271][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_3] ([1] browsable assets)...
+[2024.12.09-23.17.39:271][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_3]
+[2024.12.09-23.17.39:272][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_3
+[2024.12.09-23.17.39:272][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_34215C89E4E255B25846D419F7BEC01EB.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_3.uasset'
+[2024.12.09-23.17.39:273][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_11] ([1] browsable assets)...
+[2024.12.09-23.17.39:273][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_11]
+[2024.12.09-23.17.39:274][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_11
+[2024.12.09-23.17.39:274][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_1126440EB04A93AC40F359D9A632331F44.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_11.uasset'
+[2024.12.09-23.17.39:275][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_19] ([1] browsable assets)...
+[2024.12.09-23.17.39:275][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_19]
+[2024.12.09-23.17.39:275][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_19
+[2024.12.09-23.17.39:276][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_19D0A93EC840196D294F05BC82CC2E5839.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_19.uasset'
+[2024.12.09-23.17.39:276][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_6] ([1] browsable assets)...
+[2024.12.09-23.17.39:276][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_6]
+[2024.12.09-23.17.39:277][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_6
+[2024.12.09-23.17.39:277][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_69BC374CB42EC1F06499B168F970C29EC.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_6.uasset'
+[2024.12.09-23.17.39:278][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_14] ([1] browsable assets)...
+[2024.12.09-23.17.39:278][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_14]
+[2024.12.09-23.17.39:278][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_14
+[2024.12.09-23.17.39:279][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_143E4BF95142CAE8ED51FABFBDF09C089D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_14.uasset'
+[2024.12.09-23.17.39:280][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_22] ([1] browsable assets)...
+[2024.12.09-23.17.39:280][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_22]
+[2024.12.09-23.17.39:281][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_22
+[2024.12.09-23.17.39:281][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_2293D3FE0F4D50470676DA349DECEB7AFB.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_22.uasset'
+[2024.12.09-23.17.39:281][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_2] ([1] browsable assets)...
+[2024.12.09-23.17.39:281][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_2]
+[2024.12.09-23.17.39:282][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_2
+[2024.12.09-23.17.39:282][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_24050B79045C5779182A5B3B6DAED9EBF.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_2.uasset'
+[2024.12.09-23.17.39:283][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_10] ([1] browsable assets)...
+[2024.12.09-23.17.39:283][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_10]
+[2024.12.09-23.17.39:284][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_10
+[2024.12.09-23.17.39:284][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_104F6E02764131C772654E14B3DFD5D5CC.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_10.uasset'
+[2024.12.09-23.17.39:285][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_18] ([1] browsable assets)...
+[2024.12.09-23.17.39:285][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_18]
+[2024.12.09-23.17.39:286][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_18
+[2024.12.09-23.17.39:286][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_1884B82D0A46EAB0CF4E79FCA2E9391047.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_18.uasset'
+[2024.12.09-23.17.39:287][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_0] ([1] browsable assets)...
+[2024.12.09-23.17.39:287][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_0]
+[2024.12.09-23.17.39:288][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_0
+[2024.12.09-23.17.39:288][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_002A0AF7A474C228555C7F786CE6B5F55.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_0.uasset'
+[2024.12.09-23.17.39:289][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_8] ([1] browsable assets)...
+[2024.12.09-23.17.39:289][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_8]
+[2024.12.09-23.17.39:290][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_8
+[2024.12.09-23.17.39:290][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_8BCE306384AF4115887AACEA3B8278DE8.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_8.uasset'
+[2024.12.09-23.17.39:291][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_16] ([1] browsable assets)...
+[2024.12.09-23.17.39:291][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_16]
+[2024.12.09-23.17.39:292][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_16
+[2024.12.09-23.17.39:293][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_163F0366DD444FE375C2992BAA50A14CC7.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_16.uasset'
+[2024.12.09-23.17.39:293][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_7] ([1] browsable assets)...
+[2024.12.09-23.17.39:293][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_7]
+[2024.12.09-23.17.39:294][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_7
+[2024.12.09-23.17.39:295][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_739B38A024D48B8564A9ED68AC82A79C3.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_7.uasset'
+[2024.12.09-23.17.39:295][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_15] ([1] browsable assets)...
+[2024.12.09-23.17.39:295][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_15]
+[2024.12.09-23.17.39:296][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_15
+[2024.12.09-23.17.39:297][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_15E1AD28D840C21736E9B172AE1A5203F7.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_15.uasset'
+[2024.12.09-23.17.39:297][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_23] ([1] browsable assets)...
+[2024.12.09-23.17.39:297][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_23]
+[2024.12.09-23.17.39:298][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_23
+[2024.12.09-23.17.39:299][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_23D4CCFB874D366D9F827DE880ACA2EFB2.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_23.uasset'
+[2024.12.09-23.17.39:299][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_1] ([1] browsable assets)...
+[2024.12.09-23.17.39:299][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_1]
+[2024.12.09-23.17.39:300][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_1
+[2024.12.09-23.17.39:301][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_1365159FE4A59C5A3B831FC9811AD86DE.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_1.uasset'
+[2024.12.09-23.17.39:301][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_9] ([1] browsable assets)...
+[2024.12.09-23.17.39:301][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_9]
+[2024.12.09-23.17.39:303][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_9
+[2024.12.09-23.17.39:303][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_93CE6B1ED46490AFCF7B2DFA67AE72D81.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_9.uasset'
+[2024.12.09-23.17.39:304][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_17] ([1] browsable assets)...
+[2024.12.09-23.17.39:304][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_17]
+[2024.12.09-23.17.39:305][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_17
+[2024.12.09-23.17.39:305][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char_Sprite_17E10C2E594C5E8EF421B5DBBE07DAA9F3.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_17.uasset'
+[2024.12.09-23.17.39:306][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/ABP_Player] ([2] browsable assets)...
+[2024.12.09-23.17.39:306][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/ABP_Player]
+[2024.12.09-23.17.39:309][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/ABP_Player
+[2024.12.09-23.17.39:309][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/ABP_PlayerAF6237444A32580F0303B78C56897612.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/ABP_Player.uasset'
+[2024.12.09-23.17.39:313][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/AS_Player] ([1] browsable assets)...
+[2024.12.09-23.17.39:313][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/AS_Player]
+[2024.12.09-23.17.39:314][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/AS_Player
+[2024.12.09-23.17.39:314][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/AS_Player2C598AE54EF9AB93BA791F811207B489.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/AS_Player.uasset'
+[2024.12.09-23.17.39:315][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/Animation/T_Char] ([1] browsable assets)...
+[2024.12.09-23.17.39:315][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/Animation/T_Char]
+[2024.12.09-23.17.39:316][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/Animation/T_Char
+[2024.12.09-23.17.39:316][471]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/T_Char15FA81C740ABB3A2360B8CA18C3786B8.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/Animation/T_Char.uasset'
+[2024.12.09-23.17.39:329][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.025 ms (total: 4.76 sec)
+[2024.12.09-23.17.39:349][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.09-23.17.39:358][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.09-23.17.39:368][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.12.09-23.17.39:390][471]LogAssetRegistry: Warning: C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints\Player\2D\ABP_Player.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2024.12.09-23.17.39:412][471]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.09-23.17.39:412][471]LogContentValidation: Display: Starting to validate 46 assets
+[2024.12.09-23.17.39:412][471]LogContentValidation: Enabled validators:
+[2024.12.09-23.17.39:412][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.17.39:412][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.17.39:412][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.17.39:412][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/AnimSequences/Walk.Walk
+[2024.12.09-23.17.39:412][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/AnimSequences/Walk Validating asset
+[2024.12.09-23.17.39:412][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/AnimSequences/Idle.Idle
+[2024.12.09-23.17.39:412][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/AnimSequences/Idle Validating asset
+[2024.12.09-23.17.39:412][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/BP_PlayerZD.BP_PlayerZD
+[2024.12.09-23.17.39:412][471]AssetCheck: /Game/Blueprints/Player/2D/BP_PlayerZD Validating asset
+[2024.12.09-23.17.39:412][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_12.T_Char_Sprite_12
+[2024.12.09-23.17.39:412][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_12 Validating asset
+[2024.12.09-23.17.39:412][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Down/FB_Idle_Down.FB_Idle_Down
+[2024.12.09-23.17.39:412][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Down/FB_Idle_Down Validating asset
+[2024.12.09-23.17.39:412][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_20.T_Char_Sprite_20
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_20 Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_4.T_Char_Sprite_4
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Down/T_Char_Sprite_4 Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Down/FB_Walk_Down.FB_Walk_Down
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Down/FB_Walk_Down Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_21.T_Char_Sprite_21
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_21 Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_5.T_Char_Sprite_5
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_5 Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/DownLeft/FB_Walk_DownLeft.FB_Walk_DownLeft
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/DownLeft/FB_Walk_DownLeft Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/DownLeft/FB_Idle_DownLeft.FB_Idle_DownLeft
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/DownLeft/FB_Idle_DownLeft Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_13.T_Char_Sprite_13
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/DownLeft/T_Char_Sprite_13 Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_19.T_Char_Sprite_19
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_19 Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_3.T_Char_Sprite_3
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_3 Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/DownRight/FB_Walk_DownRight.FB_Walk_DownRight
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/DownRight/FB_Walk_DownRight Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/DownRight/FB_Idle_DownRight.FB_Idle_DownRight
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/DownRight/FB_Idle_DownRight Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_11.T_Char_Sprite_11
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/DownRight/T_Char_Sprite_11 Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_22.T_Char_Sprite_22
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_22 Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_6.T_Char_Sprite_6
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_6 Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Left/FB_Walk_Left.FB_Walk_Left
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Left/FB_Walk_Left Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Left/FB_Idle_Left.FB_Idle_Left
+[2024.12.09-23.17.39:413][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Left/FB_Idle_Left Validating asset
+[2024.12.09-23.17.39:413][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_14.T_Char_Sprite_14
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Left/T_Char_Sprite_14 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_18.T_Char_Sprite_18
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_18 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_2.T_Char_Sprite_2
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_2 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Right/FB_Walk_Right.FB_Walk_Right
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Right/FB_Walk_Right Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_10.T_Char_Sprite_10
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Right/T_Char_Sprite_10 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Right/FB_Idle_Right.FB_Idle_Right
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Right/FB_Idle_Right Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_0.T_Char_Sprite_0
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_0 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_16.T_Char_Sprite_16
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_16 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Up/FB_Walk_Up.FB_Walk_Up
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Up/FB_Walk_Up Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Up/FB_Idle_Up.FB_Idle_Up
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Up/FB_Idle_Up Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_8.T_Char_Sprite_8
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/Up/T_Char_Sprite_8 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_23.T_Char_Sprite_23
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_23 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_7.T_Char_Sprite_7
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_7 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/UpLeft/FB_Walk_UpLeft.FB_Walk_UpLeft
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/UpLeft/FB_Walk_UpLeft Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/UpLeft/FB_Idle_UpLeft.FB_Idle_UpLeft
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/UpLeft/FB_Idle_UpLeft Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_15.T_Char_Sprite_15
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/UpLeft/T_Char_Sprite_15 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_1.T_Char_Sprite_1
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_1 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_17.T_Char_Sprite_17
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_17 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/UpRight/FB_Walk_UpRight.FB_Walk_UpRight
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/UpRight/FB_Walk_UpRight Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/UpRight/FB_Idle_UpRight.FB_Idle_UpRight
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/UpRight/FB_Idle_UpRight Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_9.T_Char_Sprite_9
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/UpRight/T_Char_Sprite_9 Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/ABP_Player.ABP_Player
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/ABP_Player Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/AS_Player.AS_Player
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/AS_Player Validating asset
+[2024.12.09-23.17.39:414][471]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/Animation/T_Char.T_Char
+[2024.12.09-23.17.39:414][471]AssetCheck: /Game/Blueprints/Player/2D/Animation/T_Char Validating asset
