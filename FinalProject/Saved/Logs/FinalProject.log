@@ -6446,3 +6446,18 @@ Make sure '/Game/Blueprints/Enemies/test_enemy_art.test_enemy_art_C' has been co
 [2024.12.09-23.52.07:776][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.09-23.52.07:776][926]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode.Explode
 [2024.12.09-23.52.07:776][926]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode Validating asset
+[2024.12.09-23.54.45:550][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.54.45:584][255]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemies/bp_turret] ([2] browsable assets)...
+[2024.12.09-23.54.45:645][255]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret]
+[2024.12.09-23.54.45:645][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bp_turret]
+[2024.12.09-23.54.45:645][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bp_turret" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset" SILENT=true
+[2024.12.09-23.54.45:653][255]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/bp_turret
+[2024.12.09-23.54.45:653][255]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/bp_turretEF91FE6C4F67BB49D75AE1933BA74287.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset'
+[2024.12.09-23.54.45:667][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.983 ms (total: 7.22 sec)
+[2024.12.09-23.54.45:705][255]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.54.45:705][255]LogContentValidation: Enabled validators:
+[2024.12.09-23.54.45:705][255]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.54.45:705][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.54.45:705][255]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.54.45:705][255]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/bp_turret.bp_turret
+[2024.12.09-23.54.45:705][255]AssetCheck: /Game/Blueprints/Enemies/bp_turret Validating asset
