@@ -5379,3 +5379,1070 @@ Make sure '/Game/Blueprints/Enemies/test_enemy_art.test_enemy_art_C' has been co
 [2024.12.09-23.24.56:236][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
 [2024.12.09-23.24.56:242][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2024.12.09-23.24.56:315][180]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2024.12.09-23.25.21:295][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.09-23.25.21:297][306]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.014
+[2024.12.09-23.25.21:297][306]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot] ([1] browsable assets)...
+[2024.12.09-23.25.21:297][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot]
+[2024.12.09-23.25.21:298][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot_Auto5
+[2024.12.09-23.25.21:298][306]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Shoot_Auto505F5D3954BA07E5E3002F7A0EC319F04.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot_Auto5.uasset'
+[2024.12.09-23.25.21:298][306]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle] ([1] browsable assets)...
+[2024.12.09-23.25.21:298][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle]
+[2024.12.09-23.25.21:299][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle_Auto5
+[2024.12.09-23.25.21:299][306]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Idle_Auto5CF598B5C4B41581A7AE088A8E9E5ABA2.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle_Auto5.uasset'
+[2024.12.09-23.25.21:299][306]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.12.09-23.43.22:026][289]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/explosion_sheet_1.png)
+[2024.12.09-23.43.22:026][289]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.12.09-23.43.22:037][289]LogTexture: Display: Building textures: /Game/Blueprints/Enemies/explosion_sheet_1.explosion_sheet_1 (TFO_AutoDXT, 336x48 x1x1x1) (Required Memory Estimate: 2.605469 MB), EncodeSpeed: Fast
+[2024.12.09-23.43.22:053][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.43.22:128][290]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/explosion_sheet_1] ([1] browsable assets)...
+[2024.12.09-23.43.22:128][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/explosion_sheet_1]
+[2024.12.09-23.43.22:129][290]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/explosion_sheet_1
+[2024.12.09-23.43.22:131][290]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1D5037EE94EEA3A0E921A5286289A7143.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/explosion_sheet_1.uasset'
+[2024.12.09-23.43.22:181][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.875 ms (total: 5.01 sec)
+[2024.12.09-23.43.22:277][291]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.43.22:277][291]LogContentValidation: Enabled validators:
+[2024.12.09-23.43.22:277][291]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.43.22:277][291]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.43.22:277][291]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.43.22:277][291]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/explosion_sheet_1.explosion_sheet_1
+[2024.12.09-23.43.22:277][291]AssetCheck: /Game/Blueprints/Enemies/explosion_sheet_1 Validating asset
+[2024.12.09-23.43.25:184][454]AssetReimport: Importing new asset /Game/Blueprints/Enemies/explosion_sheet_1.
+[2024.12.09-23.43.27:253][572]LogTexture: Display: Building textures: /Game/Blueprints/Enemies/explosion_sheet_1.explosion_sheet_1 (BGRA8, 336x48 x1x1x1) (Required Memory Estimate: 0.53418 MB), EncodeSpeed: Fast
+[2024.12.09-23.43.29:131][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.43.29:170][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/explosion_sheet_1] ([1] browsable assets)...
+[2024.12.09-23.43.29:171][684]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/Enemies/explosion_sheet_1.explosion_sheet_1]
+[2024.12.09-23.43.29:171][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/explosion_sheet_1]
+[2024.12.09-23.43.29:173][684]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/explosion_sheet_1
+[2024.12.09-23.43.29:173][684]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1F267D7AD4644C82A36137D9C82B6C3DA.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/explosion_sheet_1.uasset'
+[2024.12.09-23.43.29:184][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.296 ms (total: 5.06 sec)
+[2024.12.09-23.43.29:217][684]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.43.29:217][684]LogContentValidation: Enabled validators:
+[2024.12.09-23.43.29:217][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.43.29:217][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.43.29:217][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.43.29:217][684]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/explosion_sheet_1.explosion_sheet_1
+[2024.12.09-23.43.29:217][684]AssetCheck: /Game/Blueprints/Enemies/explosion_sheet_1 Validating asset
+[2024.12.09-23.44.21:495][795]LogSlate: Window 'Extract sprites' being destroyed
+[2024.12.09-23.44.27:883][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.44.27:927][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6] ([1] browsable assets)...
+[2024.12.09-23.44.27:928][171]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6.explosion_sheet_1_Sprite_6]
+[2024.12.09-23.44.27:928][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6]
+[2024.12.09-23.44.27:930][171]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6
+[2024.12.09-23.44.27:930][171]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_6EF43B1CA406428A123B2B2BBEA8CF1F6.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6.uasset'
+[2024.12.09-23.44.27:932][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5] ([1] browsable assets)...
+[2024.12.09-23.44.27:934][171]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5.explosion_sheet_1_Sprite_5]
+[2024.12.09-23.44.27:934][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5]
+[2024.12.09-23.44.27:935][171]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5
+[2024.12.09-23.44.27:935][171]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_5B1CC52B54425EECC3F0F88AD2DCC0A9F.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5.uasset'
+[2024.12.09-23.44.27:936][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4] ([1] browsable assets)...
+[2024.12.09-23.44.27:937][171]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4.explosion_sheet_1_Sprite_4]
+[2024.12.09-23.44.27:937][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4]
+[2024.12.09-23.44.27:938][171]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4
+[2024.12.09-23.44.27:938][171]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_4C87B3C4F471885F47C8D049A893AB7BF.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4.uasset'
+[2024.12.09-23.44.27:938][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3] ([1] browsable assets)...
+[2024.12.09-23.44.27:939][171]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3.explosion_sheet_1_Sprite_3]
+[2024.12.09-23.44.27:939][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3]
+[2024.12.09-23.44.27:940][171]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3
+[2024.12.09-23.44.27:940][171]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_382D01E62465D11C6BD7A69BFC14A4754.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3.uasset'
+[2024.12.09-23.44.27:941][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2] ([1] browsable assets)...
+[2024.12.09-23.44.27:942][171]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2.explosion_sheet_1_Sprite_2]
+[2024.12.09-23.44.27:942][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2]
+[2024.12.09-23.44.27:943][171]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2
+[2024.12.09-23.44.27:943][171]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_259F5AC194DC089466F352E86BE79AAF1.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2.uasset'
+[2024.12.09-23.44.27:943][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1] ([1] browsable assets)...
+[2024.12.09-23.44.27:944][171]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1.explosion_sheet_1_Sprite_1]
+[2024.12.09-23.44.27:944][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1]
+[2024.12.09-23.44.27:945][171]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1
+[2024.12.09-23.44.27:945][171]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_124CCB1924FAF122DA0F4A2840118E469.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1.uasset'
+[2024.12.09-23.44.27:946][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0] ([1] browsable assets)...
+[2024.12.09-23.44.27:947][171]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0.explosion_sheet_1_Sprite_0]
+[2024.12.09-23.44.27:947][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0]
+[2024.12.09-23.44.27:948][171]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0
+[2024.12.09-23.44.27:948][171]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_00B5E6532417F31513557C9A0D1FBFC49.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0.uasset'
+[2024.12.09-23.44.27:958][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.205 ms (total: 5.14 sec)
+[2024.12.09-23.44.27:992][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.09-23.44.28:003][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.09-23.44.28:013][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.12.09-23.44.28:035][171]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.09-23.44.28:035][171]LogContentValidation: Display: Starting to validate 7 assets
+[2024.12.09-23.44.28:035][171]LogContentValidation: Enabled validators:
+[2024.12.09-23.44.28:035][171]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.44.28:035][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.44.28:035][171]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.44.28:035][171]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6.explosion_sheet_1_Sprite_6
+[2024.12.09-23.44.28:035][171]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6 Validating asset
+[2024.12.09-23.44.28:035][171]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5.explosion_sheet_1_Sprite_5
+[2024.12.09-23.44.28:035][171]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5 Validating asset
+[2024.12.09-23.44.28:035][171]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4.explosion_sheet_1_Sprite_4
+[2024.12.09-23.44.28:035][171]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4 Validating asset
+[2024.12.09-23.44.28:035][171]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3.explosion_sheet_1_Sprite_3
+[2024.12.09-23.44.28:035][171]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3 Validating asset
+[2024.12.09-23.44.28:035][171]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2.explosion_sheet_1_Sprite_2
+[2024.12.09-23.44.28:035][171]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2 Validating asset
+[2024.12.09-23.44.28:035][171]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1.explosion_sheet_1_Sprite_1
+[2024.12.09-23.44.28:035][171]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1 Validating asset
+[2024.12.09-23.44.28:035][171]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0.explosion_sheet_1_Sprite_0
+[2024.12.09-23.44.28:035][171]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0 Validating asset
+[2024.12.09-23.44.35:598][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.44.35:643][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_0] ([1] browsable assets)...
+[2024.12.09-23.44.35:643][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_0]
+[2024.12.09-23.44.35:644][606]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_0
+[2024.12.09-23.44.35:644][606]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_0CEB8CC7042EE59BE05996BBDD33279E0.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_0.uasset'
+[2024.12.09-23.44.35:646][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_1] ([1] browsable assets)...
+[2024.12.09-23.44.35:646][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_1]
+[2024.12.09-23.44.35:647][606]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_1
+[2024.12.09-23.44.35:647][606]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_1272C9642432407C56A7143A4F70D0593.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_1.uasset'
+[2024.12.09-23.44.35:648][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_2] ([1] browsable assets)...
+[2024.12.09-23.44.35:648][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_2]
+[2024.12.09-23.44.35:648][606]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_2
+[2024.12.09-23.44.35:648][606]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_2F6457426415ABD2751DD7099928EB8C9.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_2.uasset'
+[2024.12.09-23.44.35:650][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_3] ([1] browsable assets)...
+[2024.12.09-23.44.35:650][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_3]
+[2024.12.09-23.44.35:650][606]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_3
+[2024.12.09-23.44.35:650][606]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_35079705944CCAF7668A9EC9AAA2B3EE9.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_3.uasset'
+[2024.12.09-23.44.35:651][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_4] ([1] browsable assets)...
+[2024.12.09-23.44.35:651][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_4]
+[2024.12.09-23.44.35:652][606]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_4
+[2024.12.09-23.44.35:652][606]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_48C72E7174CC5D3F4E8F0B5B74029219E.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_4.uasset'
+[2024.12.09-23.44.35:653][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_5] ([1] browsable assets)...
+[2024.12.09-23.44.35:653][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_5]
+[2024.12.09-23.44.35:654][606]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_5
+[2024.12.09-23.44.35:654][606]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_57C2CF2B94A53975491DF2AA9A5D26DA6.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_5.uasset'
+[2024.12.09-23.44.35:655][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_6] ([1] browsable assets)...
+[2024.12.09-23.44.35:655][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_6]
+[2024.12.09-23.44.35:657][606]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_6
+[2024.12.09-23.44.35:657][606]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_61F005BE549A9AC4F2F31FD9B1F9E9EA6.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_6.uasset'
+[2024.12.09-23.44.35:666][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.838 ms (total: 5.21 sec)
+[2024.12.09-23.44.35:697][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.09-23.44.35:707][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.09-23.44.35:718][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.09-23.44.35:739][606]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.09-23.44.35:739][606]LogContentValidation: Display: Starting to validate 7 assets
+[2024.12.09-23.44.35:739][606]LogContentValidation: Enabled validators:
+[2024.12.09-23.44.35:739][606]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.44.35:739][606]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.44.35:739][606]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.44.35:739][606]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_0.explosion_sheet_1_Sprite_0
+[2024.12.09-23.44.35:739][606]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_0 Validating asset
+[2024.12.09-23.44.35:739][606]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_1.explosion_sheet_1_Sprite_1
+[2024.12.09-23.44.35:740][606]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_1 Validating asset
+[2024.12.09-23.44.35:740][606]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_2.explosion_sheet_1_Sprite_2
+[2024.12.09-23.44.35:740][606]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_2 Validating asset
+[2024.12.09-23.44.35:740][606]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_3.explosion_sheet_1_Sprite_3
+[2024.12.09-23.44.35:740][606]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_3 Validating asset
+[2024.12.09-23.44.35:740][606]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_4.explosion_sheet_1_Sprite_4
+[2024.12.09-23.44.35:740][606]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_4 Validating asset
+[2024.12.09-23.44.35:740][606]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_5.explosion_sheet_1_Sprite_5
+[2024.12.09-23.44.35:740][606]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_5 Validating asset
+[2024.12.09-23.44.35:740][606]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_6.explosion_sheet_1_Sprite_6
+[2024.12.09-23.44.35:740][606]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/explosion_sheet_1_Sprite_6 Validating asset
+[2024.12.09-23.44.38:636][779]Cmd: TRANSACTION UNDO
+[2024.12.09-23.44.38:636][779]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.09-23.44.41:027][905]Cmd: TRANSACTION REDO
+[2024.12.09-23.44.41:027][905]LogEditorTransaction: Redo Clicking on Elements
+[2024.12.09-23.44.46:897][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.44.46:942][245]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_0] ([1] browsable assets)...
+[2024.12.09-23.44.46:942][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_0]
+[2024.12.09-23.44.46:943][245]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_0
+[2024.12.09-23.44.46:943][245]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_0DC48BEA24068C13DEB381999F814B8F6.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_0.uasset'
+[2024.12.09-23.44.46:945][245]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_1] ([1] browsable assets)...
+[2024.12.09-23.44.46:945][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_1]
+[2024.12.09-23.44.46:946][245]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_1
+[2024.12.09-23.44.46:946][245]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_10C9E3B194AF6C33A86411FB2525C653B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_1.uasset'
+[2024.12.09-23.44.46:947][245]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_2] ([1] browsable assets)...
+[2024.12.09-23.44.46:947][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_2]
+[2024.12.09-23.44.46:948][245]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_2
+[2024.12.09-23.44.46:948][245]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_23C6ECD1F49D976FEFE3C15BF0A9D018D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_2.uasset'
+[2024.12.09-23.44.46:948][245]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_3] ([1] browsable assets)...
+[2024.12.09-23.44.46:948][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_3]
+[2024.12.09-23.44.46:949][245]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_3
+[2024.12.09-23.44.46:949][245]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_3E07974804B6035315444BB8FF87CDD00.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_3.uasset'
+[2024.12.09-23.44.46:949][245]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_4] ([1] browsable assets)...
+[2024.12.09-23.44.46:949][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_4]
+[2024.12.09-23.44.46:950][245]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_4
+[2024.12.09-23.44.46:950][245]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_41859109A41A7A988AEDD799262646DCF.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_4.uasset'
+[2024.12.09-23.44.46:951][245]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_5] ([1] browsable assets)...
+[2024.12.09-23.44.46:951][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_5]
+[2024.12.09-23.44.46:951][245]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_5
+[2024.12.09-23.44.46:951][245]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_5EAD0C2C041282D6A3F308CBD30F95DB9.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_5.uasset'
+[2024.12.09-23.44.46:952][245]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_6] ([1] browsable assets)...
+[2024.12.09-23.44.46:952][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_6]
+[2024.12.09-23.44.46:953][245]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_6
+[2024.12.09-23.44.46:953][245]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_67EB73D504889EE171952EC8478B8ECE9.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_6.uasset'
+[2024.12.09-23.44.46:962][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.725 ms (total: 5.27 sec)
+[2024.12.09-23.44.46:991][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.09-23.44.47:005][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.09-23.44.47:013][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.12.09-23.44.47:044][245]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.09-23.44.47:044][245]LogContentValidation: Display: Starting to validate 7 assets
+[2024.12.09-23.44.47:044][245]LogContentValidation: Enabled validators:
+[2024.12.09-23.44.47:044][245]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.44.47:044][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.44.47:044][245]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.44.47:044][245]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_0.explosion_sheet_1_Sprite_0
+[2024.12.09-23.44.47:044][245]AssetCheck: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_0 Validating asset
+[2024.12.09-23.44.47:044][245]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_1.explosion_sheet_1_Sprite_1
+[2024.12.09-23.44.47:044][245]AssetCheck: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_1 Validating asset
+[2024.12.09-23.44.47:044][245]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_2.explosion_sheet_1_Sprite_2
+[2024.12.09-23.44.47:044][245]AssetCheck: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_2 Validating asset
+[2024.12.09-23.44.47:044][245]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_3.explosion_sheet_1_Sprite_3
+[2024.12.09-23.44.47:044][245]AssetCheck: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_3 Validating asset
+[2024.12.09-23.44.47:044][245]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_4.explosion_sheet_1_Sprite_4
+[2024.12.09-23.44.47:044][245]AssetCheck: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_4 Validating asset
+[2024.12.09-23.44.47:044][245]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_5.explosion_sheet_1_Sprite_5
+[2024.12.09-23.44.47:044][245]AssetCheck: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_5 Validating asset
+[2024.12.09-23.44.47:044][245]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_6.explosion_sheet_1_Sprite_6
+[2024.12.09-23.44.47:044][245]AssetCheck: /Game/Blueprints/Enemies/Turret/explosion_sheet_1_Sprite_6 Validating asset
+[2024.12.09-23.44.54:681][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.44.54:728][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_0] ([1] browsable assets)...
+[2024.12.09-23.44.54:728][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_0]
+[2024.12.09-23.44.54:729][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_0
+[2024.12.09-23.44.54:729][692]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_07CCE8079483A6333527F4CB4A5A9E4E7.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/explosion_sheet_1_Sprite_0.uasset'
+[2024.12.09-23.44.54:731][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_1] ([1] browsable assets)...
+[2024.12.09-23.44.54:731][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_1]
+[2024.12.09-23.44.54:732][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_1
+[2024.12.09-23.44.54:732][692]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_1C87619444B680067A85E9F9EE7ED583C.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/explosion_sheet_1_Sprite_1.uasset'
+[2024.12.09-23.44.54:733][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_2] ([1] browsable assets)...
+[2024.12.09-23.44.54:733][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_2]
+[2024.12.09-23.44.54:734][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_2
+[2024.12.09-23.44.54:734][692]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_2F41F490B4C1080945BCF5EB0C18B49D6.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/explosion_sheet_1_Sprite_2.uasset'
+[2024.12.09-23.44.54:734][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_3] ([1] browsable assets)...
+[2024.12.09-23.44.54:734][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_3]
+[2024.12.09-23.44.54:735][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_3
+[2024.12.09-23.44.54:735][692]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_3E1746FDF4646FA0C9120B08F8B60974D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/explosion_sheet_1_Sprite_3.uasset'
+[2024.12.09-23.44.54:736][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_4] ([1] browsable assets)...
+[2024.12.09-23.44.54:736][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_4]
+[2024.12.09-23.44.54:737][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_4
+[2024.12.09-23.44.54:737][692]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_431269C0C407962D75E3C1FB08AB27FE8.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/explosion_sheet_1_Sprite_4.uasset'
+[2024.12.09-23.44.54:737][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_5] ([1] browsable assets)...
+[2024.12.09-23.44.54:737][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_5]
+[2024.12.09-23.44.54:738][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_5
+[2024.12.09-23.44.54:738][692]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_514999D3F4E88119F4C3561A9622CD841.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/explosion_sheet_1_Sprite_5.uasset'
+[2024.12.09-23.44.54:738][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_6] ([1] browsable assets)...
+[2024.12.09-23.44.54:738][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/explosion_sheet_1_Sprite_6]
+[2024.12.09-23.44.54:739][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_6
+[2024.12.09-23.44.54:739][692]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_6B8DCE8EF4B863B95FB69E0BF8BD90147.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/explosion_sheet_1_Sprite_6.uasset'
+[2024.12.09-23.44.54:753][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.258 ms (total: 5.34 sec)
+[2024.12.09-23.44.54:785][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.09-23.44.54:798][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.09-23.44.54:812][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.12.09-23.44.54:831][692]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.09-23.44.54:831][692]LogContentValidation: Display: Starting to validate 7 assets
+[2024.12.09-23.44.54:831][692]LogContentValidation: Enabled validators:
+[2024.12.09-23.44.54:831][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.44.54:831][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.44.54:831][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.44.54:831][692]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_0.explosion_sheet_1_Sprite_0
+[2024.12.09-23.44.54:831][692]AssetCheck: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_0 Validating asset
+[2024.12.09-23.44.54:831][692]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_1.explosion_sheet_1_Sprite_1
+[2024.12.09-23.44.54:831][692]AssetCheck: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_1 Validating asset
+[2024.12.09-23.44.54:831][692]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_2.explosion_sheet_1_Sprite_2
+[2024.12.09-23.44.54:831][692]AssetCheck: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_2 Validating asset
+[2024.12.09-23.44.54:831][692]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_3.explosion_sheet_1_Sprite_3
+[2024.12.09-23.44.54:831][692]AssetCheck: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_3 Validating asset
+[2024.12.09-23.44.54:831][692]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_4.explosion_sheet_1_Sprite_4
+[2024.12.09-23.44.54:831][692]AssetCheck: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_4 Validating asset
+[2024.12.09-23.44.54:831][692]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_5.explosion_sheet_1_Sprite_5
+[2024.12.09-23.44.54:831][692]AssetCheck: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_5 Validating asset
+[2024.12.09-23.44.54:831][692]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_6.explosion_sheet_1_Sprite_6
+[2024.12.09-23.44.54:831][692]AssetCheck: /Game/Blueprints/Enemies/explosion_sheet_1_Sprite_6 Validating asset
+[2024.12.09-23.45.03:397][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.45.03:440][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0] ([1] browsable assets)...
+[2024.12.09-23.45.03:440][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0]
+[2024.12.09-23.45.03:441][187]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0
+[2024.12.09-23.45.03:441][187]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_0FB9AE5D042A8683CA96039A53A7FE7CE.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0.uasset'
+[2024.12.09-23.45.03:443][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1] ([1] browsable assets)...
+[2024.12.09-23.45.03:443][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1]
+[2024.12.09-23.45.03:443][187]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1
+[2024.12.09-23.45.03:444][187]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_1A51DA55A48C0B551E8B26CA736FB18DE.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1.uasset'
+[2024.12.09-23.45.03:444][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2] ([1] browsable assets)...
+[2024.12.09-23.45.03:444][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2]
+[2024.12.09-23.45.03:445][187]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2
+[2024.12.09-23.45.03:445][187]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_289DBBD0D4DCF93698E8BC7A8A0EC0E10.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2.uasset'
+[2024.12.09-23.45.03:446][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3] ([1] browsable assets)...
+[2024.12.09-23.45.03:446][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3]
+[2024.12.09-23.45.03:447][187]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3
+[2024.12.09-23.45.03:447][187]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_3832EA775464AEFA2B832408F4228E609.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3.uasset'
+[2024.12.09-23.45.03:447][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4] ([1] browsable assets)...
+[2024.12.09-23.45.03:447][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4]
+[2024.12.09-23.45.03:448][187]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4
+[2024.12.09-23.45.03:448][187]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_443FE09694A8FB6130F9014835F56894B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4.uasset'
+[2024.12.09-23.45.03:450][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5] ([1] browsable assets)...
+[2024.12.09-23.45.03:450][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5]
+[2024.12.09-23.45.03:450][187]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5
+[2024.12.09-23.45.03:450][187]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_5368C15894A190AE180B5F6A76D2D4D0B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5.uasset'
+[2024.12.09-23.45.03:451][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6] ([1] browsable assets)...
+[2024.12.09-23.45.03:451][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6]
+[2024.12.09-23.45.03:452][187]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6
+[2024.12.09-23.45.03:452][187]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_6CCD751254F9F33FD5C73FDBCA0DBDA89.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6.uasset'
+[2024.12.09-23.45.03:460][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.354 ms (total: 5.41 sec)
+[2024.12.09-23.45.03:491][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.09-23.45.03:504][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.09-23.45.03:515][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.09-23.45.03:537][187]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.09-23.45.03:537][187]LogContentValidation: Display: Starting to validate 7 assets
+[2024.12.09-23.45.03:537][187]LogContentValidation: Enabled validators:
+[2024.12.09-23.45.03:537][187]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.45.03:537][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.45.03:537][187]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.45.03:537][187]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0.explosion_sheet_1_Sprite_0
+[2024.12.09-23.45.03:537][187]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_0 Validating asset
+[2024.12.09-23.45.03:537][187]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1.explosion_sheet_1_Sprite_1
+[2024.12.09-23.45.03:537][187]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_1 Validating asset
+[2024.12.09-23.45.03:537][187]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2.explosion_sheet_1_Sprite_2
+[2024.12.09-23.45.03:537][187]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_2 Validating asset
+[2024.12.09-23.45.03:537][187]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3.explosion_sheet_1_Sprite_3
+[2024.12.09-23.45.03:537][187]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_3 Validating asset
+[2024.12.09-23.45.03:537][187]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4.explosion_sheet_1_Sprite_4
+[2024.12.09-23.45.03:537][187]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_4 Validating asset
+[2024.12.09-23.45.03:537][187]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5.explosion_sheet_1_Sprite_5
+[2024.12.09-23.45.03:537][187]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_5 Validating asset
+[2024.12.09-23.45.03:537][187]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6.explosion_sheet_1_Sprite_6
+[2024.12.09-23.45.03:537][187]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/explosion_sheet_1_Sprite_6 Validating asset
+[2024.12.09-23.45.08:270][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.45.08:320][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_0] ([1] browsable assets)...
+[2024.12.09-23.45.08:320][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_0]
+[2024.12.09-23.45.08:321][462]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_0
+[2024.12.09-23.45.08:321][462]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_0D8BE2166410CAF1A43C63AAFACFAF8FA.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_0.uasset'
+[2024.12.09-23.45.08:324][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_1] ([1] browsable assets)...
+[2024.12.09-23.45.08:324][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_1]
+[2024.12.09-23.45.08:325][462]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_1
+[2024.12.09-23.45.08:325][462]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_110C94C0446E6E4B2F1300DAE4DF408DC.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_1.uasset'
+[2024.12.09-23.45.08:325][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_2] ([1] browsable assets)...
+[2024.12.09-23.45.08:325][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_2]
+[2024.12.09-23.45.08:326][462]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_2
+[2024.12.09-23.45.08:326][462]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_2CC52207E4234425A4351FEBF75AE9B0F.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_2.uasset'
+[2024.12.09-23.45.08:327][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_3] ([1] browsable assets)...
+[2024.12.09-23.45.08:327][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_3]
+[2024.12.09-23.45.08:327][462]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_3
+[2024.12.09-23.45.08:327][462]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_3C4B3E7584B89464BE6DC69BB87980BD9.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_3.uasset'
+[2024.12.09-23.45.08:328][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_4] ([1] browsable assets)...
+[2024.12.09-23.45.08:328][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_4]
+[2024.12.09-23.45.08:329][462]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_4
+[2024.12.09-23.45.08:329][462]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_42844C0724C2024586F8CB680C8082D11.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_4.uasset'
+[2024.12.09-23.45.08:330][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_5] ([1] browsable assets)...
+[2024.12.09-23.45.08:330][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_5]
+[2024.12.09-23.45.08:330][462]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_5
+[2024.12.09-23.45.08:330][462]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_533B855C04223E8A5006C60A544FC5354.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_5.uasset'
+[2024.12.09-23.45.08:331][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_6] ([1] browsable assets)...
+[2024.12.09-23.45.08:331][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_6]
+[2024.12.09-23.45.08:332][462]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_6
+[2024.12.09-23.45.08:332][462]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_689CB263D4A95E37F4BD933A0423D2CEB.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_6.uasset'
+[2024.12.09-23.45.08:344][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.854 ms (total: 5.48 sec)
+[2024.12.09-23.45.08:378][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.09-23.45.08:388][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.09-23.45.08:401][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.12.09-23.45.08:425][462]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.09-23.45.08:425][462]LogContentValidation: Display: Starting to validate 7 assets
+[2024.12.09-23.45.08:425][462]LogContentValidation: Enabled validators:
+[2024.12.09-23.45.08:425][462]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.45.08:425][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.45.08:425][462]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.45.08:425][462]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_0.explosion_sheet_1_Sprite_0
+[2024.12.09-23.45.08:425][462]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_0 Validating asset
+[2024.12.09-23.45.08:425][462]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_1.explosion_sheet_1_Sprite_1
+[2024.12.09-23.45.08:425][462]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_1 Validating asset
+[2024.12.09-23.45.08:425][462]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_2.explosion_sheet_1_Sprite_2
+[2024.12.09-23.45.08:425][462]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_2 Validating asset
+[2024.12.09-23.45.08:425][462]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_3.explosion_sheet_1_Sprite_3
+[2024.12.09-23.45.08:425][462]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_3 Validating asset
+[2024.12.09-23.45.08:425][462]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_4.explosion_sheet_1_Sprite_4
+[2024.12.09-23.45.08:425][462]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_4 Validating asset
+[2024.12.09-23.45.08:425][462]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_5.explosion_sheet_1_Sprite_5
+[2024.12.09-23.45.08:425][462]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_5 Validating asset
+[2024.12.09-23.45.08:425][462]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_6.explosion_sheet_1_Sprite_6
+[2024.12.09-23.45.08:425][462]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/explosion_sheet_1_Sprite_6 Validating asset
+[2024.12.09-23.45.12:159][681]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.09-23.45.12:183][681]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.09-23.45.12:191][682]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.09-23.45.14:169][801]LogContentBrowser: Attempting asset rename: NewFolder -> Turret
+[2024.12.09-23.45.14:170][801]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.09-23.45.20:781][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.45.20:843][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Turret_Shoot] ([1] browsable assets)...
+[2024.12.09-23.45.20:843][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Turret_Shoot]
+[2024.12.09-23.45.20:844][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Turret_Shoot
+[2024.12.09-23.45.20:844][186]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/PF_Turret_Shoot1207627E4AEF943D6416519F4033586C.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/PF_Turret_Shoot.uasset'
+[2024.12.09-23.45.20:845][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Turrer_Idle] ([1] browsable assets)...
+[2024.12.09-23.45.20:845][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Turrer_Idle]
+[2024.12.09-23.45.20:846][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Turrer_Idle
+[2024.12.09-23.45.20:846][186]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/PF_Turrer_Idle119CB41B4D358E4ABFF2DFB4308C93FB.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/PF_Turrer_Idle.uasset'
+[2024.12.09-23.45.20:846][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_0] ([1] browsable assets)...
+[2024.12.09-23.45.20:846][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_0]
+[2024.12.09-23.45.20:848][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_0
+[2024.12.09-23.45.20:848][186]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/turret_FACE_Sprite_069F12B0044E67DD1DD8AA6BF384D354D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_0.uasset'
+[2024.12.09-23.45.20:849][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_1] ([1] browsable assets)...
+[2024.12.09-23.45.20:850][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_1]
+[2024.12.09-23.45.20:850][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_1
+[2024.12.09-23.45.20:850][186]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/turret_FACE_Sprite_1C1E399CC4FCFD71662A0008DD067FE64.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_1.uasset'
+[2024.12.09-23.45.20:851][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_2] ([1] browsable assets)...
+[2024.12.09-23.45.20:851][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_2]
+[2024.12.09-23.45.20:852][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_2
+[2024.12.09-23.45.20:852][186]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/turret_FACE_Sprite_2868B08F649A4CE96E8986A80C02637BB.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_2.uasset'
+[2024.12.09-23.45.20:853][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_3] ([1] browsable assets)...
+[2024.12.09-23.45.20:853][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_3]
+[2024.12.09-23.45.20:853][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_3
+[2024.12.09-23.45.20:853][186]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/turret_FACE_Sprite_323909FD7480BDA9E1EEFD4A9622B4FA7.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_3.uasset'
+[2024.12.09-23.45.20:854][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_4] ([1] browsable assets)...
+[2024.12.09-23.45.20:854][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_4]
+[2024.12.09-23.45.20:855][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_4
+[2024.12.09-23.45.20:855][186]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/turret_FACE_Sprite_46DC9A0964561B8991F100C95CB4D121E.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_4.uasset'
+[2024.12.09-23.45.20:855][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_5] ([1] browsable assets)...
+[2024.12.09-23.45.20:855][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_5]
+[2024.12.09-23.45.20:856][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_5
+[2024.12.09-23.45.20:856][186]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/turret_FACE_Sprite_5DC54A8F44F777AE7591249856971EFF6.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_5.uasset'
+[2024.12.09-23.45.20:857][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_6] ([1] browsable assets)...
+[2024.12.09-23.45.20:857][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_6]
+[2024.12.09-23.45.20:857][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_6
+[2024.12.09-23.45.20:857][186]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/turret_FACE_Sprite_62EE4A06E492508FB19E2F19EDB3FA7E5.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_6.uasset'
+[2024.12.09-23.45.20:858][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_7] ([1] browsable assets)...
+[2024.12.09-23.45.20:858][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_7]
+[2024.12.09-23.45.20:859][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_7
+[2024.12.09-23.45.20:859][186]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/turret_FACE_Sprite_738DDDCF443C3C01E9586C39BB9FFC01B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_7.uasset'
+[2024.12.09-23.45.20:859][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_8] ([1] browsable assets)...
+[2024.12.09-23.45.20:859][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_8]
+[2024.12.09-23.45.20:860][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_8
+[2024.12.09-23.45.20:860][186]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/turret_FACE_Sprite_859FF923B48FE6879088872B6F5BDE5AF.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_8.uasset'
+[2024.12.09-23.45.20:861][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_9] ([1] browsable assets)...
+[2024.12.09-23.45.20:861][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_9]
+[2024.12.09-23.45.20:862][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_9
+[2024.12.09-23.45.20:862][186]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/turret_FACE_Sprite_9A2817A724F703CFF841BC8AE995919AE.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_9.uasset'
+[2024.12.09-23.45.20:877][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.871 ms (total: 5.58 sec)
+[2024.12.09-23.45.20:922][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.09-23.45.20:935][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.09-23.45.20:944][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.12.09-23.45.20:964][186]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.09-23.45.20:964][186]LogContentValidation: Display: Starting to validate 12 assets
+[2024.12.09-23.45.20:964][186]LogContentValidation: Enabled validators:
+[2024.12.09-23.45.20:964][186]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.45.20:964][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.45.20:964][186]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.45.20:964][186]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Turret_Shoot.PF_Turret_Shoot
+[2024.12.09-23.45.20:965][186]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Turret_Shoot Validating asset
+[2024.12.09-23.45.20:965][186]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Turrer_Idle.PF_Turrer_Idle
+[2024.12.09-23.45.20:965][186]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Turrer_Idle Validating asset
+[2024.12.09-23.45.20:965][186]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_0.turret_FACE_Sprite_0
+[2024.12.09-23.45.20:965][186]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_0 Validating asset
+[2024.12.09-23.45.20:965][186]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_1.turret_FACE_Sprite_1
+[2024.12.09-23.45.20:965][186]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_1 Validating asset
+[2024.12.09-23.45.20:965][186]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_2.turret_FACE_Sprite_2
+[2024.12.09-23.45.20:965][186]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_2 Validating asset
+[2024.12.09-23.45.20:965][186]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_3.turret_FACE_Sprite_3
+[2024.12.09-23.45.20:965][186]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_3 Validating asset
+[2024.12.09-23.45.20:965][186]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_4.turret_FACE_Sprite_4
+[2024.12.09-23.45.20:965][186]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_4 Validating asset
+[2024.12.09-23.45.20:965][186]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_5.turret_FACE_Sprite_5
+[2024.12.09-23.45.20:965][186]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_5 Validating asset
+[2024.12.09-23.45.20:965][186]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_6.turret_FACE_Sprite_6
+[2024.12.09-23.45.20:965][186]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_6 Validating asset
+[2024.12.09-23.45.20:965][186]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_7.turret_FACE_Sprite_7
+[2024.12.09-23.45.20:965][186]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_7 Validating asset
+[2024.12.09-23.45.20:965][186]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_8.turret_FACE_Sprite_8
+[2024.12.09-23.45.20:965][186]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_8 Validating asset
+[2024.12.09-23.45.20:965][186]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_9.turret_FACE_Sprite_9
+[2024.12.09-23.45.20:965][186]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Turret/turret_FACE_Sprite_9 Validating asset
+[2024.12.09-23.45.25:408][450]LogContentBrowser: Deferred new asset file creation: explosion_sheet_1
+[2024.12.09-23.45.25:431][450]LogContentBrowser: Creating deferred item: explosion_sheet_1
+[2024.12.09-23.45.25:438][451]LogContentBrowser: Renaming the item being created (Deferred Item: explosion_sheet_1).
+[2024.12.09-23.45.27:501][575]LogContentBrowser: Attempting asset rename: explosion_sheet_1 -> Explode
+[2024.12.09-23.45.27:502][575]LogContentBrowser: End creating deferred item explosion_sheet_1
+[2024.12.09-23.45.29:637][701]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explode.Explode
+[2024.12.09-23.45.37:352][157]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.45.37:352][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.45.37:366][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.09-23.45.58:886][444]LogContentBrowser: Attempting asset rename: Explode -> PF_Explode
+[2024.12.09-23.45.58:909][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.45.58:956][444]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode] ([1] browsable assets)...
+[2024.12.09-23.45.58:957][444]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode.PF_Explode]
+[2024.12.09-23.45.58:957][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode]
+[2024.12.09-23.45.58:959][444]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode
+[2024.12.09-23.45.58:959][444]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/PF_Explode3F981BCE4318D76644EE3486D854D0F0.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode.uasset'
+[2024.12.09-23.45.58:971][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.332 ms (total: 5.64 sec)
+[2024.12.09-23.45.58:982][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.09-23.45.58:995][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.09-23.45.59:009][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.12.09-23.45.59:045][444]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.45.59:045][444]LogContentValidation: Enabled validators:
+[2024.12.09-23.45.59:045][444]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.45.59:045][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.45.59:045][444]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.45.59:045][444]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode.PF_Explode
+[2024.12.09-23.45.59:045][444]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode Validating asset
+[2024.12.09-23.46.03:971][736]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.09-23.46.03:985][736]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.09-23.46.03:994][737]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.09-23.46.06:055][861]LogContentBrowser: Attempting asset rename: NewFolder -> Explosion
+[2024.12.09-23.46.06:055][861]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.09-23.46.12:944][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.46.12:985][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode] ([1] browsable assets)...
+[2024.12.09-23.46.12:985][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode]
+[2024.12.09-23.46.12:986][262]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode
+[2024.12.09-23.46.12:986][262]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/PF_Explode4FF3D08A4BBF34C07E4FCE81356CC608.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode.uasset'
+[2024.12.09-23.46.12:988][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_0] ([1] browsable assets)...
+[2024.12.09-23.46.12:988][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_0]
+[2024.12.09-23.46.12:988][262]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_0
+[2024.12.09-23.46.12:989][262]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_040C0B9E042F4A1C8123D898ADA7DCA88.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_0.uasset'
+[2024.12.09-23.46.12:991][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_1] ([1] browsable assets)...
+[2024.12.09-23.46.12:991][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_1]
+[2024.12.09-23.46.12:991][262]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_1
+[2024.12.09-23.46.12:991][262]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_1882E2B86490A40EFAA4CF7BF1A21F285.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_1.uasset'
+[2024.12.09-23.46.12:992][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_2] ([1] browsable assets)...
+[2024.12.09-23.46.12:992][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_2]
+[2024.12.09-23.46.12:993][262]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_2
+[2024.12.09-23.46.12:993][262]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_2BE86DF3A4D4ECB5D6998D78F8B406251.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_2.uasset'
+[2024.12.09-23.46.12:994][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_3] ([1] browsable assets)...
+[2024.12.09-23.46.12:994][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_3]
+[2024.12.09-23.46.12:994][262]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_3
+[2024.12.09-23.46.12:994][262]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_306762F3449273329326DD6910C412E5E.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_3.uasset'
+[2024.12.09-23.46.12:995][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_4] ([1] browsable assets)...
+[2024.12.09-23.46.12:995][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_4]
+[2024.12.09-23.46.12:996][262]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_4
+[2024.12.09-23.46.12:996][262]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_47EED596841271A76AD9E1EAC3A6DF961.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_4.uasset'
+[2024.12.09-23.46.12:997][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_5] ([1] browsable assets)...
+[2024.12.09-23.46.12:997][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_5]
+[2024.12.09-23.46.12:997][262]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_5
+[2024.12.09-23.46.12:997][262]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_5CD04B044413DAB7E5019E8AD1EA4DA84.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_5.uasset'
+[2024.12.09-23.46.12:998][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_6] ([1] browsable assets)...
+[2024.12.09-23.46.12:998][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_6]
+[2024.12.09-23.46.12:999][262]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_6
+[2024.12.09-23.46.12:999][262]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/explosion_sheet_1_Sprite_67545473C4114D5B9E9CD90B8E06EB5A0.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_6.uasset'
+[2024.12.09-23.46.13:009][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.870 ms (total: 5.70 sec)
+[2024.12.09-23.46.13:047][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.09-23.46.13:060][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.12.09-23.46.13:074][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.12.09-23.46.13:091][262]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.09-23.46.13:091][262]LogContentValidation: Display: Starting to validate 8 assets
+[2024.12.09-23.46.13:091][262]LogContentValidation: Enabled validators:
+[2024.12.09-23.46.13:091][262]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.46.13:091][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.46.13:091][262]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.46.13:091][262]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode.PF_Explode
+[2024.12.09-23.46.13:091][262]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/PF_Explode Validating asset
+[2024.12.09-23.46.13:091][262]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_0.explosion_sheet_1_Sprite_0
+[2024.12.09-23.46.13:091][262]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_0 Validating asset
+[2024.12.09-23.46.13:091][262]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_1.explosion_sheet_1_Sprite_1
+[2024.12.09-23.46.13:091][262]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_1 Validating asset
+[2024.12.09-23.46.13:091][262]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_2.explosion_sheet_1_Sprite_2
+[2024.12.09-23.46.13:092][262]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_2 Validating asset
+[2024.12.09-23.46.13:092][262]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_3.explosion_sheet_1_Sprite_3
+[2024.12.09-23.46.13:092][262]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_3 Validating asset
+[2024.12.09-23.46.13:092][262]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_4.explosion_sheet_1_Sprite_4
+[2024.12.09-23.46.13:092][262]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_4 Validating asset
+[2024.12.09-23.46.13:092][262]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_5.explosion_sheet_1_Sprite_5
+[2024.12.09-23.46.13:092][262]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_5 Validating asset
+[2024.12.09-23.46.13:092][262]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_6.explosion_sheet_1_Sprite_6
+[2024.12.09-23.46.13:092][262]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/Sprites/Explosion/explosion_sheet_1_Sprite_6 Validating asset
+[2024.12.09-23.46.13:738][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.46.13:795][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.09-23.46.13:813][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.09-23.46.13:821][301]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2024.12.09-23.46.13:822][301]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMap3C79CB914F3AEB30FAC6AC8355943A23.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap'
+[2024.12.09-23.46.13:825][301]LogFileHelpers: Saving map 'TestMap' took 0.030
+[2024.12.09-23.46.13:838][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.628 ms (total: 5.81 sec)
+[2024.12.09-23.46.13:883][301]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.46.13:883][301]LogContentValidation: Enabled validators:
+[2024.12.09-23.46.13:883][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.46.13:883][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.46.13:883][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.46.13:883][301]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
+[2024.12.09-23.46.13:883][301]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.09-23.46.36:285][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.46.36:321][617]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/test_turret_2d] ([2] browsable assets)...
+[2024.12.09-23.46.36:321][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/test_turret_2d]
+[2024.12.09-23.46.36:321][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/test_turret_2d" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/test_turret_2d.uasset" SILENT=true
+[2024.12.09-23.46.36:328][617]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/test_turret_2d
+[2024.12.09-23.46.36:329][617]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/test_turret_2dECD9ACA84EF925EAA9866DB8F875E635.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/test_turret_2d.uasset'
+[2024.12.09-23.46.36:339][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.069 ms (total: 5.86 sec)
+[2024.12.09-23.46.36:376][617]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.46.36:376][617]LogContentValidation: Enabled validators:
+[2024.12.09-23.46.36:376][617]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.46.36:376][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.46.36:376][617]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.46.36:376][617]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/test_turret_2d.test_turret_2d
+[2024.12.09-23.46.36:376][617]AssetCheck: /Game/Blueprints/Enemies/test_turret_2d Validating asset
+[2024.12.09-23.46.37:794][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.09-23.46.49:174][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.09-23.47.16:886][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.47.16:929][962]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/test_turret_2d] ([2] browsable assets)...
+[2024.12.09-23.47.16:929][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/test_turret_2d]
+[2024.12.09-23.47.16:929][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/test_turret_2d" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/test_turret_2d.uasset" SILENT=true
+[2024.12.09-23.47.16:936][962]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/test_turret_2d
+[2024.12.09-23.47.16:937][962]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/test_turret_2d2EC9C9F44B690BEED98A7B91F4C211AF.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/test_turret_2d.uasset'
+[2024.12.09-23.47.16:950][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.762 ms (total: 5.92 sec)
+[2024.12.09-23.47.16:997][962]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.47.16:997][962]LogContentValidation: Enabled validators:
+[2024.12.09-23.47.16:997][962]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.47.16:997][962]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.47.16:997][962]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.47.16:997][962]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/test_turret_2d.test_turret_2d
+[2024.12.09-23.47.16:997][962]AssetCheck: /Game/Blueprints/Enemies/test_turret_2d Validating asset
+[2024.12.09-23.47.17:218][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.09-23.49.07:212][153]LogBlueprint: Error: [AssetLog] C:\Users\arush\Documents\GitHub\finalproject415\FinalProject\Content\Blueprints\Enemies\TurretAnimations\ABP_Turret.uasset: [Compiler] Select Animation by Bool  has nothing bound to its 'True' animation pin
+[2024.12.09-23.49.07:212][153]LogBlueprint: Error: [AssetLog] C:\Users\arush\Documents\GitHub\finalproject415\FinalProject\Content\Blueprints\Enemies\TurretAnimations\ABP_Turret.uasset: [Compiler] Missing allocated node for PaperZDAnimGraphNode_SelectByBool_1 while searching for node links - likely due to the node having outstanding errors.
+[2024.12.09-23.49.07:225][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.09-23.49.16:977][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.49.17:011][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/ABP_Turret] ([2] browsable assets)...
+[2024.12.09-23.49.17:011][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/ABP_Turret]
+[2024.12.09-23.49.17:016][733]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/ABP_Turret
+[2024.12.09-23.49.17:017][733]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/ABP_Turret7B6858624B4FC9B4EB4DD5A1C400351E.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/ABP_Turret.uasset'
+[2024.12.09-23.49.17:027][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.565 ms (total: 5.97 sec)
+[2024.12.09-23.49.17:050][733]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.49.17:050][733]LogContentValidation: Enabled validators:
+[2024.12.09-23.49.17:050][733]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.49.17:050][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.49.17:050][733]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.49.17:050][733]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/ABP_Turret.ABP_Turret
+[2024.12.09-23.49.17:050][733]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/ABP_Turret Validating asset
+[2024.12.09-23.49.21:210][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.49.21:253][975]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot] ([1] browsable assets)...
+[2024.12.09-23.49.21:253][975]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot]
+[2024.12.09-23.49.21:254][975]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot
+[2024.12.09-23.49.21:254][975]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Shoot154FBD8C4E43917541DC1BA7C91D3CCD.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot.uasset'
+[2024.12.09-23.49.21:262][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.545 ms (total: 6.03 sec)
+[2024.12.09-23.49.21:291][975]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.49.21:291][975]LogContentValidation: Enabled validators:
+[2024.12.09-23.49.21:291][975]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.49.21:291][975]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.49.21:291][975]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.49.21:291][975]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot.Shoot
+[2024.12.09-23.49.21:291][975]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Shoot Validating asset
+[2024.12.09-23.49.21:810][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.49.21:851][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle] ([1] browsable assets)...
+[2024.12.09-23.49.21:851][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle]
+[2024.12.09-23.49.21:852][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle
+[2024.12.09-23.49.21:852][  6]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/IdleEB0189F742F2D92C3B0F7191F622456D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle.uasset'
+[2024.12.09-23.49.21:863][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.418 ms (total: 6.08 sec)
+[2024.12.09-23.49.21:893][  6]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.49.21:893][  6]LogContentValidation: Enabled validators:
+[2024.12.09-23.49.21:893][  6]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.49.21:893][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.49.21:893][  6]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.49.21:893][  6]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle.Idle
+[2024.12.09-23.49.21:893][  6]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Idle Validating asset
+[2024.12.09-23.49.40:729][423]LogSlate: Window 'Pick Parent Animation Source' being destroyed
+[2024.12.09-23.49.40:750][423]LogContentBrowser: Deferred new asset file creation: NewPaperZDAnimSequence
+[2024.12.09-23.49.40:756][423]LogContentBrowser: Creating deferred item: NewPaperZDAnimSequence
+[2024.12.09-23.49.40:758][423]LogAutomationController: Ignoring very large delta of 11.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.09-23.49.40:765][424]LogContentBrowser: Renaming the item being created (Deferred Item: NewPaperZDAnimSequence).
+[2024.12.09-23.49.43:771][604]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Explode
+[2024.12.09-23.49.43:772][604]LogContentBrowser: End creating deferred item NewPaperZDAnimSequence
+[2024.12.09-23.49.45:315][696]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimSequence_Flipbook /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode.Explode
+[2024.12.09-23.49.45:396][696]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/PaperZD.PaperZDAnimSequence_Flipbook
+[2024.12.09-23.49.47:982][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.49.48:013][849]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode] ([1] browsable assets)...
+[2024.12.09-23.49.48:013][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode]
+[2024.12.09-23.49.48:014][849]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode
+[2024.12.09-23.49.48:014][849]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/ExplodeC4C2EA0842AE68E8DB1F9FA85D55D84D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode.uasset'
+[2024.12.09-23.49.48:024][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.429 ms (total: 6.12 sec)
+[2024.12.09-23.49.48:052][849]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.49.48:052][849]LogContentValidation: Enabled validators:
+[2024.12.09-23.49.48:052][849]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.49.48:052][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.49.48:052][849]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.49.48:052][849]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode.Explode
+[2024.12.09-23.49.48:053][849]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode Validating asset
+[2024.12.09-23.49.56:287][340]LogDerivedDataCache: C:/Users/arush/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.09-23.49.57:023][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.49.57:063][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AS_Turret] ([1] browsable assets)...
+[2024.12.09-23.49.57:063][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AS_Turret]
+[2024.12.09-23.49.57:065][384]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/AS_Turret
+[2024.12.09-23.49.57:065][384]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/AS_Turret2495E0154A723C30B3D3C892CC1179E8.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/AS_Turret.uasset'
+[2024.12.09-23.49.57:077][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.635 ms (total: 6.17 sec)
+[2024.12.09-23.49.57:111][384]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.49.57:111][384]LogContentValidation: Enabled validators:
+[2024.12.09-23.49.57:111][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.49.57:111][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.49.57:111][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.49.57:111][384]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AS_Turret.AS_Turret
+[2024.12.09-23.49.57:111][384]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AS_Turret Validating asset
+[2024.12.09-23.49.58:018][438]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.49.58:018][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.49.58:037][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.09-23.50.07:240][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.50.07:275][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/ABP_Turret] ([2] browsable assets)...
+[2024.12.09-23.50.07:275][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/ABP_Turret]
+[2024.12.09-23.50.07:280][981]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/ABP_Turret
+[2024.12.09-23.50.07:281][981]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/ABP_Turret772FDD384794F2841C7BF7849C6BB346.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/ABP_Turret.uasset'
+[2024.12.09-23.50.07:289][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.190 ms (total: 6.22 sec)
+[2024.12.09-23.50.07:322][981]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.50.07:322][981]LogContentValidation: Enabled validators:
+[2024.12.09-23.50.07:322][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.50.07:322][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.50.07:322][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.50.07:322][981]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/ABP_Turret.ABP_Turret
+[2024.12.09-23.50.07:322][981]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/ABP_Turret Validating asset
+[2024.12.09-23.50.07:829][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.09-23.50.08:942][ 75]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-23.50.08:952][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-23.50.08:953][ 75]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.50.08:954][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001809s)
+[2024.12.09-23.50.08:954][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001836s)
+[2024.12.09-23.50.08:963][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.09-23.50.08:965][ 75]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-23.50.08:965][ 75]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2024.12.09-23.50.08:981][ 75]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.12.09-23.50.08:981][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-23.50.08:981][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-23.50.08:981][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-23.50.08:981][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-23.50.08:981][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-23.50.08:981][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-23.50.08:981][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-23.50.08:981][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-23.50.08:981][ 75]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-23.50.08:981][ 75]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-23.50.08:981][ 75]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-23.50.08:982][ 75]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-23.50.09:022][ 75]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.09-23.50.09:022][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-23.50.09:022][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-23.50.09:022][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-23.50.09:023][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.12.09-23.50.09:023][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.12.09-23.50.09:024][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.12.09-23.50.09:024][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.12.09-23.50.09:024][ 75]LogInit: FAudioDevice initialized with ID 33.
+[2024.12.09-23.50.09:024][ 75]LogAudio: Display: Audio Device (ID: 33) registered with world 'TestMap'.
+[2024.12.09-23.50.09:024][ 75]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.12.09-23.50.09:026][ 75]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.09-23.50.09:027][ 75]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.09-17.50.09
+[2024.12.09-23.50.09:027][ 75]LogWorld: Bringing up level for play took: 0.000943
+[2024.12.09-23.50.09:028][ 75]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2024.12.09-23.50.09:046][ 75]PIE: Server logged in
+[2024.12.09-23.50.09:046][ 75]PIE: Play in editor total start time 0.1 seconds.
+[2024.12.09-23.50.16:216][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.50.16:216][495]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.50.16:216][495]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.50.16:217][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.50.16:217][495]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-23.50.16:217][495]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-23.50.16:251][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-23.50.16:254][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.50.16:263][495]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-23.50.16:263][495]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.12.09-23.50.16:263][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.12.09-23.50.16:264][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.12.09-23.50.16:268][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.50.16:270][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.09-23.50.16:323][496]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2024.12.09-23.50.17:248][550]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-23.50.17:256][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-23.50.17:256][550]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.50.17:258][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001697s)
+[2024.12.09-23.50.17:258][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001725s)
+[2024.12.09-23.50.17:265][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.09-23.50.17:268][550]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-23.50.17:268][550]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2024.12.09-23.50.17:286][550]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.12.09-23.50.17:286][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-23.50.17:286][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-23.50.17:286][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-23.50.17:286][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-23.50.17:286][550]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-23.50.17:286][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-23.50.17:286][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-23.50.17:286][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-23.50.17:286][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-23.50.17:286][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-23.50.17:286][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-23.50.17:287][550]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-23.50.17:320][550]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.09-23.50.17:320][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-23.50.17:320][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-23.50.17:320][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-23.50.17:320][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.12.09-23.50.17:320][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.12.09-23.50.17:321][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.12.09-23.50.17:321][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.12.09-23.50.17:321][550]LogInit: FAudioDevice initialized with ID 34.
+[2024.12.09-23.50.17:321][550]LogAudio: Display: Audio Device (ID: 34) registered with world 'TestMap'.
+[2024.12.09-23.50.17:321][550]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.12.09-23.50.17:324][550]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.09-23.50.17:324][550]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.09-17.50.17
+[2024.12.09-23.50.17:325][550]LogWorld: Bringing up level for play took: 0.000879
+[2024.12.09-23.50.17:326][550]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2024.12.09-23.50.17:344][550]PIE: Server logged in
+[2024.12.09-23.50.17:344][550]PIE: Play in editor total start time 0.091 seconds.
+[2024.12.09-23.50.21:235][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.50.21:235][775]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.50.21:235][775]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.50.21:236][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.50.21:236][775]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-23.50.21:236][775]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-23.50.21:241][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-23.50.21:244][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.50.21:251][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.50.21:251][775]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.12.09-23.50.21:251][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.12.09-23.50.21:253][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.12.09-23.50.21:258][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.09-23.50.21:307][776]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2024.12.09-23.50.22:352][837]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-23.50.22:363][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-23.50.22:363][837]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.50.22:365][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001714s)
+[2024.12.09-23.50.22:365][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001736s)
+[2024.12.09-23.50.22:371][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.09-23.50.22:373][837]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-23.50.22:374][837]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2024.12.09-23.50.22:392][837]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.12.09-23.50.22:392][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-23.50.22:392][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-23.50.22:392][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-23.50.22:392][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-23.50.22:392][837]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-23.50.22:392][837]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-23.50.22:392][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-23.50.22:392][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-23.50.22:392][837]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-23.50.22:392][837]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-23.50.22:392][837]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-23.50.22:393][837]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-23.50.22:426][837]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.09-23.50.22:426][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-23.50.22:426][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-23.50.22:426][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-23.50.22:427][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.12.09-23.50.22:427][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.12.09-23.50.22:428][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.12.09-23.50.22:428][837]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.12.09-23.50.22:428][837]LogInit: FAudioDevice initialized with ID 35.
+[2024.12.09-23.50.22:428][837]LogAudio: Display: Audio Device (ID: 35) registered with world 'TestMap'.
+[2024.12.09-23.50.22:428][837]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.12.09-23.50.22:430][837]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.09-23.50.22:430][837]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.09-17.50.22
+[2024.12.09-23.50.22:431][837]LogWorld: Bringing up level for play took: 0.000900
+[2024.12.09-23.50.22:432][837]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2024.12.09-23.50.22:450][837]PIE: Server logged in
+[2024.12.09-23.50.22:450][837]PIE: Play in editor total start time 0.094 seconds.
+[2024.12.09-23.50.28:746][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.50.28:746][207]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.50.28:746][207]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.50.28:747][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.50.28:747][207]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-23.50.28:747][207]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-23.50.28:752][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-23.50.28:754][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.50.28:761][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.50.28:761][207]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.12.09-23.50.28:761][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.12.09-23.50.28:763][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.12.09-23.50.28:768][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.09-23.50.28:816][208]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2024.12.09-23.51.16:059][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.09-23.51.16:392][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.51.16:428][ 14]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/test_turret_2d] ([2] browsable assets)...
+[2024.12.09-23.51.16:428][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/test_turret_2d]
+[2024.12.09-23.51.16:428][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/test_turret_2d" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/test_turret_2d.uasset" SILENT=true
+[2024.12.09-23.51.17:071][ 14]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/test_turret_2d
+[2024.12.09-23.51.17:071][ 14]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/test_turret_2d14821BBE47452D11F7258A89EE786758.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/test_turret_2d.uasset'
+[2024.12.09-23.51.17:077][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 685.274 ms (total: 6.91 sec)
+[2024.12.09-23.51.17:111][ 14]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.51.17:111][ 14]LogContentValidation: Enabled validators:
+[2024.12.09-23.51.17:111][ 14]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.51.17:111][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.51.17:111][ 14]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.51.17:111][ 14]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/test_turret_2d.test_turret_2d
+[2024.12.09-23.51.17:111][ 14]AssetCheck: /Game/Blueprints/Enemies/test_turret_2d Validating asset
+[2024.12.09-23.51.18:900][121]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-23.51.18:914][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-23.51.18:914][121]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.51.18:916][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001907s)
+[2024.12.09-23.51.18:916][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001932s)
+[2024.12.09-23.51.18:924][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.09-23.51.18:925][121]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-23.51.18:926][121]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2024.12.09-23.51.18:943][121]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.12.09-23.51.18:943][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-23.51.18:943][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-23.51.18:943][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-23.51.18:943][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-23.51.18:943][121]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-23.51.18:943][121]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-23.51.18:943][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-23.51.18:943][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-23.51.18:943][121]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-23.51.18:943][121]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-23.51.18:943][121]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-23.51.18:944][121]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-23.51.18:977][121]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.09-23.51.18:977][121]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-23.51.18:977][121]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-23.51.18:977][121]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-23.51.18:977][121]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.12.09-23.51.18:977][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.12.09-23.51.18:978][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.12.09-23.51.18:978][121]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.12.09-23.51.18:978][121]LogInit: FAudioDevice initialized with ID 36.
+[2024.12.09-23.51.18:978][121]LogAudio: Display: Audio Device (ID: 36) registered with world 'TestMap'.
+[2024.12.09-23.51.18:978][121]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.12.09-23.51.18:980][121]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.09-23.51.18:981][121]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.09-17.51.18
+[2024.12.09-23.51.18:981][121]LogWorld: Bringing up level for play took: 0.000889
+[2024.12.09-23.51.18:983][121]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2024.12.09-23.51.19:000][121]PIE: Server logged in
+[2024.12.09-23.51.19:001][121]PIE: Play in editor total start time 0.093 seconds.
+[2024.12.09-23.51.28:964][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.51.28:965][711]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.51.28:965][711]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.51.28:966][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.51.28:966][711]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-23.51.28:966][711]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-23.51.29:006][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-23.51.29:008][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.51.29:016][711]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-23.51.29:016][711]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.12.09-23.51.29:016][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.12.09-23.51.29:017][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.12.09-23.51.29:020][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.51.29:023][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.09-23.51.29:074][712]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2024.12.09-23.51.37:238][197]LogEditorTransaction: Undo Change Number Pin Value
+[2024.12.09-23.51.38:945][286]LogEditorTransaction: Undo Create Pin Link
+[2024.12.09-23.51.42:006][462]LogEditorTransaction: Redo Create Pin Link
+[2024.12.09-23.51.45:159][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.51.45:196][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/test_turret_2d] ([2] browsable assets)...
+[2024.12.09-23.51.45:196][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/test_turret_2d]
+[2024.12.09-23.51.45:196][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/test_turret_2d" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/test_turret_2d.uasset" SILENT=true
+[2024.12.09-23.51.45:204][635]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/test_turret_2d
+[2024.12.09-23.51.45:204][635]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/test_turret_2dC3114C44460F585CFF53A38CCD701556.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/test_turret_2d.uasset'
+[2024.12.09-23.51.45:215][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.727 ms (total: 6.97 sec)
+[2024.12.09-23.51.45:255][635]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.51.45:255][635]LogContentValidation: Enabled validators:
+[2024.12.09-23.51.45:255][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.51.45:255][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.51.45:255][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.51.45:255][635]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/test_turret_2d.test_turret_2d
+[2024.12.09-23.51.45:255][635]AssetCheck: /Game/Blueprints/Enemies/test_turret_2d Validating asset
+[2024.12.09-23.51.45:548][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.09-23.51.47:189][742]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-23.51.47:201][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-23.51.47:201][742]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.51.47:203][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001901s)
+[2024.12.09-23.51.47:203][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001928s)
+[2024.12.09-23.51.47:210][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.09-23.51.47:212][742]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-23.51.47:213][742]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2024.12.09-23.51.47:229][742]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.12.09-23.51.47:229][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-23.51.47:229][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-23.51.47:229][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-23.51.47:229][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-23.51.47:229][742]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-23.51.47:229][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-23.51.47:229][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-23.51.47:229][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-23.51.47:229][742]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-23.51.47:229][742]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-23.51.47:229][742]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-23.51.47:230][742]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-23.51.47:263][742]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.09-23.51.47:264][742]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-23.51.47:264][742]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-23.51.47:264][742]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-23.51.47:264][742]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.12.09-23.51.47:264][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.12.09-23.51.47:265][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.12.09-23.51.47:265][742]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.12.09-23.51.47:265][742]LogInit: FAudioDevice initialized with ID 37.
+[2024.12.09-23.51.47:265][742]LogAudio: Display: Audio Device (ID: 37) registered with world 'TestMap'.
+[2024.12.09-23.51.47:265][742]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.12.09-23.51.47:267][742]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.09-23.51.47:268][742]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.09-17.51.47
+[2024.12.09-23.51.47:268][742]LogWorld: Bringing up level for play took: 0.000902
+[2024.12.09-23.51.47:270][742]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2024.12.09-23.51.47:287][742]PIE: Server logged in
+[2024.12.09-23.51.47:288][742]PIE: Play in editor total start time 0.093 seconds.
+[2024.12.09-23.51.52:363][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.51.52:363][ 38]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.51.52:363][ 38]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.51.52:363][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.51.52:363][ 38]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-23.51.52:363][ 38]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-23.51.52:386][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-23.51.52:389][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.51.52:397][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-23.51.52:398][ 38]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.12.09-23.51.52:398][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.12.09-23.51.52:398][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.12.09-23.51.52:401][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.51.52:403][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.09-23.51.52:457][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2024.12.09-23.51.53:052][ 74]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-23.51.53:063][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-23.51.53:063][ 74]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.51.53:065][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001690s)
+[2024.12.09-23.51.53:065][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001719s)
+[2024.12.09-23.51.53:072][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.09-23.51.53:074][ 74]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-23.51.53:075][ 74]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2024.12.09-23.51.53:092][ 74]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.12.09-23.51.53:092][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-23.51.53:092][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-23.51.53:092][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-23.51.53:092][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-23.51.53:092][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-23.51.53:092][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-23.51.53:092][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-23.51.53:092][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-23.51.53:092][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-23.51.53:092][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-23.51.53:092][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-23.51.53:093][ 74]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-23.51.53:126][ 74]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.09-23.51.53:126][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-23.51.53:126][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-23.51.53:126][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-23.51.53:126][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.12.09-23.51.53:126][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.12.09-23.51.53:127][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.12.09-23.51.53:127][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.12.09-23.51.53:127][ 74]LogInit: FAudioDevice initialized with ID 38.
+[2024.12.09-23.51.53:127][ 74]LogAudio: Display: Audio Device (ID: 38) registered with world 'TestMap'.
+[2024.12.09-23.51.53:127][ 74]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.12.09-23.51.53:129][ 74]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.09-23.51.53:130][ 74]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.09-17.51.53
+[2024.12.09-23.51.53:130][ 74]LogWorld: Bringing up level for play took: 0.000899
+[2024.12.09-23.51.53:131][ 74]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2024.12.09-23.51.53:148][ 74]PIE: Server logged in
+[2024.12.09-23.51.53:149][ 74]PIE: Play in editor total start time 0.093 seconds.
+[2024.12.09-23.52.04:073][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.52.04:073][722]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.09-23.52.04:073][722]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.52.04:073][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.52.04:074][722]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-23.52.04:074][722]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-23.52.04:079][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-23.52.04:083][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.52.04:091][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-23.52.04:091][722]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.12.09-23.52.04:091][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.12.09-23.52.04:093][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.12.09-23.52.04:098][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.09-23.52.04:149][723]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2024.12.09-23.52.06:267][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.52.06:305][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.09-23.52.06:327][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.09-23.52.06:337][848]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2024.12.09-23.52.06:337][848]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMap47F716114CF81E47E38DD89A7919AA63.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap'
+[2024.12.09-23.52.06:341][848]LogFileHelpers: Saving map 'TestMap' took 0.036
+[2024.12.09-23.52.06:358][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.354 ms (total: 7.06 sec)
+[2024.12.09-23.52.06:381][848]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.52.06:381][848]LogContentValidation: Enabled validators:
+[2024.12.09-23.52.06:381][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.52.06:381][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.52.06:381][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.52.06:381][848]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
+[2024.12.09-23.52.06:381][848]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.09-23.52.07:709][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-23.52.07:743][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode] ([1] browsable assets)...
+[2024.12.09-23.52.07:743][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode]
+[2024.12.09-23.52.07:744][926]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode
+[2024.12.09-23.52.07:744][926]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Explode34B4A5D14EC5091B259ACB81DFDD5E23.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode.uasset'
+[2024.12.09-23.52.07:752][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.406 ms (total: 7.10 sec)
+[2024.12.09-23.52.07:776][926]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-23.52.07:776][926]LogContentValidation: Enabled validators:
+[2024.12.09-23.52.07:776][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-23.52.07:776][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-23.52.07:776][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-23.52.07:776][926]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode.Explode
+[2024.12.09-23.52.07:776][926]AssetCheck: /Game/Blueprints/Enemies/TurretAnimations/AnimSequences/Explode Validating asset
