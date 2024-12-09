@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Characters/delet/textures/2_Normal.uasset",
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Characters/delet/textures/2_MetallicSmoothness.uasset",
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Characters/delet/textures/2_AlbedoTransparency.uasset",
@@ -373,6 +374,18 @@
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset"
+>>>>>>> Stashed changes
+=======
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/UI/Player/PlayerHUD.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/UI/WBP_PauseMenu.uasset"
 >>>>>>> Stashed changes
 			]
 		}
