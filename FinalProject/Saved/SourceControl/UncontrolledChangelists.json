@@ -8,6 +8,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Characters/delet/textures/2_Normal.uasset",
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Characters/delet/textures/2_MetallicSmoothness.uasset",
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Characters/delet/textures/2_AlbedoTransparency.uasset",
@@ -392,6 +393,16 @@
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/UI/sounds/death.uasset",
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap",
 				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/UI/sounds/my_roommate.uasset",
+=======
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/UI/sound/BeepBox-Song.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/UI/sound/my_roommate.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/UI/sound/death.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset",
@@ -598,6 +609,9 @@
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/asteroid-2_Sprite.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/asteroid-1_Sprite.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset",
 				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset",
@@ -605,6 +619,9 @@
 				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset",
 				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/UI/WBP_PauseMenu.uasset"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
