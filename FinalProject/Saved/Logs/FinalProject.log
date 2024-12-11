@@ -2143,3 +2143,489 @@ Make sure '/Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel_C' has been compi
 [2024.12.11-17.58.37:394][450]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
 [2024.12.11-17.58.37:408][450]PIE: Server logged in
 [2024.12.11-17.58.37:408][450]PIE: Play in editor total start time 0.091 seconds.
+[2024.12.11-17.59.08:446][ 74]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.11-17.59.08:446][ 74]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.12.11-17.59.08:448][ 74]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/TestMap"
+[2024.12.11-17.59.08:448][ 74]LogNet: Browse: /Game/Levels/TestMap
+[2024.12.11-17.59.08:448][ 74]LogLoad: LoadMap: /Game/Levels/TestMap
+[2024.12.11-17.59.08:448][ 74]LogWorld: BeginTearingDown for /Game/Levels/Menu/UEDPIE_0_MainMenu
+[2024.12.11-17.59.08:449][ 74]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-17.59.08:449][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-17.59.08:449][ 74]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-17.59.08:449][ 74]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-17.59.08:480][ 74]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.11-17.59.08:480][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.11-17.59.08:493][ 74]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestMap'.
+[2024.12.11-17.59.08:493][ 74]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-17.59.08:494][ 74]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2024.12.11-17.59.08:494][ 74]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.11-17.59.08:496][ 74]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.11-11.59.08
+[2024.12.11-17.59.08:497][ 74]LogWorld: Bringing up level for play took: 0.002866
+[2024.12.11-17.59.08:498][ 74]LogLoad: Took 0.049798 seconds to LoadMap(/Game/Levels/TestMap)
+[2024.12.11-17.59.08:498][ 74]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/TestMap
+[2024.12.11-17.59.13:464][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-17.59.13:464][370]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.11-17.59.13:464][370]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-17.59.13:464][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-17.59.13:464][370]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-17.59.13:464][370]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-17.59.13:475][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.11-17.59.13:478][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-17.59.13:492][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-17.59.13:492][370]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.11-17.59.13:493][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.11-17.59.13:494][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.11-17.59.13:498][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.11-17.59.13:559][372]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.12.11-17.59.37:968][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.12.11-17.59.37:969][484]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Menu/MainMenu' took 0.014
+[2024.12.11-17.59.37:971][484]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2024.12.11-17.59.37:975][484]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2024.12.11-17.59.37:975][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2024.12.11-17.59.37:975][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/UI/WBP_MainMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.12.11-17.59.37:980][484]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_MainMenu_Auto1
+[2024.12.11-17.59.37:980][484]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/WBP_MainMenu_Auto13E1713E34FC4AD727AE006B530088878.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Autosaves/Game/UI/WBP_MainMenu_Auto1.uasset'
+[2024.12.11-17.59.37:980][484]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.12.11-18.28.14:996][635]LogDerivedDataCache: C:/Users/arush/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.11-19.28.14:996][433]LogDerivedDataCache: C:/Users/arush/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.11-19.31.32:999][126]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.11-19.31.33:011][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.11-19.31.33:012][126]LogPlayLevel: Creating play world package: /Game/Levels/Menu/UEDPIE_0_MainMenu
+[2024.12.11-19.31.33:013][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000944s)
+[2024.12.11-19.31.33:013][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Menu/MainMenu.MainMenu to /Game/Levels/Menu/UEDPIE_0_MainMenu.MainMenu (0.000976s)
+[2024.12.11-19.31.33:021][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.12.11-19.31.33:022][126]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-19.31.33:023][126]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2024.12.11-19.31.33:037][126]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.12.11-19.31.33:037][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.11-19.31.33:037][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.11-19.31.33:037][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.11-19.31.33:037][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.11-19.31.33:037][126]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.11-19.31.33:037][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.11-19.31.33:037][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.11-19.31.33:037][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.11-19.31.33:037][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.11-19.31.33:037][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.11-19.31.33:037][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.11-19.31.33:039][126]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.11-19.31.33:073][126]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.11-19.31.33:073][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.11-19.31.33:073][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.11-19.31.33:073][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.11-19.31.33:073][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.12.11-19.31.33:073][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.12.11-19.31.33:074][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.12.11-19.31.33:074][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.12.11-19.31.33:074][126]LogInit: FAudioDevice initialized with ID 10.
+[2024.12.11-19.31.33:074][126]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMenu'.
+[2024.12.11-19.31.33:075][126]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.11-19.31.33:077][126]LogLoad: Game class is 'GM_Menu_C'
+[2024.12.11-19.31.33:077][126]LogWorld: Bringing World /Game/Levels/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2024.12.11-13.31.33
+[2024.12.11-19.31.33:077][126]LogWorld: Bringing up level for play took: 0.000286
+[2024.12.11-19.31.33:079][126]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.12.11-19.31.33:080][126]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.11-19.31.33:081][126]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.12.11-19.31.33:095][126]PIE: Server logged in
+[2024.12.11-19.31.33:095][126]PIE: Play in editor total start time 0.087 seconds.
+[2024.12.11-19.31.33:659][158]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.11-19.31.33:659][158]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.12.11-19.31.33:661][158]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/TestMap"
+[2024.12.11-19.31.33:661][158]LogNet: Browse: /Game/Levels/TestMap
+[2024.12.11-19.31.33:661][158]LogLoad: LoadMap: /Game/Levels/TestMap
+[2024.12.11-19.31.33:661][158]LogWorld: BeginTearingDown for /Game/Levels/Menu/UEDPIE_0_MainMenu
+[2024.12.11-19.31.33:662][158]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-19.31.33:662][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-19.31.33:662][158]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-19.31.33:662][158]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-19.31.33:669][158]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.11-19.31.33:670][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.11-19.31.33:681][158]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestMap'.
+[2024.12.11-19.31.33:681][158]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-19.31.33:682][158]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2024.12.11-19.31.33:682][158]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.11-19.31.33:684][158]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.11-13.31.33
+[2024.12.11-19.31.33:685][158]LogWorld: Bringing up level for play took: 0.002878
+[2024.12.11-19.31.33:686][158]LogLoad: Took 0.025479 seconds to LoadMap(/Game/Levels/TestMap)
+[2024.12.11-19.31.33:687][158]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/TestMap
+[2024.12.11-19.31.42:213][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-19.31.42:213][667]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.11-19.31.42:213][667]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-19.31.42:214][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-19.31.42:215][667]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-19.31.42:215][667]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-19.31.42:219][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.11-19.31.42:221][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-19.31.42:228][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-19.31.42:228][667]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.11-19.31.42:228][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.11-19.31.42:230][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.11-19.31.42:236][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.11-19.31.42:294][669]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.12.11-19.31.44:660][811]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.11-19.31.44:672][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.11-19.31.44:672][811]LogPlayLevel: Creating play world package: /Game/Levels/Menu/UEDPIE_0_MainMenu
+[2024.12.11-19.31.44:673][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000682s)
+[2024.12.11-19.31.44:673][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Menu/MainMenu.MainMenu to /Game/Levels/Menu/UEDPIE_0_MainMenu.MainMenu (0.000710s)
+[2024.12.11-19.31.44:680][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.11-19.31.44:681][811]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-19.31.44:681][811]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2024.12.11-19.31.44:696][811]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.12.11-19.31.44:696][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.11-19.31.44:696][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.11-19.31.44:696][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.11-19.31.44:696][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.11-19.31.44:696][811]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.11-19.31.44:696][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.11-19.31.44:696][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.11-19.31.44:696][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.11-19.31.44:696][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.11-19.31.44:696][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.11-19.31.44:696][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.11-19.31.44:697][811]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.11-19.31.44:731][811]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.11-19.31.44:731][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.11-19.31.44:731][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.11-19.31.44:731][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.11-19.31.44:731][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.12.11-19.31.44:731][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.12.11-19.31.44:733][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.12.11-19.31.44:733][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.12.11-19.31.44:733][811]LogInit: FAudioDevice initialized with ID 11.
+[2024.12.11-19.31.44:733][811]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainMenu'.
+[2024.12.11-19.31.44:733][811]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.12.11-19.31.44:735][811]LogLoad: Game class is 'GM_Menu_C'
+[2024.12.11-19.31.44:735][811]LogWorld: Bringing World /Game/Levels/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2024.12.11-13.31.44
+[2024.12.11-19.31.44:735][811]LogWorld: Bringing up level for play took: 0.000248
+[2024.12.11-19.31.44:736][811]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.12.11-19.31.44:737][811]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.11-19.31.44:737][811]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.12.11-19.31.44:752][811]PIE: Server logged in
+[2024.12.11-19.31.44:752][811]PIE: Play in editor total start time 0.086 seconds.
+[2024.12.11-19.31.45:284][841]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.11-19.31.45:284][841]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.12.11-19.31.45:286][841]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/TestMap"
+[2024.12.11-19.31.45:286][841]LogNet: Browse: /Game/Levels/TestMap
+[2024.12.11-19.31.45:286][841]LogLoad: LoadMap: /Game/Levels/TestMap
+[2024.12.11-19.31.45:286][841]LogWorld: BeginTearingDown for /Game/Levels/Menu/UEDPIE_0_MainMenu
+[2024.12.11-19.31.45:286][841]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-19.31.45:286][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-19.31.45:286][841]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-19.31.45:286][841]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-19.31.45:315][841]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.11-19.31.45:316][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.11-19.31.45:329][841]LogAudio: Display: Audio Device (ID: 11) registered with world 'TestMap'.
+[2024.12.11-19.31.45:329][841]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-19.31.45:329][841]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2024.12.11-19.31.45:329][841]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.11-19.31.45:332][841]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.11-13.31.45
+[2024.12.11-19.31.45:333][841]LogWorld: Bringing up level for play took: 0.003919
+[2024.12.11-19.31.45:334][841]LogLoad: Took 0.048092 seconds to LoadMap(/Game/Levels/TestMap)
+[2024.12.11-19.31.45:334][841]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/TestMap
+[2024.12.11-19.32.14:035][561]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.11-19.32.14:035][561]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.11-19.32.14:035][561]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.11-19.32.14:966][617]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.11-19.32.14:966][617]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.11-19.32.14:969][617]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Map2"
+[2024.12.11-19.32.14:969][617]LogNet: Browse: /Game/Levels/Map2
+[2024.12.11-19.32.14:969][617]LogLoad: LoadMap: /Game/Levels/Map2
+[2024.12.11-19.32.14:969][617]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.11-19.32.14:969][617]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-19.32.14:969][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-19.32.14:970][617]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-19.32.14:970][617]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-19.32.15:016][617]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.11-19.32.15:019][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.11-19.32.15:023][617]LogAudio: Display: Audio Device (ID: 11) registered with world 'Map2'.
+[2024.12.11-19.32.15:023][617]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-19.32.15:024][617]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2024.12.11-19.32.15:024][617]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.11-19.32.15:025][617]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2024.12.11-13.32.15
+[2024.12.11-19.32.15:025][617]LogWorld: Bringing up level for play took: 0.001825
+[2024.12.11-19.32.15:028][617]LogLoad: Took 0.058955 seconds to LoadMap(/Game/Levels/Map2)
+[2024.12.11-19.32.15:028][617]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Map2
+[2024.12.11-19.32.19:792][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-19.32.19:792][900]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Map2
+[2024.12.11-19.32.19:792][900]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-19.32.19:792][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-19.32.19:792][900]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-19.32.19:792][900]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-19.32.19:796][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.11-19.32.19:798][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-19.32.19:806][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-19.32.19:806][900]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.12.11-19.32.19:806][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.12.11-19.32.19:808][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.12.11-19.32.19:813][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.11-19.32.19:845][901]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.12.11-19.32.21:142][978]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.11-19.32.21:152][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.11-19.32.21:152][978]LogPlayLevel: Creating play world package: /Game/Levels/Menu/UEDPIE_0_MainMenu
+[2024.12.11-19.32.21:153][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000691s)
+[2024.12.11-19.32.21:153][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Menu/MainMenu.MainMenu to /Game/Levels/Menu/UEDPIE_0_MainMenu.MainMenu (0.000715s)
+[2024.12.11-19.32.21:160][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.11-19.32.21:161][978]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-19.32.21:162][978]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2024.12.11-19.32.21:176][978]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.12.11-19.32.21:176][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.11-19.32.21:176][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.11-19.32.21:176][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.11-19.32.21:176][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.11-19.32.21:176][978]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.11-19.32.21:176][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.11-19.32.21:176][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.11-19.32.21:176][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.11-19.32.21:176][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.11-19.32.21:176][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.11-19.32.21:176][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.11-19.32.21:179][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.11-19.32.21:213][978]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.11-19.32.21:214][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.11-19.32.21:214][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.11-19.32.21:214][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.11-19.32.21:214][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.12.11-19.32.21:214][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.12.11-19.32.21:215][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.12.11-19.32.21:215][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.12.11-19.32.21:215][978]LogInit: FAudioDevice initialized with ID 12.
+[2024.12.11-19.32.21:215][978]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainMenu'.
+[2024.12.11-19.32.21:215][978]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.11-19.32.21:218][978]LogLoad: Game class is 'GM_Menu_C'
+[2024.12.11-19.32.21:218][978]LogWorld: Bringing World /Game/Levels/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2024.12.11-13.32.21
+[2024.12.11-19.32.21:218][978]LogWorld: Bringing up level for play took: 0.000248
+[2024.12.11-19.32.21:220][978]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.12.11-19.32.21:221][978]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.11-19.32.21:221][978]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.12.11-19.32.21:239][978]PIE: Server logged in
+[2024.12.11-19.32.21:240][978]PIE: Play in editor total start time 0.093 seconds.
+[2024.12.11-19.32.22:199][ 32]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.11-19.32.22:199][ 32]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.12.11-19.32.22:200][ 32]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/TestMap"
+[2024.12.11-19.32.22:200][ 32]LogNet: Browse: /Game/Levels/TestMap
+[2024.12.11-19.32.22:200][ 32]LogLoad: LoadMap: /Game/Levels/TestMap
+[2024.12.11-19.32.22:200][ 32]LogWorld: BeginTearingDown for /Game/Levels/Menu/UEDPIE_0_MainMenu
+[2024.12.11-19.32.22:200][ 32]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-19.32.22:200][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-19.32.22:200][ 32]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-19.32.22:200][ 32]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-19.32.22:206][ 32]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.11-19.32.22:207][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.11-19.32.22:218][ 32]LogAudio: Display: Audio Device (ID: 12) registered with world 'TestMap'.
+[2024.12.11-19.32.22:218][ 32]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-19.32.22:219][ 32]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2024.12.11-19.32.22:219][ 32]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.11-19.32.22:222][ 32]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2024.12.11-13.32.22
+[2024.12.11-19.32.22:222][ 32]LogWorld: Bringing up level for play took: 0.002755
+[2024.12.11-19.32.22:224][ 32]LogLoad: Took 0.023723 seconds to LoadMap(/Game/Levels/TestMap)
+[2024.12.11-19.32.22:224][ 32]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/TestMap
+[2024.12.11-19.32.52:909][873]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.11-19.32.52:909][873]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.11-19.32.52:909][873]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.11-19.32.55:308][ 17]Cmd: quit
+[2024.12.11-19.32.55:309][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-19.32.55:313][ 17]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2024.12.11-19.32.55:348][ 17]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-19.32.55:348][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-19.32.55:348][ 17]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-19.32.55:348][ 17]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-19.32.55:351][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.11-19.32.55:353][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-19.32.55:361][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-19.32.55:361][ 17]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.11-19.32.55:361][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.11-19.32.55:363][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.11-19.32.55:369][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.11-19.32.55:425][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.12.11-19.33.29:980][298]LogSlate: Window 'Message' being destroyed
+[2024.12.11-19.33.30:009][298]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+Map2
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.12.11-19.33.30:020][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-19.33.30:065][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.11-19.33.30:068][298]LogSavePackage: Moving output files for package: /Game/Levels/MainLevels/Map2
+[2024.12.11-19.33.30:068][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Map212BF4F95443CF2709809DB814AA5E26D.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/MainLevels/Map2.umap'
+[2024.12.11-19.33.30:071][298]LogFileHelpers: Saving map 'Map2' took 0.015
+[2024.12.11-19.33.30:071][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Map2] ([1] browsable assets)...
+[2024.12.11-19.33.30:071][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Map2]
+[2024.12.11-19.33.30:071][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Map2" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/Map2.umap" SILENT=true
+[2024.12.11-19.33.30:072][298]LogSavePackage: Moving output files for package: /Game/Levels/Map2
+[2024.12.11-19.33.30:072][298]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Map2F2B5B1654D6AA72BC6C0D28F9F9E413C.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/Map2.umap'
+[2024.12.11-19.33.30:084][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.163 ms (total: 1.65 sec)
+[2024.12.11-19.33.30:104][298]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.11-19.33.30:104][298]LogContentValidation: Display: Starting to validate 2 assets
+[2024.12.11-19.33.30:104][298]LogContentValidation: Enabled validators:
+[2024.12.11-19.33.30:104][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-19.33.30:104][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-19.33.30:104][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-19.33.30:104][298]LogContentValidation: Display: Validating asset /Game/Levels/MainLevels/Map2.Map2
+[2024.12.11-19.33.30:104][298]AssetCheck: /Game/Levels/MainLevels/Map2 Validating asset
+[2024.12.11-19.33.30:104][298]LogContentValidation: Display: Validating asset /Game/Levels/Map2.Map2
+[2024.12.11-19.33.30:104][298]AssetCheck: /Game/Levels/Map2 Validating asset
+[2024.12.11-19.33.33:470][438]LogSlate: Window 'Message' being destroyed
+[2024.12.11-19.33.33:481][438]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+TestMap
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.12.11-19.33.33:490][438]LogMetaData: Removing '/Game/Levels/MainLevels/TestMap.TestMap_C' ref from Metadata '/Game/Levels/TestMap.PackageMetaData'
+[2024.12.11-19.33.33:490][438]LogMetaData: Removing '/Game/Levels/MainLevels/TestMap.TestMap:PersistentLevel.TestMap.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Levels/TestMap.PackageMetaData'
+[2024.12.11-19.33.33:490][438]LogMetaData: Removing '/Game/Levels/MainLevels/TestMap.TestMap:PersistentLevel.TestMap.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Levels/TestMap.PackageMetaData'
+[2024.12.11-19.33.33:490][438]LogMetaData: Removing '/Game/Levels/MainLevels/TestMap.SKEL_TestMap_C:ReceiveBeginPlay' ref from Metadata '/Game/Levels/TestMap.PackageMetaData'
+[2024.12.11-19.33.33:490][438]LogMetaData: Removing '/Game/Levels/MainLevels/TestMap.SKEL_TestMap_C:ReceiveTick' ref from Metadata '/Game/Levels/TestMap.PackageMetaData'
+[2024.12.11-19.33.33:490][438]LogMetaData: Removing '/Game/Levels/MainLevels/TestMap.SKEL_TestMap_C' ref from Metadata '/Game/Levels/TestMap.PackageMetaData'
+[2024.12.11-19.33.33:490][438]LogMetaData: Removing '/Game/Levels/MainLevels/TestMap.TestMap_C:ReceiveBeginPlay' ref from Metadata '/Game/Levels/TestMap.PackageMetaData'
+[2024.12.11-19.33.33:501][438]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Levels/MainLevels/TestMap does not exist, will not scan.
+[2024.12.11-19.33.33:502][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-19.33.33:548][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.11-19.33.33:553][438]LogWorldPartition: Can't find class descriptor '/Game/Levels/MainLevels/TestMap.TestMap_C' for saving '/Game/Levels/MainLevels/TestMap.TestMap_C'
+[2024.12.11-19.33.33:553][438]LogWorldPartition: Can't find class descriptor '/Game/Levels/MainLevels/TestMap.TestMap_C' for saving '/Game/Levels/MainLevels/TestMap.TestMap_C'
+[2024.12.11-19.33.33:556][438]LogSavePackage: Moving output files for package: /Game/Levels/MainLevels/TestMap
+[2024.12.11-19.33.33:556][438]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMapE48BA5944AAF72DB740647A44669053B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/MainLevels/TestMap.umap'
+[2024.12.11-19.33.33:560][438]LogFileHelpers: Saving map 'TestMap' took 0.021
+[2024.12.11-19.33.33:560][438]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/TestMap] ([5] browsable assets)...
+[2024.12.11-19.33.33:560][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/TestMap]
+[2024.12.11-19.33.33:560][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap" SILENT=true
+[2024.12.11-19.33.33:561][438]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2024.12.11-19.33.33:561][438]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/TestMap4768F5624B534896ED8B0FA9AE8975AB.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/TestMap.umap'
+[2024.12.11-19.33.33:562][438]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/BP_TestMap] ([2] browsable assets)...
+[2024.12.11-19.33.33:562][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/BP_TestMap]
+[2024.12.11-19.33.33:562][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BP_TestMap" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/BP_TestMap.uasset" SILENT=true
+[2024.12.11-19.33.33:564][438]LogSavePackage: Moving output files for package: /Game/Levels/BP_TestMap
+[2024.12.11-19.33.33:565][438]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_TestMapF89734214D74E10AF884C4BACB6DA7ED.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/BP_TestMap.uasset'
+[2024.12.11-19.33.33:565][438]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2024.12.11-19.33.33:569][438]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2024.12.11-19.33.33:569][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2024.12.11-19.33.33:569][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.12.11-19.33.33:574][438]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2024.12.11-19.33.33:574][438]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/WBP_MainMenu6AC2FEE547FF7D1B8517C08AF7B93311.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/WBP_MainMenu.uasset'
+[2024.12.11-19.33.33:588][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.796 ms (total: 1.74 sec)
+[2024.12.11-19.33.33:609][438]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.11-19.33.33:609][438]LogContentValidation: Display: Starting to validate 6 assets
+[2024.12.11-19.33.33:609][438]LogContentValidation: Enabled validators:
+[2024.12.11-19.33.33:609][438]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-19.33.33:609][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-19.33.33:609][438]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-19.33.33:609][438]LogContentValidation: Display: Validating asset /Game/Levels/MainLevels/TestMap.TestMap
+[2024.12.11-19.33.33:609][438]AssetCheck: /Game/Levels/MainLevels/TestMap Validating asset
+[2024.12.11-19.33.33:609][438]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap
+[2024.12.11-19.33.33:609][438]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.11-19.33.33:610][438]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.TestMap_C
+[2024.12.11-19.33.33:610][438]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.11-19.33.33:610][438]LogContentValidation: Display: Validating asset /Game/Levels/TestMap.Default__TestMap_C
+[2024.12.11-19.33.33:610][438]AssetCheck: /Game/Levels/TestMap Validating asset
+[2024.12.11-19.33.33:610][438]LogContentValidation: Display: Validating asset /Game/Levels/BP_TestMap.BP_TestMap
+[2024.12.11-19.33.33:610][438]AssetCheck: /Game/Levels/BP_TestMap Validating asset
+[2024.12.11-19.33.33:610][438]LogContentValidation: Display: Validating asset /Game/UI/WBP_MainMenu.WBP_MainMenu
+[2024.12.11-19.33.33:610][438]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2024.12.11-19.33.41:354][897]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.11-19.33.41:369][897]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.11-19.33.41:375][898]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.11-19.33.44:541][ 88]LogContentBrowser: Attempting asset rename: NewFolder -> Menus
+[2024.12.11-19.33.44:541][ 88]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.11-19.33.49:749][316]LogSlate: Window 'Message' being destroyed
+[2024.12.11-19.33.49:764][316]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+GI_LevelSelect
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.12.11-19.33.49:768][316]LogMetaData: Removing '/Game/UI/Menus/GI_LevelSelect.SKEL_GI_LevelSelect_C' ref from Metadata '/Game/UI/GI_LevelSelect.PackageMetaData'
+[2024.12.11-19.33.49:768][316]LogMetaData: Removing '/Game/UI/Menus/GI_LevelSelect.GI_LevelSelect_C' ref from Metadata '/Game/UI/GI_LevelSelect.PackageMetaData'
+[2024.12.11-19.33.49:768][316]LogMetaData: Removing '/Game/UI/Menus/GI_LevelSelect.GI_LevelSelect:NextLevelGo.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/GI_LevelSelect.PackageMetaData'
+[2024.12.11-19.33.49:777][316]LogMetaData: Removing '/Game/UI/Menus/WBP_LevelComplete.WBP_LevelComplete_C' ref from Metadata '/Game/UI/WBP_LevelComplete.PackageMetaData'
+[2024.12.11-19.33.49:777][316]LogMetaData: Removing '/Game/UI/Menus/WBP_LevelComplete.WBP_LevelComplete:GetScore.K2Node_FunctionResult_0' ref from Metadata '/Game/UI/WBP_LevelComplete.PackageMetaData'
+[2024.12.11-19.33.49:777][316]LogMetaData: Removing '/Game/UI/Menus/WBP_LevelComplete.WBP_LevelComplete:GetScore.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/WBP_LevelComplete.PackageMetaData'
+[2024.12.11-19.33.49:777][316]LogMetaData: Removing '/Game/UI/Menus/WBP_LevelComplete.SKEL_WBP_LevelComplete_C' ref from Metadata '/Game/UI/WBP_LevelComplete.PackageMetaData'
+[2024.12.11-19.33.49:777][316]LogMetaData: Removing '/Game/UI/Menus/WBP_LevelComplete.SKEL_WBP_LevelComplete_C:BndEvt__WBP_PauseMenu_QuitButton_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/WBP_LevelComplete.PackageMetaData'
+[2024.12.11-19.33.49:777][316]LogMetaData: Removing '/Game/UI/Menus/WBP_LevelComplete.SKEL_WBP_LevelComplete_C:BndEvt__WBP_PauseMenu_ResumeButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/WBP_LevelComplete.PackageMetaData'
+[2024.12.11-19.33.49:777][316]LogMetaData: Removing '/Game/UI/Menus/WBP_LevelComplete.SKEL_WBP_LevelComplete_C:BndEvt__WBP_PauseMenu_RestartButton_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/WBP_LevelComplete.PackageMetaData'
+[2024.12.11-19.33.49:783][316]LogMetaData: Removing '/Game/UI/Menus/WBP_MainMenu.WBP_MainMenu_C' ref from Metadata '/Game/UI/WBP_MainMenu.PackageMetaData'
+[2024.12.11-19.33.49:783][316]LogMetaData: Removing '/Game/UI/Menus/WBP_MainMenu.SKEL_WBP_MainMenu_C' ref from Metadata '/Game/UI/WBP_MainMenu.PackageMetaData'
+[2024.12.11-19.33.49:783][316]LogMetaData: Removing '/Game/UI/Menus/WBP_MainMenu.SKEL_WBP_MainMenu_C:BndEvt__WBP_PauseMenu_QuitButton_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/WBP_MainMenu.PackageMetaData'
+[2024.12.11-19.33.49:783][316]LogMetaData: Removing '/Game/UI/Menus/WBP_MainMenu.SKEL_WBP_MainMenu_C:BndEvt__WBP_PauseMenu_ResumeButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/WBP_MainMenu.PackageMetaData'
+[2024.12.11-19.33.49:791][316]LogMetaData: Removing '/Game/UI/Menus/WBP_PauseMenu.WBP_PauseMenu_C' ref from Metadata '/Game/UI/WBP_PauseMenu.PackageMetaData'
+[2024.12.11-19.33.49:791][316]LogMetaData: Removing '/Game/UI/Menus/WBP_PauseMenu.SKEL_WBP_PauseMenu_C' ref from Metadata '/Game/UI/WBP_PauseMenu.PackageMetaData'
+[2024.12.11-19.33.49:791][316]LogMetaData: Removing '/Game/UI/Menus/WBP_PauseMenu.SKEL_WBP_PauseMenu_C:BndEvt__WBP_PauseMenu_QuitButton_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/WBP_PauseMenu.PackageMetaData'
+[2024.12.11-19.33.49:791][316]LogMetaData: Removing '/Game/UI/Menus/WBP_PauseMenu.SKEL_WBP_PauseMenu_C:BndEvt__WBP_PauseMenu_ResumeButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/WBP_PauseMenu.PackageMetaData'
+[2024.12.11-19.33.49:791][316]LogMetaData: Removing '/Game/UI/Menus/WBP_PauseMenu.SKEL_WBP_PauseMenu_C:BndEvt__WBP_PauseMenu_RestartButton_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/WBP_PauseMenu.PackageMetaData'
+[2024.12.11-19.33.49:798][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-19.33.49:837][316]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggers/BP_NextLevel] ([2] browsable assets)...
+[2024.12.11-19.33.49:874][316]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel]
+[2024.12.11-19.33.49:874][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggers/BP_NextLevel]
+[2024.12.11-19.33.49:874][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Triggers/BP_NextLevel" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Triggers/BP_NextLevel.uasset" SILENT=true
+[2024.12.11-19.33.49:879][316]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggers/BP_NextLevel
+[2024.12.11-19.33.49:879][316]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_NextLevel4D9C89E142AC088957145B8052C22EC6.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Triggers/BP_NextLevel.uasset'
+[2024.12.11-19.33.49:880][316]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/BP_PlayerZD] ([2] browsable assets)...
+[2024.12.11-19.33.49:880][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/BP_PlayerZD]
+[2024.12.11-19.33.49:880][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/2D/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset" SILENT=true
+[2024.12.11-19.33.49:897][316]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/BP_PlayerZD
+[2024.12.11-19.33.49:897][316]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZDB0156E104FD2972849B7BEA1E8AC526E.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset'
+[2024.12.11-19.33.49:898][316]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Menus/GI_LevelSelect] ([2] browsable assets)...
+[2024.12.11-19.33.49:898][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Menus/GI_LevelSelect]
+[2024.12.11-19.33.49:898][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menus/GI_LevelSelect" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/Menus/GI_LevelSelect.uasset" SILENT=true
+[2024.12.11-19.33.49:900][316]LogSavePackage: Moving output files for package: /Game/UI/Menus/GI_LevelSelect
+[2024.12.11-19.33.49:900][316]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/GI_LevelSelectB27382F549952D0280C12FB6A6B07695.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/Menus/GI_LevelSelect.uasset'
+[2024.12.11-19.33.49:904][316]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/GI_LevelSelect] ([5] browsable assets)...
+[2024.12.11-19.33.49:904][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/GI_LevelSelect]
+[2024.12.11-19.33.49:904][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GI_LevelSelect" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/GI_LevelSelect.uasset" SILENT=true
+[2024.12.11-19.33.49:904][316]LogSavePackage: Moving output files for package: /Game/UI/GI_LevelSelect
+[2024.12.11-19.33.49:905][316]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/GI_LevelSelectABA40F8B4A2901C3F0D54BB726097554.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/GI_LevelSelect.uasset'
+[2024.12.11-19.33.49:908][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Menus/WBP_LevelComplete] ([2] browsable assets)...
+[2024.12.11-19.33.49:908][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Menus/WBP_LevelComplete]
+[2024.12.11-19.33.49:908][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menus/WBP_LevelComplete" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/Menus/WBP_LevelComplete.uasset" SILENT=true
+[2024.12.11-19.33.49:914][316]LogSavePackage: Moving output files for package: /Game/UI/Menus/WBP_LevelComplete
+[2024.12.11-19.33.49:914][316]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/WBP_LevelComplete5BD403954EE610138AE778A7BAD472DA.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/Menus/WBP_LevelComplete.uasset'
+[2024.12.11-19.33.49:918][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Menus/WBP_MainMenu] ([2] browsable assets)...
+[2024.12.11-19.33.49:918][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Menus/WBP_MainMenu]
+[2024.12.11-19.33.49:918][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menus/WBP_MainMenu" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/Menus/WBP_MainMenu.uasset" SILENT=true
+[2024.12.11-19.33.49:923][316]LogSavePackage: Moving output files for package: /Game/UI/Menus/WBP_MainMenu
+[2024.12.11-19.33.49:923][316]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/WBP_MainMenu75BA960E49D7C2FDCA214FB4C15816C4.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/Menus/WBP_MainMenu.uasset'
+[2024.12.11-19.33.49:927][316]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/WBP_MainMenu] ([5] browsable assets)...
+[2024.12.11-19.33.49:927][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2024.12.11-19.33.49:927][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.12.11-19.33.49:927][316]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2024.12.11-19.33.49:927][316]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/WBP_MainMenu632AD7CC4A5061FED2AAD1A70352DD54.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/WBP_MainMenu.uasset'
+[2024.12.11-19.33.49:929][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Menus/WBP_PauseMenu] ([2] browsable assets)...
+[2024.12.11-19.33.49:929][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Menus/WBP_PauseMenu]
+[2024.12.11-19.33.49:929][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menus/WBP_PauseMenu" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/Menus/WBP_PauseMenu.uasset" SILENT=true
+[2024.12.11-19.33.49:933][316]LogSavePackage: Moving output files for package: /Game/UI/Menus/WBP_PauseMenu
+[2024.12.11-19.33.49:933][316]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/WBP_PauseMenuF6DD13904DEDFCEBEC0F18952A8730B0.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/Menus/WBP_PauseMenu.uasset'
+[2024.12.11-19.33.49:947][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.531 ms (total: 1.89 sec)
+[2024.12.11-19.33.49:966][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.11-19.33.49:980][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.11-19.33.49:988][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.11-19.33.50:012][316]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.11-19.33.50:012][316]LogContentValidation: Display: Starting to validate 12 assets
+[2024.12.11-19.33.50:012][316]LogContentValidation: Enabled validators:
+[2024.12.11-19.33.50:012][316]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-19.33.50:012][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-19.33.50:012][316]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-19.33.50:012][316]LogContentValidation: Display: Validating asset /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel
+[2024.12.11-19.33.50:012][316]AssetCheck: /Game/Blueprints/Triggers/BP_NextLevel Validating asset
+[2024.12.11-19.33.50:012][316]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/BP_PlayerZD.BP_PlayerZD
+[2024.12.11-19.33.50:012][316]AssetCheck: /Game/Blueprints/Player/2D/BP_PlayerZD Validating asset
+[2024.12.11-19.33.50:012][316]LogContentValidation: Display: Validating asset /Game/UI/Menus/GI_LevelSelect.GI_LevelSelect
+[2024.12.11-19.33.50:012][316]AssetCheck: /Game/UI/Menus/GI_LevelSelect Validating asset
+[2024.12.11-19.33.50:012][316]LogContentValidation: Display: Validating asset /Game/UI/GI_LevelSelect.GI_LevelSelect
+[2024.12.11-19.33.50:012][316]AssetCheck: /Game/UI/GI_LevelSelect Validating asset
+[2024.12.11-19.33.50:012][316]LogContentValidation: Display: Validating asset /Game/UI/GI_LevelSelect.GI_LevelSelect_C
+[2024.12.11-19.33.50:012][316]AssetCheck: /Game/UI/GI_LevelSelect Validating asset
+[2024.12.11-19.33.50:012][316]LogContentValidation: Display: Validating asset /Game/UI/GI_LevelSelect.Default__GI_LevelSelect_C
+[2024.12.11-19.33.50:012][316]AssetCheck: /Game/UI/GI_LevelSelect Validating asset
+[2024.12.11-19.33.50:012][316]LogContentValidation: Display: Validating asset /Game/UI/Menus/WBP_LevelComplete.WBP_LevelComplete
+[2024.12.11-19.33.50:013][316]AssetCheck: /Game/UI/Menus/WBP_LevelComplete Validating asset
+[2024.12.11-19.33.50:013][316]LogContentValidation: Display: Validating asset /Game/UI/Menus/WBP_MainMenu.WBP_MainMenu
+[2024.12.11-19.33.50:013][316]AssetCheck: /Game/UI/Menus/WBP_MainMenu Validating asset
+[2024.12.11-19.33.50:013][316]LogContentValidation: Display: Validating asset /Game/UI/WBP_MainMenu.WBP_MainMenu
+[2024.12.11-19.33.50:013][316]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2024.12.11-19.33.50:013][316]LogContentValidation: Display: Validating asset /Game/UI/WBP_MainMenu.WBP_MainMenu_C
+[2024.12.11-19.33.50:013][316]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2024.12.11-19.33.50:013][316]LogContentValidation: Display: Validating asset /Game/UI/WBP_MainMenu.Default__WBP_MainMenu_C
+[2024.12.11-19.33.50:013][316]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2024.12.11-19.33.50:013][316]LogContentValidation: Display: Validating asset /Game/UI/Menus/WBP_PauseMenu.WBP_PauseMenu
+[2024.12.11-19.33.50:013][316]AssetCheck: /Game/UI/Menus/WBP_PauseMenu Validating asset
