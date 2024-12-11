@@ -2043,3 +2043,103 @@ Make sure '/Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel_C' has been compi
 [2024.12.11-17.45.20:742][334]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.11-17.45.20:742][334]LogContentValidation: Display: Validating asset /Game/UI/WBP_LevelComplete.WBP_LevelComplete
 [2024.12.11-17.45.20:742][334]AssetCheck: /Game/UI/WBP_LevelComplete Validating asset
+[2024.12.11-17.56.13:085][127]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.11-17.56.13:093][127]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.11-17.56.13:100][128]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.11-17.56.17:183][373]LogContentBrowser: Attempting asset rename: NewFolder -> AdditionalArt
+[2024.12.11-17.56.17:183][373]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.11-17.56.27:421][693]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/AdditionalArt/space_image.png)
+[2024.12.11-17.56.27:422][693]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.12.11-17.56.27:434][693]LogTexture: Display: Building textures: /Game/AdditionalArt/space_image.space_image (TFO_AutoDXT, 720x360 x1x1x1) (Required Memory Estimate: 45.018555 MB), EncodeSpeed: Fast
+[2024.12.11-17.56.27:448][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-17.56.27:523][694]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdditionalArt/space_image] ([1] browsable assets)...
+[2024.12.11-17.56.27:523][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdditionalArt/space_image]
+[2024.12.11-17.56.27:523][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AdditionalArt/space_image" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/AdditionalArt/space_image.uasset" SILENT=true
+[2024.12.11-17.56.27:527][694]LogSavePackage: Moving output files for package: /Game/AdditionalArt/space_image
+[2024.12.11-17.56.27:527][694]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/space_imageABE3C66F4D1AB17E5AFBF4B237722F31.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/AdditionalArt/space_image.uasset'
+[2024.12.11-17.56.27:587][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.277 ms (total: 1.46 sec)
+[2024.12.11-17.56.27:720][695]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.11-17.56.27:720][695]LogContentValidation: Enabled validators:
+[2024.12.11-17.56.27:720][695]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-17.56.27:720][695]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-17.56.27:720][695]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-17.56.27:720][695]LogContentValidation: Display: Validating asset /Game/AdditionalArt/space_image.space_image
+[2024.12.11-17.56.27:720][695]AssetCheck: /Game/AdditionalArt/space_image Validating asset
+[2024.12.11-17.56.30:600][861]AssetReimport: Importing new asset /Game/AdditionalArt/space_image.
+[2024.12.11-17.56.43:566][140]LogTexture: Display: Building textures: /Game/AdditionalArt/space_image.space_image (BGRA8, 720x360 x1x1x1) (Required Memory Estimate: 7.643066 MB), EncodeSpeed: Fast
+[2024.12.11-17.56.45:267][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-17.56.45:317][242]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdditionalArt/space_image] ([1] browsable assets)...
+[2024.12.11-17.56.45:319][242]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AdditionalArt/space_image.space_image]
+[2024.12.11-17.56.45:319][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdditionalArt/space_image]
+[2024.12.11-17.56.45:319][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AdditionalArt/space_image" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/AdditionalArt/space_image.uasset" SILENT=true
+[2024.12.11-17.56.45:321][242]LogSavePackage: Moving output files for package: /Game/AdditionalArt/space_image
+[2024.12.11-17.56.45:321][242]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/space_imageAFFDEA444A7E30FF4B2F6783BB43D4FF.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/AdditionalArt/space_image.uasset'
+[2024.12.11-17.56.45:332][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.463 ms (total: 1.53 sec)
+[2024.12.11-17.56.45:364][242]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.11-17.56.45:364][242]LogContentValidation: Enabled validators:
+[2024.12.11-17.56.45:364][242]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-17.56.45:364][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-17.56.45:364][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-17.56.45:364][242]LogContentValidation: Display: Validating asset /Game/AdditionalArt/space_image.space_image
+[2024.12.11-17.56.45:364][242]AssetCheck: /Game/AdditionalArt/space_image Validating asset
+[2024.12.11-17.56.57:407][602]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu
+[2024.12.11-17.57.15:448][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.11-17.57.31:294][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-17.57.31:339][575]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2024.12.11-17.57.31:342][575]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2024.12.11-17.57.31:342][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2024.12.11-17.57.31:342][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.12.11-17.57.31:348][575]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2024.12.11-17.57.31:348][575]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/WBP_MainMenuB0A3BEA34D175BD7F8F15992809A9C4B.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/WBP_MainMenu.uasset'
+[2024.12.11-17.57.31:358][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.564 ms (total: 1.59 sec)
+[2024.12.11-17.57.31:387][575]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.11-17.57.31:387][575]LogContentValidation: Enabled validators:
+[2024.12.11-17.57.31:387][575]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-17.57.31:387][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-17.57.31:387][575]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-17.57.31:387][575]LogContentValidation: Display: Validating asset /Game/UI/WBP_MainMenu.WBP_MainMenu
+[2024.12.11-17.57.31:387][575]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2024.12.11-17.57.31:884][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.11-17.57.46:227][452]LogEditorTransaction: Undo Edit Blur Strength
+[2024.12.11-17.57.53:176][843]LogEditorTransaction: Undo Remove Widget
+[2024.12.11-17.58.35:875][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.11-17.58.37:310][450]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.11-17.58.37:321][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.11-17.58.37:321][450]LogPlayLevel: Creating play world package: /Game/Levels/Menu/UEDPIE_0_MainMenu
+[2024.12.11-17.58.37:321][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000745s)
+[2024.12.11-17.58.37:321][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Menu/MainMenu.MainMenu to /Game/Levels/Menu/UEDPIE_0_MainMenu.MainMenu (0.000771s)
+[2024.12.11-17.58.37:334][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.11-17.58.37:336][450]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-17.58.37:336][450]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2024.12.11-17.58.37:352][450]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.12.11-17.58.37:352][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.11-17.58.37:352][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.11-17.58.37:352][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.11-17.58.37:352][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.11-17.58.37:352][450]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.11-17.58.37:352][450]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.11-17.58.37:352][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.11-17.58.37:352][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.11-17.58.37:352][450]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.11-17.58.37:352][450]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.11-17.58.37:352][450]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.11-17.58.37:353][450]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.11-17.58.37:387][450]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.11-17.58.37:387][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.11-17.58.37:388][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.11-17.58.37:388][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.11-17.58.37:388][450]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.12.11-17.58.37:388][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.12.11-17.58.37:389][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.12.11-17.58.37:389][450]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.12.11-17.58.37:389][450]LogInit: FAudioDevice initialized with ID 9.
+[2024.12.11-17.58.37:389][450]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMenu'.
+[2024.12.11-17.58.37:389][450]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.11-17.58.37:391][450]LogLoad: Game class is 'GM_Menu_C'
+[2024.12.11-17.58.37:391][450]LogWorld: Bringing World /Game/Levels/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2024.12.11-11.58.37
+[2024.12.11-17.58.37:391][450]LogWorld: Bringing up level for play took: 0.000268
+[2024.12.11-17.58.37:393][450]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.12.11-17.58.37:394][450]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.11-17.58.37:394][450]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.12.11-17.58.37:408][450]PIE: Server logged in
+[2024.12.11-17.58.37:408][450]PIE: Play in editor total start time 0.091 seconds.
