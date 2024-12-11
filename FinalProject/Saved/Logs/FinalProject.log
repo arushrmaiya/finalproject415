@@ -5608,3 +5608,399 @@ Script call stack:
 [2024.12.11-20.42.41:008][515]LogPlayLevel: Display: Destroying online subsystem :Context_67
 [2024.12.11-20.42.50:226][ 59]LogSlate: Window 'Message Log' being destroyed
 [2024.12.11-20.42.50:237][ 59]LogSlate: Window 'Message Log' being destroyed
+[2024.12.11-20.44.46:459][ 54]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.11-20.44.46:468][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.11-20.44.46:468][ 54]LogPlayLevel: Creating play world package: /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.44.46:470][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002628s)
+[2024.12.11-20.44.46:471][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevels/Map2.Map2 to /Game/Levels/MainLevels/UEDPIE_0_Map2.Map2 (0.002662s)
+[2024.12.11-20.44.46:479][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.12.11-20.44.46:482][ 54]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-20.44.46:483][ 54]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2024.12.11-20.44.46:500][ 54]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.12.11-20.44.46:500][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.11-20.44.46:500][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.11-20.44.46:500][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.11-20.44.46:500][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.11-20.44.46:500][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.11-20.44.46:500][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.11-20.44.46:500][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.11-20.44.46:500][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.11-20.44.46:500][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.11-20.44.46:500][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.11-20.44.46:500][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.11-20.44.46:501][ 54]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.11-20.44.46:538][ 54]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.11-20.44.46:538][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.11-20.44.46:538][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.11-20.44.46:538][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.11-20.44.46:538][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.12.11-20.44.46:538][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.12.11-20.44.46:540][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.12.11-20.44.46:540][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.12.11-20.44.46:540][ 54]LogInit: FAudioDevice initialized with ID 37.
+[2024.12.11-20.44.46:540][ 54]LogAudio: Display: Audio Device (ID: 37) registered with world 'Map2'.
+[2024.12.11-20.44.46:540][ 54]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.12.11-20.44.46:543][ 54]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.11-20.44.46:544][ 54]LogWorld: Bringing World /Game/Levels/MainLevels/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2024.12.11-14.44.46
+[2024.12.11-20.44.46:544][ 54]LogWorld: Bringing up level for play took: 0.001254
+[2024.12.11-20.44.46:545][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2024.12.11-20.44.46:562][ 54]PIE: Server logged in
+[2024.12.11-20.44.46:563][ 54]PIE: Play in editor total start time 0.098 seconds.
+[2024.12.11-20.46.00:992][508]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.11-20.46.00:992][508]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.12.11-20.46.03:041][631]Cmd: Restartlevel
+[2024.12.11-20.46.03:041][631]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.11-20.46.03:041][631]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.12.11-20.46.03:041][631]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/MainLevels/Map2?restart"
+[2024.12.11-20.46.03:041][631]LogNet: Browse: /Game/Levels/MainLevels/Map2?restart
+[2024.12.11-20.46.03:041][631]LogLoad: LoadMap: /Game/Levels/MainLevels/Map2
+[2024.12.11-20.46.03:041][631]LogWorld: BeginTearingDown for /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.46.03:042][631]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-20.46.03:043][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-20.46.03:043][631]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-20.46.03:043][631]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-20.46.03:091][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.11-20.46.03:093][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.11-20.46.03:096][631]LogPlayLevel: Creating play world package: /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.46.03:098][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002234s)
+[2024.12.11-20.46.03:099][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevels/Map2.Map2 to /Game/Levels/MainLevels/UEDPIE_0_Map2.Map2 (0.002275s)
+[2024.12.11-20.46.03:099][631]LogAudio: Display: Audio Device (ID: 37) registered with world 'Map2'.
+[2024.12.11-20.46.03:099][631]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-20.46.03:099][631]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2024.12.11-20.46.03:099][631]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.11-20.46.03:100][631]LogWorld: Bringing World /Game/Levels/MainLevels/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2024.12.11-14.46.03
+[2024.12.11-20.46.03:100][631]LogWorld: Bringing up level for play took: 0.001010
+[2024.12.11-20.46.03:103][631]LogLoad: Took 0.061660 seconds to LoadMap(/Game/Levels/MainLevels/UEDPIE_0_Map2)
+[2024.12.11-20.46.03:103][631]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.46.03:856][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-20.46.03:856][673]LogWorld: BeginTearingDown for /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.46.03:857][673]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-20.46.03:858][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-20.46.03:858][673]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-20.46.03:858][673]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-20.46.03:865][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.11-20.46.03:868][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-20.46.03:877][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-20.46.03:877][673]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.12.11-20.46.03:877][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.12.11-20.46.03:878][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.12.11-20.46.03:884][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.11-20.46.03:999][674]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.12.11-20.46.18:622][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HealthPack.BP_HealthPack_C
+[2024.12.11-20.46.18:622][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HealthPack.BP_HealthPack_C
+[2024.12.11-20.46.18:623][535]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_HealthPack_C_3
+[2024.12.11-20.46.18:625][535]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_HealthPack_C_3
+[2024.12.11-20.46.19:450][583]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HealthPack.BP_HealthPack_C
+[2024.12.11-20.46.19:450][583]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HealthPack.BP_HealthPack_C
+[2024.12.11-20.46.19:451][583]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_HealthPack_C_4
+[2024.12.11-20.46.19:452][583]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_HealthPack_C_4
+[2024.12.11-20.46.25:190][924]Cmd: TRANSACTION UNDO
+[2024.12.11-20.46.25:190][924]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.11-20.46.25:213][924]Cmd: EDIT CUT
+[2024.12.11-20.46.25:217][924]LogEditorActor: Deleted Actor: BP_HealthPack_C
+[2024.12.11-20.46.25:226][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.11-20.46.25:229][924]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.12.11-20.46.32:863][366]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Blueprints/Enemies/ships_biomech_Sprite_0.ships_biomech_Sprite_0
+[2024.12.11-20.46.32:863][366]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Blueprints/Enemies/ships_biomech_Sprite_0.ships_biomech_Sprite_0
+[2024.12.11-20.46.32:864][366]LogActorFactory: Actor Factory spawned PaperSprite /Game/Blueprints/Enemies/ships_biomech_Sprite_0.ships_biomech_Sprite_0 as actor: PaperSpriteActor /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.PaperSpriteActor_0
+[2024.12.11-20.46.32:864][366]LogActorFactory: Actor Factory spawned PaperSprite /Game/Blueprints/Enemies/ships_biomech_Sprite_0.ships_biomech_Sprite_0 as actor: PaperSpriteActor /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.PaperSpriteActor_0
+[2024.12.11-20.46.33:486][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.11-20.46.33:489][403]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2024.12.11-20.46.33:493][403]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Blueprints/Enemies/ships_biomech_Sprite_0.ships_biomech_Sprite_0
+[2024.12.11-20.46.33:493][403]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Blueprints/Enemies/ships_biomech_Sprite_0.ships_biomech_Sprite_0
+[2024.12.11-20.46.33:494][403]LogActorFactory: Actor Factory spawned PaperSprite /Game/Blueprints/Enemies/ships_biomech_Sprite_0.ships_biomech_Sprite_0 as actor: PaperSpriteActor /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.PaperSpriteActor_1
+[2024.12.11-20.46.33:494][403]LogActorFactory: Actor Factory spawned PaperSprite /Game/Blueprints/Enemies/ships_biomech_Sprite_0.ships_biomech_Sprite_0 as actor: PaperSpriteActor /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.PaperSpriteActor_1
+[2024.12.11-20.46.36:732][594]Cmd: TRANSACTION UNDO
+[2024.12.11-20.46.36:732][594]LogEditorTransaction: Undo Move Elements
+[2024.12.11-20.46.37:157][612]Cmd: TRANSACTION UNDO
+[2024.12.11-20.46.37:157][612]LogEditorTransaction: Undo Place Objects
+[2024.12.11-20.46.44:993][ 73]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.46.44:993][ 73]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.46.44:994][ 73]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_12
+[2024.12.11-20.46.44:996][ 73]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_12
+[2024.12.11-20.46.46:800][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.11-20.46.46:802][176]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2024.12.11-20.46.46:807][176]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.46.46:807][176]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.46.46:810][176]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_13
+[2024.12.11-20.46.46:811][176]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_13
+[2024.12.11-20.47.13:586][762]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.13:586][762]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.13:588][762]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_6
+[2024.12.11-20.47.13:590][762]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_6
+[2024.12.11-20.47.14:744][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.11-20.47.14:750][826]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2024.12.11-20.47.14:754][826]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.14:754][826]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.14:757][826]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_7
+[2024.12.11-20.47.14:758][826]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_7
+[2024.12.11-20.47.18:686][ 56]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.18:686][ 56]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.18:688][ 56]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_8
+[2024.12.11-20.47.18:689][ 56]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_8
+[2024.12.11-20.47.19:461][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.11-20.47.19:466][ 99]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2024.12.11-20.47.19:471][ 99]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.19:471][ 99]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.19:473][ 99]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_9
+[2024.12.11-20.47.19:475][ 99]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_9
+[2024.12.11-20.47.37:571][175]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.47.37:571][175]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.47.37:573][175]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_14
+[2024.12.11-20.47.37:574][175]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_14
+[2024.12.11-20.47.41:219][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.11-20.47.41:225][386]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2024.12.11-20.47.41:229][386]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.47.41:229][386]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.47.41:231][386]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_15
+[2024.12.11-20.47.41:233][386]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_15
+[2024.12.11-20.47.43:559][520]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.47.43:559][520]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.47.43:561][520]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_16
+[2024.12.11-20.47.43:562][520]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_16
+[2024.12.11-20.47.44:396][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.11-20.47.44:399][565]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2024.12.11-20.47.44:403][565]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.47.44:403][565]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.47.44:406][565]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_17
+[2024.12.11-20.47.44:407][565]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_17
+[2024.12.11-20.47.46:272][673]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.47.46:272][673]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.47.46:274][673]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_18
+[2024.12.11-20.47.46:275][673]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_18
+[2024.12.11-20.47.47:179][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.11-20.47.47:183][725]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2024.12.11-20.47.47:188][725]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.47.47:188][725]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret_C
+[2024.12.11-20.47.47:190][725]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_19
+[2024.12.11-20.47.47:191][725]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_rotaturret.bp_rotaturret as actor: bp_rotaturret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_rotaturret_C_19
+[2024.12.11-20.47.55:655][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.55:655][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.55:657][227]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_10
+[2024.12.11-20.47.55:659][227]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_10
+[2024.12.11-20.47.57:293][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.11-20.47.57:296][321]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2024.12.11-20.47.57:301][321]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.57:302][321]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.57:304][321]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_11
+[2024.12.11-20.47.57:305][321]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_11
+[2024.12.11-20.47.58:239][371]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.58:239][371]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.47.58:241][371]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_12
+[2024.12.11-20.47.58:242][371]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_12
+[2024.12.11-20.48.01:864][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.11-20.48.01:868][580]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2024.12.11-20.48.01:873][580]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.48.01:873][580]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemies/bp_turret.bp_turret_C
+[2024.12.11-20.48.01:875][580]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_13
+[2024.12.11-20.48.01:877][580]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemies/bp_turret.bp_turret as actor: bp_turret_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.bp_turret_C_13
+[2024.12.11-20.48.10:798][103]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel_C
+[2024.12.11-20.48.10:798][103]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel_C
+[2024.12.11-20.48.10:799][103]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_NextLevel_C_0
+[2024.12.11-20.48.10:800][103]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_NextLevel_C_0
+[2024.12.11-20.48.11:544][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.11-20.48.11:549][147]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2024.12.11-20.48.11:553][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel_C
+[2024.12.11-20.48.11:553][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel_C
+[2024.12.11-20.48.11:555][147]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_NextLevel_C_1
+[2024.12.11-20.48.11:555][147]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggers/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_NextLevel_C_1
+[2024.12.11-20.48.24:419][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-20.48.24:486][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.11-20.48.24:501][912]LogSavePackage: Moving output files for package: /Game/Levels/MainLevels/Map2
+[2024.12.11-20.48.24:501][912]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Map2EF98D0124DD462D2246C778166ABA047.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/MainLevels/Map2.umap'
+[2024.12.11-20.48.24:508][912]LogFileHelpers: Saving map 'Map2' took 0.049
+[2024.12.11-20.48.24:527][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.521 ms (total: 5.50 sec)
+[2024.12.11-20.48.24:563][912]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.11-20.48.24:563][912]LogContentValidation: Enabled validators:
+[2024.12.11-20.48.24:563][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-20.48.24:563][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-20.48.24:563][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-20.48.24:563][912]LogContentValidation: Display: Validating asset /Game/Levels/MainLevels/Map2.Map2
+[2024.12.11-20.48.24:563][912]AssetCheck: /Game/Levels/MainLevels/Map2 Validating asset
+[2024.12.11-20.48.43:244][ 33]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.11-20.48.43:256][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.11-20.48.43:256][ 33]LogPlayLevel: Creating play world package: /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.48.43:259][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002918s)
+[2024.12.11-20.48.43:259][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevels/Map2.Map2 to /Game/Levels/MainLevels/UEDPIE_0_Map2.Map2 (0.002947s)
+[2024.12.11-20.48.43:267][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.11-20.48.43:268][ 33]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-20.48.43:269][ 33]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2024.12.11-20.48.43:285][ 33]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.12.11-20.48.43:285][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.11-20.48.43:285][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.11-20.48.43:285][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.11-20.48.43:285][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.11-20.48.43:285][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.11-20.48.43:285][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.11-20.48.43:285][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.11-20.48.43:285][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.11-20.48.43:285][ 33]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.11-20.48.43:285][ 33]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.11-20.48.43:285][ 33]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.11-20.48.43:286][ 33]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.11-20.48.43:321][ 33]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.11-20.48.43:321][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.11-20.48.43:321][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.11-20.48.43:321][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.11-20.48.43:321][ 33]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.12.11-20.48.43:321][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.12.11-20.48.43:322][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.12.11-20.48.43:322][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.12.11-20.48.43:322][ 33]LogInit: FAudioDevice initialized with ID 38.
+[2024.12.11-20.48.43:322][ 33]LogAudio: Display: Audio Device (ID: 38) registered with world 'Map2'.
+[2024.12.11-20.48.43:322][ 33]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.12.11-20.48.43:325][ 33]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.11-20.48.43:326][ 33]LogWorld: Bringing World /Game/Levels/MainLevels/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2024.12.11-14.48.43
+[2024.12.11-20.48.43:326][ 33]LogWorld: Bringing up level for play took: 0.001566
+[2024.12.11-20.48.43:327][ 33]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2024.12.11-20.48.43:346][ 33]PIE: Server logged in
+[2024.12.11-20.48.43:346][ 33]PIE: Play in editor total start time 0.096 seconds.
+[2024.12.11-20.48.46:087][193]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2024.12.11-20.49.04:288][273]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2024.12.11-20.49.27:143][642]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.11-20.49.27:143][642]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.12.11-20.49.28:524][725]Cmd: Restartlevel
+[2024.12.11-20.49.28:524][725]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.11-20.49.28:524][725]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.12.11-20.49.28:524][725]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/MainLevels/Map2?restart"
+[2024.12.11-20.49.28:524][725]LogNet: Browse: /Game/Levels/MainLevels/Map2?restart
+[2024.12.11-20.49.28:524][725]LogLoad: LoadMap: /Game/Levels/MainLevels/Map2
+[2024.12.11-20.49.28:524][725]LogWorld: BeginTearingDown for /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.49.28:526][725]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-20.49.28:528][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-20.49.28:532][725]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-20.49.28:532][725]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-20.49.28:586][725]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.11-20.49.28:608][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.11-20.49.28:617][725]LogPlayLevel: Creating play world package: /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.49.28:620][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002850s)
+[2024.12.11-20.49.28:620][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevels/Map2.Map2 to /Game/Levels/MainLevels/UEDPIE_0_Map2.Map2 (0.002889s)
+[2024.12.11-20.49.28:620][725]LogAudio: Display: Audio Device (ID: 38) registered with world 'Map2'.
+[2024.12.11-20.49.28:620][725]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-20.49.28:621][725]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2024.12.11-20.49.28:621][725]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.11-20.49.28:622][725]LogWorld: Bringing World /Game/Levels/MainLevels/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2024.12.11-14.49.28
+[2024.12.11-20.49.28:622][725]LogWorld: Bringing up level for play took: 0.001379
+[2024.12.11-20.49.28:626][725]LogLoad: Took 0.101016 seconds to LoadMap(/Game/Levels/MainLevels/UEDPIE_0_Map2)
+[2024.12.11-20.49.28:626][725]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.50.07:404][ 35]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.11-20.50.07:404][ 35]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.12.11-20.50.17:849][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-20.50.17:849][655]LogWorld: BeginTearingDown for /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.50.17:849][655]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-20.50.17:852][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-20.50.17:856][655]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-20.50.17:856][655]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-20.50.17:861][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.11-20.50.17:870][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-20.50.17:885][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-20.50.17:891][655]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.12.11-20.50.17:891][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.12.11-20.50.17:892][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.12.11-20.50.17:910][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.11-20.50.17:981][656]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2024.12.11-20.50.21:808][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-20.50.21:838][884]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/2D/BP_PlayerZD] ([2] browsable assets)...
+[2024.12.11-20.50.21:838][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/2D/BP_PlayerZD]
+[2024.12.11-20.50.21:838][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/2D/BP_PlayerZD" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset" SILENT=true
+[2024.12.11-20.50.21:857][884]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/2D/BP_PlayerZD
+[2024.12.11-20.50.21:857][884]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_PlayerZD4A059E264A0A011F5CC9FDA59BBC7E04.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset'
+[2024.12.11-20.50.21:871][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.390 ms (total: 5.56 sec)
+[2024.12.11-20.50.21:907][884]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.11-20.50.21:907][884]LogContentValidation: Enabled validators:
+[2024.12.11-20.50.21:907][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-20.50.21:907][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-20.50.21:907][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-20.50.21:907][884]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/2D/BP_PlayerZD.BP_PlayerZD
+[2024.12.11-20.50.21:907][884]AssetCheck: /Game/Blueprints/Player/2D/BP_PlayerZD Validating asset
+[2024.12.11-20.50.22:377][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.11-20.50.48:031][640]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.11-20.50.48:039][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.11-20.50.48:039][640]LogPlayLevel: Creating play world package: /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.50.48:041][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002896s)
+[2024.12.11-20.50.48:041][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevels/Map2.Map2 to /Game/Levels/MainLevels/UEDPIE_0_Map2.Map2 (0.002923s)
+[2024.12.11-20.50.48:049][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.11-20.50.48:056][640]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-20.50.48:057][640]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2024.12.11-20.50.48:074][640]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.12.11-20.50.48:074][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.11-20.50.48:074][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.11-20.50.48:074][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.11-20.50.48:074][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.11-20.50.48:074][640]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.11-20.50.48:074][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.11-20.50.48:074][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.11-20.50.48:074][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.11-20.50.48:074][640]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.11-20.50.48:074][640]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.11-20.50.48:074][640]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.11-20.50.48:075][640]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.11-20.50.48:110][640]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.11-20.50.48:110][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.11-20.50.48:110][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.11-20.50.48:110][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.11-20.50.48:110][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.12.11-20.50.48:110][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.12.11-20.50.48:111][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.12.11-20.50.48:111][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.12.11-20.50.48:111][640]LogInit: FAudioDevice initialized with ID 39.
+[2024.12.11-20.50.48:111][640]LogAudio: Display: Audio Device (ID: 39) registered with world 'Map2'.
+[2024.12.11-20.50.48:111][640]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.12.11-20.50.48:113][640]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.11-20.50.48:115][640]LogWorld: Bringing World /Game/Levels/MainLevels/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2024.12.11-14.50.48
+[2024.12.11-20.50.48:115][640]LogWorld: Bringing up level for play took: 0.001564
+[2024.12.11-20.50.48:116][640]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2024.12.11-20.50.48:132][640]PIE: Server logged in
+[2024.12.11-20.50.48:134][640]PIE: Play in editor total start time 0.098 seconds.
+[2024.12.11-20.50.50:879][799]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2024.12.11-20.52.16:382][910]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.11-20.52.16:382][910]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.12.11-20.52.19:675][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-20.52.19:675][105]LogWorld: BeginTearingDown for /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.52.19:676][105]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-20.52.19:676][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-20.52.19:677][105]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-20.52.19:677][105]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-20.52.19:683][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.11-20.52.19:685][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-20.52.19:696][105]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.11-20.52.19:697][105]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.12.11-20.52.19:697][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.12.11-20.52.19:698][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.12.11-20.52.19:701][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-20.52.19:706][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.11-20.52.19:771][106]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.12.11-20.52.35:122][ 14]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HealthPack.BP_HealthPack_C
+[2024.12.11-20.52.35:122][ 14]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HealthPack.BP_HealthPack_C
+[2024.12.11-20.52.35:123][ 14]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_HealthPack_C_5
+[2024.12.11-20.52.35:124][ 14]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_HealthPack_C_5
+[2024.12.11-20.52.36:799][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.11-20.52.36:804][112]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2024.12.11-20.52.36:808][112]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HealthPack.BP_HealthPack_C
+[2024.12.11-20.52.36:808][112]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HealthPack.BP_HealthPack_C
+[2024.12.11-20.52.36:810][112]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_HealthPack_C_6
+[2024.12.11-20.52.36:811][112]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_HealthPack_C_6
+[2024.12.11-20.52.39:549][271]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HealthPack.BP_HealthPack_C
+[2024.12.11-20.52.39:550][271]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HealthPack.BP_HealthPack_C
+[2024.12.11-20.52.39:551][271]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_HealthPack_C_7
+[2024.12.11-20.52.39:552][271]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_HealthPack_C_7
+[2024.12.11-20.52.40:598][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.11-20.52.40:601][331]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2024.12.11-20.52.40:606][331]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HealthPack.BP_HealthPack_C
+[2024.12.11-20.52.40:606][331]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HealthPack.BP_HealthPack_C
+[2024.12.11-20.52.40:607][331]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_HealthPack_C_8
+[2024.12.11-20.52.40:608][331]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/Levels/MainLevels/Map2.Map2:PersistentLevel.BP_HealthPack_C_8
+[2024.12.11-20.52.42:793][461]LogEditorViewport: Clicking Background
+[2024.12.11-20.52.43:901][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-20.52.43:955][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.12.11-20.52.43:968][527]LogSavePackage: Moving output files for package: /Game/Levels/MainLevels/Map2
+[2024.12.11-20.52.43:968][527]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Map2303DED0B4F910F2841ADD49B11B10A71.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/MainLevels/Map2.umap'
+[2024.12.11-20.52.43:973][527]LogFileHelpers: Saving map 'Map2' took 0.042
+[2024.12.11-20.52.43:984][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.677 ms (total: 5.64 sec)
+[2024.12.11-20.52.44:020][527]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.11-20.52.44:020][527]LogContentValidation: Enabled validators:
+[2024.12.11-20.52.44:020][527]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-20.52.44:020][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-20.52.44:020][527]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-20.52.44:020][527]LogContentValidation: Display: Validating asset /Game/Levels/MainLevels/Map2.Map2
+[2024.12.11-20.52.44:020][527]AssetCheck: /Game/Levels/MainLevels/Map2 Validating asset
