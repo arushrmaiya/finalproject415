@@ -4354,3 +4354,19 @@ Script call stack:
 [2024.12.11-20.08.50:555][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
 [2024.12.11-20.08.50:568][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2024.12.11-20.08.50:627][278]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.12.11-20.10.25:455][404]Cmd: EDIT COPY
+[2024.12.11-20.10.27:728][503]Cmd: EDIT PASTE
+[2024.12.11-20.10.42:495][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-20.10.42:532][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthPack] ([2] browsable assets)...
+[2024.12.11-20.10.42:532][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthPack]
+[2024.12.11-20.10.42:532][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthPack" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_HealthPack.uasset" SILENT=true
+[2024.12.11-20.10.42:534][376]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthPack
+[2024.12.11-20.10.42:534][376]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_HealthPack52AB036943B4CCAE856A099B9A6326BD.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_HealthPack.uasset'
+[2024.12.11-20.10.42:549][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.099 ms (total: 3.74 sec)
+[2024.12.11-20.10.42:585][376]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.11-20.10.42:585][376]LogContentValidation: Enabled validators:
+[2024.12.11-20.10.42:585][376]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-20.10.42:585][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-20.10.42:585][376]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-20.10.42:585][376]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_HealthPack.BP_HealthPack
+[2024.12.11-20.10.42:587][376]AssetCheck: /Game/Blueprints/BP_HealthPack Validating asset
