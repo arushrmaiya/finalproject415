@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Sounds/death.uasset",
+				"/Users/1andre/Documents/GitHub/finalproject415/FinalProject/Content/Levels/MainLevels/Map4.umap",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset",
