@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/UI/WBP_PauseMenu.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Levels/MainMenu.umap",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/UI/WBP_MainMenu.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset",
@@ -211,12 +218,7 @@
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/blue-stars_Sprite.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/asteroid-2_Sprite.uasset",
 				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/asteroid-1_Sprite.uasset",
-				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset",
-				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset",
-				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset",
-				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset",
-				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset",
-				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/UI/WBP_PauseMenu.uasset"
+				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Player/BP_PlayerZD.uasset"
 			]
 		}
 	]
