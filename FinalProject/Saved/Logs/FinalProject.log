@@ -4223,3 +4223,134 @@ Script call stack:
 [2024.12.11-20.04.06:841][173]LogEditorTransaction: Undo Clicking on Actors
 [2024.12.11-20.04.08:003][233]Cmd: TRANSACTION UNDO
 [2024.12.11-20.04.08:004][233]LogEditorTransaction: Undo Attach actors
+[2024.12.11-20.05.59:017][593]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/AdditionalArt/health-green 32px.png)
+[2024.12.11-20.05.59:017][593]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.12.11-20.05.59:021][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-20.05.59:095][593]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdditionalArt/health-green_32px] ([1] browsable assets)...
+[2024.12.11-20.05.59:095][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdditionalArt/health-green_32px]
+[2024.12.11-20.05.59:095][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AdditionalArt/health-green_32px" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/AdditionalArt/health-green_32px.uasset" SILENT=true
+[2024.12.11-20.05.59:096][593]LogSavePackage: Moving output files for package: /Game/AdditionalArt/health-green_32px
+[2024.12.11-20.05.59:096][593]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/health-green_32pxC17111D242CF3191183852821866390A.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/AdditionalArt/health-green_32px.uasset'
+[2024.12.11-20.05.59:143][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.966 ms (total: 3.42 sec)
+[2024.12.11-20.05.59:262][594]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.11-20.05.59:262][594]LogContentValidation: Enabled validators:
+[2024.12.11-20.05.59:262][594]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-20.05.59:262][594]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-20.05.59:262][594]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-20.05.59:262][594]LogContentValidation: Display: Validating asset /Game/AdditionalArt/health-green_32px.health-green_32px
+[2024.12.11-20.05.59:262][594]AssetCheck: /Game/AdditionalArt/health-green_32px Validating asset
+[2024.12.11-20.06.02:156][760]AssetReimport: Importing new asset /Game/AdditionalArt/health-green_32px.
+[2024.12.11-20.06.11:742][328]LogTexture: Display: Building textures: /Game/AdditionalArt/health-green_32px.health-green_32px (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.12.11-20.06.16:215][582]LogSlate: Window 'Extract sprites' being destroyed
+[2024.12.11-20.06.17:425][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-20.06.17:510][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.11-20.06.17:519][654]LogSavePackage: Moving output files for package: /Game/Levels/MainLevels/Map2
+[2024.12.11-20.06.17:519][654]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/Map2C7C6A2EB46D1CB1A27C67CA14E67B6B4.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Levels/MainLevels/Map2.umap'
+[2024.12.11-20.06.17:524][654]LogFileHelpers: Saving map 'Map2' took 0.037
+[2024.12.11-20.06.17:536][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.203 ms (total: 3.53 sec)
+[2024.12.11-20.06.17:570][654]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.11-20.06.17:570][654]LogContentValidation: Enabled validators:
+[2024.12.11-20.06.17:570][654]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-20.06.17:570][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-20.06.17:570][654]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-20.06.17:571][654]LogContentValidation: Display: Validating asset /Game/Levels/MainLevels/Map2.Map2
+[2024.12.11-20.06.17:571][654]AssetCheck: /Game/Levels/MainLevels/Map2 Validating asset
+[2024.12.11-20.06.18:261][695]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-20.06.18:299][695]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdditionalArt/health-green_32px] ([1] browsable assets)...
+[2024.12.11-20.06.18:300][695]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AdditionalArt/health-green_32px.health-green_32px]
+[2024.12.11-20.06.18:300][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdditionalArt/health-green_32px]
+[2024.12.11-20.06.18:300][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AdditionalArt/health-green_32px" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/AdditionalArt/health-green_32px.uasset" SILENT=true
+[2024.12.11-20.06.18:301][695]LogSavePackage: Moving output files for package: /Game/AdditionalArt/health-green_32px
+[2024.12.11-20.06.18:302][695]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/health-green_32pxE1E996CE4EF800538283D7B0743624D4.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/AdditionalArt/health-green_32px.uasset'
+[2024.12.11-20.06.18:310][695]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.797 ms (total: 3.58 sec)
+[2024.12.11-20.06.18:336][695]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.11-20.06.18:336][695]LogContentValidation: Enabled validators:
+[2024.12.11-20.06.18:336][695]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-20.06.18:336][695]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-20.06.18:336][695]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-20.06.18:336][695]LogContentValidation: Display: Validating asset /Game/AdditionalArt/health-green_32px.health-green_32px
+[2024.12.11-20.06.18:336][695]AssetCheck: /Game/AdditionalArt/health-green_32px Validating asset
+[2024.12.11-20.06.19:007][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-20.06.19:043][735]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdditionalArt/health-green_32px_Sprite_0] ([1] browsable assets)...
+[2024.12.11-20.06.19:044][735]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AdditionalArt/health-green_32px_Sprite_0.health-green_32px_Sprite_0]
+[2024.12.11-20.06.19:044][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdditionalArt/health-green_32px_Sprite_0]
+[2024.12.11-20.06.19:046][735]LogSavePackage: Moving output files for package: /Game/AdditionalArt/health-green_32px_Sprite_0
+[2024.12.11-20.06.19:046][735]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/health-green_32px_Sprite_00F557736496932FBB21EFC8AF073AA2E.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/AdditionalArt/health-green_32px_Sprite_0.uasset'
+[2024.12.11-20.06.19:057][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.043 ms (total: 3.63 sec)
+[2024.12.11-20.06.19:094][735]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.11-20.06.19:094][735]LogContentValidation: Enabled validators:
+[2024.12.11-20.06.19:094][735]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-20.06.19:094][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-20.06.19:094][735]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-20.06.19:094][735]LogContentValidation: Display: Validating asset /Game/AdditionalArt/health-green_32px_Sprite_0.health-green_32px_Sprite_0
+[2024.12.11-20.06.19:094][735]AssetCheck: /Game/AdditionalArt/health-green_32px_Sprite_0 Validating asset
+[2024.12.11-20.06.34:944][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.11-20.06.34:982][674]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_HealthPack] ([2] browsable assets)...
+[2024.12.11-20.06.34:989][674]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_HealthPack.BP_HealthPack]
+[2024.12.11-20.06.34:989][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthPack]
+[2024.12.11-20.06.34:989][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthPack" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_HealthPack.uasset" SILENT=true
+[2024.12.11-20.06.34:993][674]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthPack
+[2024.12.11-20.06.34:994][674]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_HealthPackAB08294D43553E349F4FE68E289F3CEC.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/BP_HealthPack.uasset'
+[2024.12.11-20.06.35:005][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.860 ms (total: 3.69 sec)
+[2024.12.11-20.06.35:036][674]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.11-20.06.35:036][674]LogContentValidation: Enabled validators:
+[2024.12.11-20.06.35:036][674]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.11-20.06.35:036][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.11-20.06.35:036][674]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.11-20.06.35:036][674]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_HealthPack.BP_HealthPack
+[2024.12.11-20.06.35:036][674]AssetCheck: /Game/Blueprints/BP_HealthPack Validating asset
+[2024.12.11-20.06.44:072][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.11-20.08.20:216][501]LogSlate: Window 'Delete Component' being destroyed
+[2024.12.11-20.08.35:934][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.11-20.08.37:044][487]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.11-20.08.37:057][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.11-20.08.37:057][487]LogPlayLevel: Creating play world package: /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.08.37:059][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001923s)
+[2024.12.11-20.08.37:059][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevels/Map2.Map2 to /Game/Levels/MainLevels/UEDPIE_0_Map2.Map2 (0.001953s)
+[2024.12.11-20.08.37:067][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.11-20.08.37:069][487]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.11-20.08.37:070][487]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2024.12.11-20.08.37:086][487]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.12.11-20.08.37:086][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.11-20.08.37:086][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.11-20.08.37:086][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.11-20.08.37:086][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.11-20.08.37:086][487]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.11-20.08.37:086][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.11-20.08.37:086][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.11-20.08.37:086][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.11-20.08.37:086][487]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.11-20.08.37:086][487]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.11-20.08.37:086][487]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.11-20.08.37:088][487]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.11-20.08.37:123][487]LogAudioMixer: Display: Using Audio Hardware Device XF243Y P (NVIDIA High Definition Audio)
+[2024.12.11-20.08.37:124][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.11-20.08.37:124][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.11-20.08.37:124][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.11-20.08.37:124][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.12.11-20.08.37:124][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.12.11-20.08.37:125][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.12.11-20.08.37:125][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.12.11-20.08.37:125][487]LogInit: FAudioDevice initialized with ID 31.
+[2024.12.11-20.08.37:125][487]LogAudio: Display: Audio Device (ID: 31) registered with world 'Map2'.
+[2024.12.11-20.08.37:125][487]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.12.11-20.08.37:127][487]LogLoad: Game class is 'GM_TopDown_C'
+[2024.12.11-20.08.37:128][487]LogWorld: Bringing World /Game/Levels/MainLevels/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2024.12.11-14.08.37
+[2024.12.11-20.08.37:129][487]LogWorld: Bringing up level for play took: 0.001162
+[2024.12.11-20.08.37:130][487]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.12.11-20.08.37:148][487]PIE: Server logged in
+[2024.12.11-20.08.37:148][487]PIE: Play in editor total start time 0.099 seconds.
+[2024.12.11-20.08.50:523][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-20.08.50:523][277]LogWorld: BeginTearingDown for /Game/Levels/MainLevels/UEDPIE_0_Map2
+[2024.12.11-20.08.50:524][277]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2024.12.11-20.08.50:528][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-20.08.50:530][277]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.11-20.08.50:530][277]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.11-20.08.50:538][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.11-20.08.50:542][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.11-20.08.50:551][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.11-20.08.50:554][277]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.12.11-20.08.50:554][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.12.11-20.08.50:555][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.12.11-20.08.50:568][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.12.11-20.08.50:627][278]LogPlayLevel: Display: Destroying online subsystem :Context_52
