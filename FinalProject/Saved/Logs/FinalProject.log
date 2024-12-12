@@ -2269,3 +2269,18 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.12.12-00.19.26:490][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
 [2024.12.12-00.19.26:495][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2024.12.12-00.19.26:564][666]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.12.12-00.21.42:982][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.12-00.21.43:028][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_Boss] ([2] browsable assets)...
+[2024.12.12-00.21.43:028][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_Boss]
+[2024.12.12-00.21.43:028][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_Boss" FILE="C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/BP_Boss.uasset" SILENT=true
+[2024.12.12-00.21.43:038][822]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/BP_Boss
+[2024.12.12-00.21.43:039][822]LogSavePackage: Moving 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Saved/BP_Boss679A34944F73C42F123A9184E7E20853.tmp' to 'C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/Blueprints/Enemies/BP_Boss.uasset'
+[2024.12.12-00.21.43:051][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.212 ms (total: 1.56 sec)
+[2024.12.12-00.21.43:072][822]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.12-00.21.43:072][822]LogContentValidation: Enabled validators:
+[2024.12.12-00.21.43:072][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.12-00.21.43:072][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.12-00.21.43:072][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.12-00.21.43:072][822]LogContentValidation: Display: Validating asset /Game/Blueprints/Enemies/BP_Boss.BP_Boss
+[2024.12.12-00.21.43:072][822]AssetCheck: /Game/Blueprints/Enemies/BP_Boss Validating asset
+[2024.12.12-00.21.43:447][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
