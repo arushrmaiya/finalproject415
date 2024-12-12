@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
 	"version": 1,
 	"changelists": [
@@ -23,4 +24,26 @@
 			]
 		}
 	]
+=======
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_bullet.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Projectile/BP_Projectile.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Levels/MainLevels/BossMap.umap",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Triggers/BP_CamStop.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/BP_Boss.uasset",
+				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/Menus/GI_LevelSelect.uasset"
+			]
+		}
+	]
+>>>>>>> Stashed changes
 }
