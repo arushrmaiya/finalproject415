@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/arush/Documents/GitHub/finalproject415/FinalProject/Content/UI/Menus/GI_LevelSelect.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Player/2D/BP_PlayerZD.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_bullet.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_movinenemy.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_rotaturret.uasset",
+				"/Users/andrew/Downloads/CS415/finalproject415/FinalProject/Content/Blueprints/Enemies/bp_turret.uasset"
+			]
+		}
+	]
+}
